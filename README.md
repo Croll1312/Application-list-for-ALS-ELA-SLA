@@ -1,47 +1,128 @@
 <body>
     <h1>Application List</h1>
-    <ol>
-        <li>MindMate</li>
-        <li>Assistive Express</li>
-        <li>Sara App</li>
-        <li>ALS Therapy Development Institute</li>
-        <li>YOUCAT</li>
-        <li>ALS Assistive Technology</li>
-        <li>Eye-D Pro</li>
-        <li>Pictello</li>
-        <li>SwiftKey Keyboard</li>
-        <li>EVA Facial Mouse</li>
-        <li>Big Launcher</li>
-        <li>TalkBack</li>
-        <li>Voice Access</li>
-        <li>SpeechAssess</li>
-        <li>Look to Speak</li>
-        <li>OptiKey</li>
-        <li>Cleo</li>
-        <li>ME- Multiple Esclerosis</li>
-        <li>Control EM</li>
-        <li>EM Fighter</li>
-        <li>aempsCIMA</li>
-        <li>Multiple Sclerosis Dx & Mgmt</li>
-        <li>Mixiton</li>
-        <li>Emilyn</li>
-        <li>CareZone</li>
-        <li>Lumosity – Entrenador Cerebral</li>
-        <li>Momentum Magazine</li>
-        <li>MyMSTeam</li>
-        <li>Be Focused – Focus Timer</li>
-        <li>Multiple Sclerosis @POC</li>
-        <li>MS 3Dme</li>
-        <li>Bones, Joints and Muscles</li>
-        <li>Disabilty Calculator</li>
-        <li>MS Journal</li>
-        <li>Noteness</li>
-        <li>Cure MS</li>
-        <li>LET ME TALK</li>
-        <li>SYMBOTALK</li>
-        <li>ENESO VERBO</li>
-        <li>ASTERICS GRID</li>
-        <li>PICTOGRAMA AGENDA</li>
+    <ol>    
+    <li><a href = "">MindMate</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Assistive Express</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Sara App</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">ALS Therapy Development Institute</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">YOUCAT</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">ALS Assistive Technology</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Eye-D Pro</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Pictello</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">SwiftKey Keyboard</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">EVA Facial Mouse</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Big Launcher</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">TalkBack</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Voice Access</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">SpeechAssess</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Look to Speak</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">OptiKey</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Cleo</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">ME- Multiple Esclerosis</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Control EM</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">EM Fighter</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">aempsCIMA</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Multiple Sclerosis Dx & Mgmt</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Mixiton</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Emilyn</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">CareZone</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Lumosity – Entrenador Cerebral</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Momentum Magazine</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">MyMSTeam</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Be Focused – Focus Timer</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Multiple Sclerosis @POC</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">MS 3Dme</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Bones, Joints and Muscles</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Disabilty Calculator</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">MS Journal</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Noteness</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">Cure MS</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">LET ME TALK</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">SYMBOTALK</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">ENESO VERBO</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">ASTERICS GRID</a></li>
+    <p>More details in their official website.</p>
+    <br>
+    <li><a href = "">PICTOGRAMA AGENDA</a></li>
+    <p>More details in their official website.</p>
     </ol>
   
 I still working on this repository to helo everyone as well.
