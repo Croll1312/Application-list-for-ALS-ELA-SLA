@@ -1,5 +1,5 @@
 <body>
-    <h1>Application List</h1>
+    <h1>Application List for ALS uses (or ELA in spanish)</h1>
     <ol>    
     <li><a href = "https://www.mindmate-app.com/">MindMate</a></li>
     <p>More details in their official web site: https://www.mindmate-app.com/ </p>
