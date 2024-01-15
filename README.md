@@ -7,13 +7,13 @@
     <p>
     En cada inciso habrá un enlace que les dirigirá al sitio más adecuado para poder instalarla, capturas de pantallas sobre la aplicación (para que se puedan asegurar de haber instalado la correcta) y algunos detalles técnicos de interés para personas con conocimientos técnicos en informática.
     <p>
-    Se agradece que reporten cualquier enlace caído, recomendación de nuevas aplicaciones y/o otros problemas que encuentren vía Telegram al usuario: @croll1312.
+    Se agradece que reporten cualquier enlace caído, recomendación de nuevas aplicaciones y/o otros problemas que encuentren vía Telegram al usuario: <i><b>~@croll1312~</b></i>.
     <p>
 Este proyecto es sin fines de lucro, el único objetivo es colaborar con la inserción a la tecnología al sector poblacional afectado por los problemas relacionados con esta patología.
     <p>
 <i>Proyecto realizado por miembros de la comunidad de ciencias informáticas "WolfPunk IT".</i>
     <p>
-Lista de aplicaciones (Trabajando en la traduccion de los detalles).
+    <h3>***Lista de aplicaciones (Trabajando en la traduccion de los detalles).***</h3>
     <p>
     <br>
     </li>
@@ -24,13 +24,13 @@ Lista de aplicaciones (Trabajando en la traduccion de los detalles).
     <p>
     In each item, there will be a link that will direct you to the most suitable website to install it, screenshots of the application (to ensure that you have installed the correct one), and some technical details of interest for people with technical knowledge in computer science.
     <p>
-    Please report any broken links, recommendations for new applications, and/or other problems you find via Telegram to the user: @croll1312.
+    Please report any broken links, recommendations for new applications, and/or other problems you find via Telegram to the user: <i><b>~@croll1312~</b></i>.
     <p>
     This project is non-profit, the only objective is to collaborate with the integration of the affected population sector into technology related to this condition.
     <p>
 <i>Project carried out by members of the computer science community "WolfPunk IT".</i>
     <p>
-    <a href = "https://github.com/Croll1312/Application-list-for-ALS-ELA/blob/main/Application%20list%20for%20ALS%20people.md">Application list.</a>
+    <h3><a href = "https://github.com/Croll1312/Application-list-for-ALS-ELA/blob/main/Application%20list%20for%20ALS%20people.md">***Application list.***</a></h3>
     <p>
     <br>
     </li>
@@ -43,13 +43,13 @@ Lista de aplicaciones (Trabajando en la traduccion de los detalles).
     <p>
     Chaque point comprendra un lien vous dirigeant vers le site le plus approprié pour l'installation, des captures d'écran de l'application (afin de vous assurer d'avoir installé la bonne) et quelques détails techniques intéressants pour les personnes ayant des connaissances en informatique.
     <p>
-    Nous vous serions reconnaissants de signaler tout lien rompu, toute recommandation de nouvelles applications et/ou tout autre problème rencontré via Telegram à l'utilisateur : @croll1312.
+    Nous vous serions reconnaissants de signaler tout lien rompu, toute recommandation de nouvelles applications et/ou tout autre problème rencontré via Telegram à l'utilisateur : <i><b>~@croll1312~</b></i>.
     <p>
     Ce projet est à but non lucratif, son seul objectif est de faciliter l'accès à la technologie pour le secteur de la population touché par les problèmes liés à cette pathologie.
     <p>
-    Projet réalisé par des membres de la communauté informatique "WolfPunk IT".
+    <i>Projet réalisé par des membres de la communauté informatique "WolfPunk IT".</i>
     <p>
-    Lista de aplicaciones (Trabajando en la traduccion de los detalles). -> Liste des applications (En cours de traduction des détails).
+    <h3>***Liste des applications (En cours de traduction des détails).***</h3>
     <br>
     </li>
     <br>
@@ -63,13 +63,13 @@ Lista de aplicaciones (Trabajando en la traduccion de los detalles).
     <p>
     In ogni punto ci sarà un link che ti indirizzerà al sito più adatto per poterla installare, con screenshot dell'applicazione (per assicurarti di aver installato quella corretta) e alcuni dettagli tecnici di interesse per persone con conoscenze informatiche.
     <p>
-    Si apprezzano segnalazioni di eventuali link non funzionanti, suggerimenti per nuove applicazioni e/o altri problemi che riscontri tramite Telegram all'utente: @croll1312.
+    Si apprezzano segnalazioni di eventuali link non funzionanti, suggerimenti per nuove applicazioni e/o altri problemi che riscontri tramite Telegram all'utente: <i><b>~@croll1312~</b></i>.
     <p>
     Questo progetto non ha fini di lucro, l'unico obiettivo è collaborare con l'inclusione della tecnologia nel settore popolazione affetto dai problemi legati a questa patologia.
     <p>
-    Progetto realizzato da membri della comunità informatica "WolfPunk IT".
+    <i>Progetto realizzato da membri della comunità informatica "WolfPunk IT".</i>
     <p>
-    Elenco delle applicazioni (Lavorando sulla traduzione dei dettagli).
+    <h3>***Elenco delle applicazioni (Lavorando sulla traduzione dei dettagli).***</h3>
     <br>
     </li>
     </ol>
