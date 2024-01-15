@@ -35,41 +35,41 @@ Lista de aplicaciones (Trabajando en la traduccion de los detalles).
     <br>
     </li>
     <li><h2>Français:</h2>
-    Ce dépôt est destiné à répertorier les applications créées pour que les personnes atteintes de la sclérose latérale amyotrophique puissent utiliser différents appareils tels que des téléphones portables, des téléviseurs intelligents, des tablettes, etc.
-
-Avis important : les applications.
-
-En cliquant sur le lien "Liste des applications" ci-dessous, vous pourrez accéder à la liste numérotée, où vous trouverez une brève description de chaque application.
-
-Chaque point comprendra un lien vous dirigeant vers le site le plus approprié pour l'installation, des captures d'écran de l'application (afin de vous assurer d'avoir installé la bonne) et quelques détails techniques intéressants pour les personnes ayant des connaissances en informatique.
-
-Nous vous serions reconnaissants de signaler tout lien rompu, toute recommandation de nouvelles applications et/ou tout autre problème rencontré via Telegram à l'utilisateur : @croll1312.
-
-Ce projet est à but non lucratif, son seul objectif est de faciliter l'accès à la technologie pour le secteur de la population touché par les problèmes liés à cette pathologie.
-
-Projet réalisé par des membres de la communauté informatique "WolfPunk IT".
-
-Lista de aplicaciones (Trabajando en la traduccion de los detalles). -> Liste des applications (En cours de traduction des détails).
+    Ce dépôt est destiné à répertorier les applications créées pour que les personnes atteintes de la <a href = "https://www.ffn-neurologie.fr/grand-public/maladies/la-sclerose-laterale-amyotrophique-sla">La Sclérose Latérale Amyotrophique (SLA)</a> puissent utiliser différents appareils tels que des téléphones portables, des téléviseurs intelligents, des tablettes, etc.
+    <p>
+    Remarque importante : les candidatures sont majoritairement en anglais.
+    <p>
+    En cliquant sur le lien "Liste des applications" ci-dessous, vous pourrez accéder à la liste numérotée, où vous trouverez une brève description de chaque application.
+    <p>
+    Chaque point comprendra un lien vous dirigeant vers le site le plus approprié pour l'installation, des captures d'écran de l'application (afin de vous assurer d'avoir installé la bonne) et quelques détails techniques intéressants pour les personnes ayant des connaissances en informatique.
+    <p>
+    Nous vous serions reconnaissants de signaler tout lien rompu, toute recommandation de nouvelles applications et/ou tout autre problème rencontré via Telegram à l'utilisateur : @croll1312.
+    <p>
+    Ce projet est à but non lucratif, son seul objectif est de faciliter l'accès à la technologie pour le secteur de la population touché par les problèmes liés à cette pathologie.
+    <p>
+    Projet réalisé par des membres de la communauté informatique "WolfPunk IT".
+    <p>
+    Lista de aplicaciones (Trabajando en la traduccion de los detalles). -> Liste des applications (En cours de traduction des détails).
     <br>
     </li>
     <br>
     </li>
     <li><h2>Italiano:</h2>
-    Questo repository si concentra sull'elenco delle applicazioni create affinché le persone affette da sclerosi laterale amiotrofica possano utilizzare vari dispositivi come telefoni cellulari, smart TV, tablet, ecc.
-
-Avviso importante: le applicazioni
-
-Cliccando sul link "Lista delle applicazioni" di seguito dettagliato, potrai accedere all'elenco numerato, nel quale troverai una breve descrizione di ciascuna applicazione.
-
-In ogni punto ci sarà un link che ti indirizzerà al sito più adatto per poterla installare, con screenshot dell'applicazione (per assicurarti di aver installato quella corretta) e alcuni dettagli tecnici di interesse per persone con conoscenze informatiche.
-
-Si apprezzano segnalazioni di eventuali link non funzionanti, suggerimenti per nuove applicazioni e/o altri problemi che riscontri tramite Telegram all'utente: @croll1312.
-
-Questo progetto non ha fini di lucro, l'unico obiettivo è collaborare con l'inclusione della tecnologia nel settore popolazione affetto dai problemi legati a questa patologia.
-
-Progetto realizzato da membri della comunità informatica "WolfPunk IT".
-
-Elenco delle applicazioni (Lavorando sulla traduzione dei dettagli).
+    Questo repository si concentra sull'elenco delle applicazioni create affinché le persone affette da <a href = "https://www.my-personaltrainer.it/salute-benessere/sclerosi-laterale-amiotrofica.html">Sclerosi Laterale Amiotrofica (SLA)</a> possano utilizzare vari dispositivi come telefoni cellulari, smart TV, tablet, ecc.
+    <p>
+    Avviso importante: le applicazioni sono principalmente in inglese.
+    <p>
+    Cliccando sul link "Lista delle applicazioni" di seguito dettagliato, potrai accedere all'elenco numerato, nel quale troverai una breve descrizione di ciascuna applicazione.
+    <p>
+    In ogni punto ci sarà un link che ti indirizzerà al sito più adatto per poterla installare, con screenshot dell'applicazione (per assicurarti di aver installato quella corretta) e alcuni dettagli tecnici di interesse per persone con conoscenze informatiche.
+    <p>
+    Si apprezzano segnalazioni di eventuali link non funzionanti, suggerimenti per nuove applicazioni e/o altri problemi che riscontri tramite Telegram all'utente: @croll1312.
+    <p>
+    Questo progetto non ha fini di lucro, l'unico obiettivo è collaborare con l'inclusione della tecnologia nel settore popolazione affetto dai problemi legati a questa patologia.
+    <p>
+    Progetto realizzato da membri della comunità informatica "WolfPunk IT".
+    <p>
+    Elenco delle applicazioni (Lavorando sulla traduzione dei dettagli).
     <br>
     </li>
     </ol>
