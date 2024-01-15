@@ -13,28 +13,40 @@ Este proyecto es sin fines de lucro, el único objetivo es colaborar con la inse
     <p>
 <i>Proyecto realizado por miembros de la comunidad de ciencias informáticas "WolfPunk IT".</i>
     <p>
-Lista de aplicaciones
+Lista de aplicaciones (Trabajando en la traduccion de los detalles).
     <p>
     <br>
     </li>
     <li><h2>English:</h2>
-    This repository is focused on listing applications created so that people with ALS (Amyotrophic Lateral Sclerosis) can use different devices such as cell phones, smart TVs, tablets, etc.
-
-By entering the "List of applications" link detailed below you can go to the listed list, where you can find that in each of the points there will be a brief description of the application.
-
-In each section there will be a link that will direct you to the most appropriate site to install it, screenshots of the application (so you can make sure you have installed the correct one) and some technical details of interest to people with technical knowledge in computing.
-
-Please report any dead links, recommendations for new applications and/or other problems you encounter via Telegram to the user: @croll1312.
-
-This project is non-profit, the only objective is to collaborate with the insertion of technology into the population sector affected by the problems related to this pathology.
-
-Project carried out by members of the computer science community "WolfPunk IT".
+    This repository is focused on listing the applications created for people with <a href = "https://www.mayoclinic.org/diseases-conditions/amyotrophic-lateral-sclerosis/symptoms-causes/syc-20354022">ALS (Amyotrophic lateral sclerosis)</a> to use different devices such as mobile phones, smart TVs, tablets, etc.
+    <p>
+    By accessing the link "List of applications" detailed below, you can go to the enumerated list, where you can find a brief description of each application.
+    <p>
+    In each item, there will be a link that will direct you to the most suitable website to install it, screenshots of the application (to ensure that you have installed the correct one), and some technical details of interest for people with technical knowledge in computer science.
+    <p>
+    Please report any broken links, recommendations for new applications, and/or other problems you find via Telegram to the user: @croll1312.
+    <p>
+    This project is non-profit, the only objective is to collaborate with the integration of the affected population sector into technology related to this condition.
+    <p>
+<i>Project carried out by members of the computer science community "WolfPunk IT".</i>
     <p>
     <a href = "https://github.com/Croll1312/Application-list-for-ALS-ELA/blob/main/Application%20list%20for%20ALS%20people.md">Application list.</a>
     <p>
     <br>
     </li>
-    <li><h2>中文:</h2>
+    <li><h2>Português:</h2>
+    Este repositorio esta enfocado en listar las aplicaciones dirigidas a personas con <a href = "https://medlineplus.gov/spanish/ency/article/000688.htm">ELA (Esclerosis lateral amiotrófica</a>
+    <br>
+    </li>
+    <br>
+    </li>
+    <li><h2>Français:</h2>
+    Este repositorio esta enfocado en listar las aplicaciones dirigidas a personas con <a href = "https://medlineplus.gov/spanish/ency/article/000688.htm">ELA (Esclerosis lateral amiotrófica</a>
+    <br>
+    </li>
+    <br>
+    </li>
+    <li><h2>Italiano:</h2>
     Este repositorio esta enfocado en listar las aplicaciones dirigidas a personas con <a href = "https://medlineplus.gov/spanish/ency/article/000688.htm">ELA (Esclerosis lateral amiotrófica</a>
     <br>
     </li>
