@@ -1,7 +1,7 @@
 <body>
    <h1>Application List for ALS uses (or ELA in spanish)</h1>
    <ol>
-      <li><a href = "https://www.mindmate-app.com/">MindMate</a></li>
+      <li><a href = "https://www.mindmate-app.com/">MindMate:</a></li>
       <p>
          <i>
             The MindMate app offers you a daily activities plan that is helping you to keep your mind and body fit. Work out, discover delicious and healthy recipes, play games to keep your grey matter engaged and learn in videos and articles about what you can do to stay healthy while you're getting older.
@@ -15,7 +15,7 @@
          <img src="https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/348275769_272727068550088_8932947276398385359_n.png?_nc_cat=101&ccb=1-7&_nc_sid=783fdb&_nc_ohc=pp1yiD5Dh40AX_D1MdR&_nc_ht=scontent-fra3-1.xx&oh=00_AfA9zAPkiTWUiSyE7ZvVnvsbDJmImBnaWj6QZT1ZjLeqjQ&oe=65B0CDBF">
       <p>More details in their official web site: https://www.mindmate-app.com/ </p>
       <br>
-      <li><a href = "https://assistiveapps.com/">Assistive Express</a></li>
+      <li><a href = "https://assistiveapps.com/">Assistive Express:</a></li>
       <p>
          <i>
             The biggest challenge for users of AAC devices that have difficulty in speech is the amount of time it takes for a conversation to take place. Assistive Express is designed to be simple and efficient, allowing users to express their views and thoughts at the most express manner, with natural sounding voices.
@@ -38,7 +38,7 @@
          <img src="https://www.barrierefrei-kommunizieren.de/fileadmin/datenbank/user_upload/produkte/Assistive_Apps/AssistiveApps_AssisitveExpress.JPG">
       <p>More details in their official web site: https://assistivexpress.com/</p>
       <br>
-      <li><a href = "https://eye-d.in/">Eye-D Pro</a></li>
+      <li><a href = "https://eye-d.in/">Eye-D Pro:</a></li>
       <i>
          <p>Eye-D builds innovative solutions for the blind and Visually Impaired (VI). These solutions act as a true companion, helping them achieve independence in 3 major areas – Learning, Identification and Navigation.
          <p>
@@ -49,12 +49,12 @@
          <p>
       </i>
       <p>
-      <p><b>***Works on IOS/iPhone/Android***</b>
+      <p><b>***Works on IOS/iPhone/Android.***</b>
       <p>
          <img src="https://media.optometryweb.com/m/31/article/190900.jpg">
       <p>More details in their official web site: https://eye-d.in/ </p>
       <br>
-      <li><a href = "https://www.assistiveware.com/products/assistiveware/pictello">Pictello</a></li>
+      <li><a href = "https://www.assistiveware.com/products/assistiveware/pictello">Pictello:</a></li>
       <p>
          <i>
             Pictello offers more than 130 natural sounding Text to Speech voices including genuine children’s voices and speciality voices.
@@ -67,19 +67,19 @@
          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9RVUC8GIW3UPQfF--fvJ8YMRpcsz2DGK0QA&usqp=CAU">
       <p>More details in their official web site: https://www.assistiveware.com/products/assistiveware/pictello </p>
       <br>
-      <li><a href = "https://github.com/cmauri/eva_facial_mouse">EVA Facial Mouse</a></li>
+      <li><a href = "https://github.com/cmauri/eva_facial_mouse">EVA Facial Mouse:</a></li>
       <p>
          <i>
             Based on the movement of the face captured through the front camera, the app allows the user to control a pointer on the screen (i.e., like a mouse), which provides direct access to most elements of the user interface.
       <p>
       EVA is intended for those who cannot use a touchscreen. For instance, some people with amputations, cerebral palsy, spinal cord injury, muscular dystrophy, multiple sclerosis, amyotrophic lateral sclerosis (ALS) or other disabilities may benefit from this app.<p></i>
       <p>
-      <p><b>***Works on Android***</b>
+      <p><b>***Works on Android.***</b>
       <p>
          <img src="https://raw.githubusercontent.com/cmauri/eva_facial_mouse/develop/images/video.gif">
       <p>More details in their official web site: https://github.com/cmauri/eva_facial_mouse</p>
       <br>
-      <li><a href = "https://biglauncher.com/">Big Launcher</a></li>
+      <li><a href = "https://biglauncher.com/">Big Launcher:</a></li>
       <p>
          <i>
             ✔️ BIG Launcher makes the smartphone suitable for seniors, children, and people with eye diseases, motor problems or the legally blind.
@@ -87,71 +87,80 @@
       ✔️ Visually impaired and technically challenged users can use simple and easy-to-read interface with ease.<p>
       ✔️ There is no fear of making a mistake and losing everything with stress-free navigation. <p>
       ✔️ And it also features the SOS button which can save lives!<p>
-      🔹 high contrast color schemes and three different font sizes allow you to use your phone without glasses.<p>
-      🔹 additional color themes and icon packs are available for download<p>
-      🔹 extended support for Talkback screen reader allows legally blind users to use their phone with ease and confidence<p>
-      🔹 all the apps can also be controlled by a hardware keyboard or via the Tecla wheelchair interface, enabling users with paralysis to have full and precise control of the smartphone without touching the screen.<p>
+      🔹 High contrast color schemes and three different font sizes allow you to use your phone without glasses.<p>
+      🔹 Additional color themes and icon packs are available for download.<p>
+      🔹 Extended support for Talkback screen reader allows legally blind users to use their phone with ease and confidence.<p>
+      🔹 All the apps can also be controlled by a hardware keyboard or via the Tecla wheelchair interface, enabling users with paralysis to have full and precise control of the smartphone without touching the screen.<p>
       BIG Launcher is available in the following languages: հայերէն, azərbaycan dili, বাংলা , български, 简体中文, 繁體中文, hrvatski, česky, dansk, nederlands, english, eesti, suomi, français, deutsch, ελληνικά, halshen hausa, हिन्दी, magyar, bahasa indonesia, italiano, 日本語, basa jawa 한국어, kurdî, latviešu, lietuvių, bahasa melayu, norsk, polski, português, português brasileiro, ਪੰਜਾਬੀ, română, русский, српски, srpski, slovenčina, slovenščina, español, svenska, தமிழ், తెలుగు, ภาษาไทย, türkçe, українська мова, tiếng việt, العربية, עברית, فارسی, پن٘جابی, اُردُو
       </i>
       <p>
-      <p><b>***Works on Android***</b>
+      <p><b>***Works on Android.***</b>
       <p>
          <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg">
       <p>More details in their official web site: https://biglauncher.com/ 
       <p>
          <br>
-      <li><a href = "https://support.google.com/accessibility/android/answer/6283677?hl=en">TalkBack</a></li>
+      <li><a href = "https://support.google.com/accessibility/android/answer/6283677?hl=en">TalkBack:</a></li>
+         <p><i>Google Talkback is an accessibility service for the Android operating system that helps blind and visually impaired users to interact with their devices.<p>
+            It uses spoken words, vibration and other audible feedback to allow the user to know what is happening on the screen allowing the user to better interact with their device.
+            <p>The service is pre-installed on many Android devices, and it became part of the Android Accessibility Suite in 2017.
+               <p>According to the Google Play Store, the Android Accessibility Suite has been downloaded over five billion times, including devices that have the suite preinstalled.<p></i>
+                  <p>
+      <p><b>***Works on Android.***</b>
+         <p>
+                  <img src="https://cdn.mos.cms.futurecdn.net/bFzmSSF2J9BqCqNUfBypgL.jpg">
+      <p>
       <p>More details in their official web site: https://support.google.com/accessibility/android/answer/6283677?hl=en </p>
       <br>
-      <li><a href = "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess">Voice Access</a></li>
+      <li><a href = "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess">Voice Access:</a></li>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess </p>
       <br>
-      <li><a href = "https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess">SpeechAssess</a></li>
+      <li><a href = "https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess">SpeechAssess:</a></li>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess" </p>
       <br>
-      <li><a href = "https://looktospeak.com/">Look to Speak</a></li>
+      <li><a href = "https://looktospeak.com/">Look to Speak:</a></li>
       <p>More details in their official web site: https://looktospeak.com/ </p>
       <br>
-      <li><a href = "https://www.optikey.org/">OptiKey</a></li>
+      <li><a href = "https://www.optikey.org/">OptiKey:</a></li>
       <p>More details in their official web site: https://www.optikey.org/ </p>
       <br>
-      <li><a href = "https://play.google.com/store/apps/details?id=com.netfactorial.me.es">ME- Multiple Esclerosis</a></li>
+      <li><a href = "https://play.google.com/store/apps/details?id=com.netfactorial.me.es">ME- Multiple Esclerosis:</a></li>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.netfactorial.me.es </p>
       <br>
-      <li><a href = "https://cima.aemps.es/cima/publico/home.html">AempsCIMA</a></li>
+      <li><a href = "https://cima.aemps.es/cima/publico/home.html">AempsCIMA:</a></li>
       <p>More details in their official web site: https://cima.aemps.es/cima/publico/home.html </p>
       <br>
-      <li><a href = "http://www.mixiton.com/">Mixiton</a></li>
+      <li><a href = "http://www.mixiton.com/">Mixiton:</a></li>
       <p>More details in their official web site: http://www.mixiton.com/ </p>
       <br>
-      <li><a href = "https://www.carezone.com/">CareZone</a></li>
+      <li><a href = "https://www.carezone.com/">CareZone:</a></li>
       <p>More details in their official web site: https://www.carezone.com/ </p>
       <br>
-      <li><a href = "https://www.lumosity.com/">Lumosity – Entrenador Cerebral</a></li>
+      <li><a href = "https://www.lumosity.com/">Lumosity – Entrenador Cerebral:</a></li>
       <p>More details in their official web site: https://www.lumosity.com/ </p>
       <br>
-      <li><a href = "https://momentummagazineonline.com/">Momentum Magazine</a></li>
+      <li><a href = "https://momentummagazineonline.com/">Momentum Magazine:</a></li>
       <p>More details in their official web site: https://momentummagazineonline.com/ </p>
       <br>
-      <li><a href = "https://www.mymsteam.com/">MyMSTeam</a></li>
+      <li><a href = "https://www.mymsteam.com/">MyMSTeam:</a></li>
       <p>More details in their official web site: https://www.mymsteam.com/ </p>
       <br>
-      <li><a href = "https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953">Multiple Sclerosis @POC</a></li>
+      <li><a href = "https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953">Multiple Sclerosis @POC:</a></li>
       <p>More details in their official web site: https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953 </p>
       <br>
-      <li><a href = "https://apps.apple.com/us/app/noteness/id639289114">Noteness</a></li>
+      <li><a href = "https://apps.apple.com/us/app/noteness/id639289114">Noteness:</a></li>
       <p>More details in their official web site: https://apps.apple.com/us/app/noteness/id639289114 </p>
       <br>
-      <li><a href = "https://apps.apple.com/us/app/letmetalk/id919990138">LET ME TALK</a></li>
+      <li><a href = "https://apps.apple.com/us/app/letmetalk/id919990138">LET ME TALK:</a></li>
       <p>More details in their official web site: https://apps.apple.com/us/app/letmetalk/id919990138 </p>
       <br>
-      <li><a href = "https://www.symbotalk.com/">SYMBOTALK</a></li>
+      <li><a href = "https://www.symbotalk.com/">SYMBOTALK:</a></li>
       <p>More details in their official web site: https://www.symbotalk.com/ </p>
       <br>
-      <li><a href = "https://www.eneso.es/verbo/">ENESO VERBO</a></li>
+      <li><a href = "https://www.eneso.es/verbo/">ENESO VERBO:</a></li>
       <p>More details in their official web site: https://www.eneso.es/verbo/ </p>
       <br>
-      <li><a href = "https://play.google.com/store/apps/details?id=com.lorenzomoreno.pictogramagenda">PICTOGRAMA AGENDA</a></li>
+      <li><a href = "https://play.google.com/store/apps/details?id=com.lorenzomoreno.pictogramagenda">PICTOGRAMA AGENDA:</a></li>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.lorenzomoreno.pictogramagenda </p>
    </ol>
    <br>
