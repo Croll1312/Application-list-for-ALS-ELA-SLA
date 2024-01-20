@@ -60,11 +60,14 @@ All voices can be downloaded for FREE within the app.</i>
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9RVUC8GIW3UPQfF--fvJ8YMRpcsz2DGK0QA&usqp=CAU">
       <p>More details in their official web site: https://www.assistiveware.com/products/assistiveware/pictello </p>
       <br>
-      <li><a href = "https://www.microsoft.com/en-us/swiftkey">SwiftKey Keyboard</a></li>
-      <p>More details in their official web site: https://www.microsoft.com/en-us/swiftkey </p>
-      <br>
-      <li><a href = "https://www.cesarl.org/eva-facial-mouse/">EVA Facial Mouse</a></li>
-      <p>More details in their official web site: https://www.cesarl.org/eva-facial-mouse/ </p>
+      <li><a href = "https://github.com/cmauri/eva_facial_mouse">EVA Facial Mouse</a></li>
+      <p><i>Based on the movement of the face captured through the front camera, the app allows the user to control a pointer on the screen (i.e., like a mouse), which provides direct access to most elements of the user interface.<p>
+      EVA is intended for those who cannot use a touchscreen. For instance, some people with amputations, cerebral palsy, spinal cord injury, muscular dystrophy, multiple sclerosis, amyotrophic lateral sclerosis (ALS) or other disabilities may benefit from this app.<p></i>
+      <p>
+      <p><b>***Works on Android***</b>
+      <p>
+       <img src="https://raw.githubusercontent.com/cmauri/eva_facial_mouse/develop/images/video.gif">
+      <p>More details in their official web site: https://github.com/cmauri/eva_facial_mouse</p>
       <br>
       <li><a href = "https://biglauncher.com/">Big Launcher</a></li>
       <p>More details in their official web site: https://biglauncher.com/ </p>
