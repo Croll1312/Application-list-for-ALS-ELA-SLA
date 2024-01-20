@@ -113,9 +113,25 @@
       <p>More details in their official web site: https://support.google.com/accessibility/android/answer/6283677?hl=en </p>
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess">Voice Access:</a></li>
+      <p><i>Voice Access helps anyone who has difficulty manipulating a touch screen (e.g. due to paralysis, tremor, or temporary injury) use their Android device by voice.</i>
+                        <p>
+      <p><b>***Works on Android.***</b>
+         <p>
+                  <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg">
+      <p>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess </p>
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess">SpeechAssess:</a></li>
+      <p><i>This App is a closed, participant-only, research study with the intent to gather data for motor neuron degenerative diseases such as Amyotrophic Lateral Sclerosis (ALS), Parkinson's Disease, and others.
+         <p>For now, the functionality of the application is limited to speech data collection.
+            <p>They will disseminate this app to over 60 clinical sites to collect an initial set of data for analysis on the back-end.
+               <p>Eventually, the functionality of the app will be expanded to include outcome measures that track patient progress; however in order to do this, the app must be disseminated in its current form in order to collect data for algorithm calibration.
+            <p></i>
+      <p><b>***Works on IOS/iPhone/Android.***</b>
+                  <p>
+                  <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png">
+      <p>
+      <p>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess" </p>
       <br>
       <li><a href = "https://looktospeak.com/">Look to Speak:</a></li>
