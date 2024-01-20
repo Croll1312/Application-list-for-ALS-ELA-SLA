@@ -101,41 +101,56 @@
       <p>
          <br>
       <li><a href = "https://support.google.com/accessibility/android/answer/6283677?hl=en">TalkBack:</a></li>
-         <p><i>Google Talkback is an accessibility service for the Android operating system that helps blind and visually impaired users to interact with their devices.<p>
-            It uses spoken words, vibration and other audible feedback to allow the user to know what is happening on the screen allowing the user to better interact with their device.
-            <p>The service is pre-installed on many Android devices, and it became part of the Android Accessibility Suite in 2017.
-               <p>According to the Google Play Store, the Android Accessibility Suite has been downloaded over five billion times, including devices that have the suite preinstalled.<p></i>
-                  <p>
+      <p>
+         <i>
+            Google Talkback is an accessibility service for the Android operating system that helps blind and visually impaired users to interact with their devices.
+      <p>
+      It uses spoken words, vibration and other audible feedback to allow the user to know what is happening on the screen allowing the user to better interact with their device.
+      <p>The service is pre-installed on many Android devices, and it became part of the Android Accessibility Suite in 2017.
+      <p>According to the Google Play Store, the Android Accessibility Suite has been downloaded over five billion times, including devices that have the suite preinstalled.<p></i>
+      <p>
       <p><b>***Works on Android.***</b>
-         <p>
-                  <img src="https://cdn.mos.cms.futurecdn.net/bFzmSSF2J9BqCqNUfBypgL.jpg">
+      <p>
+         <img src="https://cdn.mos.cms.futurecdn.net/bFzmSSF2J9BqCqNUfBypgL.jpg">
       <p>
       <p>More details in their official web site: https://support.google.com/accessibility/android/answer/6283677?hl=en </p>
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess">Voice Access:</a></li>
       <p><i>Voice Access helps anyone who has difficulty manipulating a touch screen (e.g. due to paralysis, tremor, or temporary injury) use their Android device by voice.</i>
-                        <p>
+      <p>
       <p><b>***Works on Android.***</b>
-         <p>
-                  <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg">
+      <p>
+         <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg">
       <p>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess </p>
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess">SpeechAssess:</a></li>
-      <p><i>This App is a closed, participant-only, research study with the intent to gather data for motor neuron degenerative diseases such as Amyotrophic Lateral Sclerosis (ALS), Parkinson's Disease, and others.
-         <p>For now, the functionality of the application is limited to speech data collection.
-            <p>They will disseminate this app to over 60 clinical sites to collect an initial set of data for analysis on the back-end.
-               <p>Eventually, the functionality of the app will be expanded to include outcome measures that track patient progress; however in order to do this, the app must be disseminated in its current form in order to collect data for algorithm calibration.
-            <p></i>
+      <p>
+         <i>
+            This App is a closed, participant-only, research study with the intent to gather data for motor neuron degenerative diseases such as Amyotrophic Lateral Sclerosis (ALS), Parkinson's Disease, and others.
+      <p>For now, the functionality of the application is limited to speech data collection.
+      <p>They will disseminate this app to over 60 clinical sites to collect an initial set of data for analysis on the back-end.
+      <p>Eventually, the functionality of the app will be expanded to include outcome measures that track patient progress; however in order to do this, the app must be disseminated in its current form in order to collect data for algorithm calibration.
+      <p></i>
       <p><b>***Works on IOS/iPhone/Android.***</b>
-                  <p>
-                  <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png">
+      <p>
+         <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png">
       <p>
       <p>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess" </p>
       <br>
-      <li><a href = "https://looktospeak.com/">Look to Speak:</a></li>
-      <p>More details in their official web site: https://looktospeak.com/ </p>
+      <li><a href = "https://experiments.withgoogle.com/looktospeak">Look to Speak:</a></li>
+      <p>
+         <i>
+            An Android app which enables people to use their eyes to select pre-written phrases and have them spoken aloud.
+      <p>Launch experiment Collections: Start With One AI Experiments Getting started with Look to Speak Start with Sarah Ezekiel Sarah Ezekiel is an artist, who was diagnosed with motor neurone disease in 2000.<p></i>
+      <p>
+      <p><b>***Works on Android.***</b>
+      <p>
+         <img src="https://lh3.googleusercontent.com/OhaTD2FcdRkk7Qq741qVD-VWC4OIz11o-2IChz3hASsrrRNIpVpbUBFiMHLGrGAVcoEMccTEGnqbYS1_aInZLeemtZI">
+      <p>
+      <p>
+      <p>More details in their official web site: https://experiments.withgoogle.com/looktospeak </p>
       <br>
       <li><a href = "https://www.optikey.org/">OptiKey:</a></li>
       <p>More details in their official web site: https://www.optikey.org/ </p>
