@@ -39,39 +39,67 @@
       <p>More details in their official web site: https://assistivexpress.com/</p>
       <br>
       <li><a href = "https://eye-d.in/">Eye-D Pro</a></li>
-       <i><p>Eye-D builds innovative solutions for the blind and Visually Impaired (VI). These solutions act as a true companion, helping them achieve independence in 3 major areas – Learning, Identification and Navigation.<p>
-           <p>
-Eye-D was built on the foundations of using technology as means for building solutions that act as a true companion for the Blind & VI in all facets of life.
-              <p>Solutions that not only help them achieve daily chores but also makes the world more accessible for them. The two of our solutions that have created a new era of hope are Eye-D app and Eye-D Smart Glass.
-                 <p>Bolstered by the impact of our innovative and affordable solutions, we keep on researching towards newer solutions that can help the Blind community at large.<p></i>
-             <p>
+      <i>
+         <p>Eye-D builds innovative solutions for the blind and Visually Impaired (VI). These solutions act as a true companion, helping them achieve independence in 3 major areas – Learning, Identification and Navigation.
+         <p>
+         <p>
+            Eye-D was built on the foundations of using technology as means for building solutions that act as a true companion for the Blind & VI in all facets of life.
+         <p>Solutions that not only help them achieve daily chores but also makes the world more accessible for them. The two of our solutions that have created a new era of hope are Eye-D app and Eye-D Smart Glass.
+         <p>Bolstered by the impact of our innovative and affordable solutions, we keep on researching towards newer solutions that can help the Blind community at large.
+         <p>
+      </i>
+      <p>
       <p><b>***Works on IOS/iPhone/Android***</b>
       <p>
-       <img src="https://media.optometryweb.com/m/31/article/190900.jpg">
+         <img src="https://media.optometryweb.com/m/31/article/190900.jpg">
       <p>More details in their official web site: https://eye-d.in/ </p>
       <br>
       <li><a href = "https://www.assistiveware.com/products/assistiveware/pictello">Pictello</a></li>
-         <p><i>Pictello offers more than 130 natural sounding Text to Speech voices including genuine children’s voices and speciality voices.<p>
-There are voices in 21 languages - English, Arabic, Catalan, Chinese, Czech Danish, Dutch, Finnish, French, German, Greek, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish and Turkish.<p>
-All voices can be downloaded for FREE within the app.</i>
+      <p>
+         <i>
+            Pictello offers more than 130 natural sounding Text to Speech voices including genuine children’s voices and speciality voices.
+      <p>
+      There are voices in 21 languages - English, Arabic, Catalan, Chinese, Czech Danish, Dutch, Finnish, French, German, Greek, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish and Turkish.<p>
+      All voices can be downloaded for FREE within the app.</i>
       <p>
       <p><b>***Works on Apple/IOS/iPhone/iPad.***</b>
       <p>
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9RVUC8GIW3UPQfF--fvJ8YMRpcsz2DGK0QA&usqp=CAU">
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9RVUC8GIW3UPQfF--fvJ8YMRpcsz2DGK0QA&usqp=CAU">
       <p>More details in their official web site: https://www.assistiveware.com/products/assistiveware/pictello </p>
       <br>
       <li><a href = "https://github.com/cmauri/eva_facial_mouse">EVA Facial Mouse</a></li>
-      <p><i>Based on the movement of the face captured through the front camera, the app allows the user to control a pointer on the screen (i.e., like a mouse), which provides direct access to most elements of the user interface.<p>
+      <p>
+         <i>
+            Based on the movement of the face captured through the front camera, the app allows the user to control a pointer on the screen (i.e., like a mouse), which provides direct access to most elements of the user interface.
+      <p>
       EVA is intended for those who cannot use a touchscreen. For instance, some people with amputations, cerebral palsy, spinal cord injury, muscular dystrophy, multiple sclerosis, amyotrophic lateral sclerosis (ALS) or other disabilities may benefit from this app.<p></i>
       <p>
       <p><b>***Works on Android***</b>
       <p>
-       <img src="https://raw.githubusercontent.com/cmauri/eva_facial_mouse/develop/images/video.gif">
+         <img src="https://raw.githubusercontent.com/cmauri/eva_facial_mouse/develop/images/video.gif">
       <p>More details in their official web site: https://github.com/cmauri/eva_facial_mouse</p>
       <br>
       <li><a href = "https://biglauncher.com/">Big Launcher</a></li>
-      <p>More details in their official web site: https://biglauncher.com/ </p>
-      <br>
+      <p>
+         <i>
+            ✔️ BIG Launcher makes the smartphone suitable for seniors, children, and people with eye diseases, motor problems or the legally blind.
+      <p>
+      ✔️ Visually impaired and technically challenged users can use simple and easy-to-read interface with ease.<p>
+      ✔️ There is no fear of making a mistake and losing everything with stress-free navigation. <p>
+      ✔️ And it also features the SOS button which can save lives!<p>
+      🔹 high contrast color schemes and three different font sizes allow you to use your phone without glasses.<p>
+      🔹 additional color themes and icon packs are available for download<p>
+      🔹 extended support for Talkback screen reader allows legally blind users to use their phone with ease and confidence<p>
+      🔹 all the apps can also be controlled by a hardware keyboard or via the Tecla wheelchair interface, enabling users with paralysis to have full and precise control of the smartphone without touching the screen.<p>
+      BIG Launcher is available in the following languages: հայերէն, azərbaycan dili, বাংলা , български, 简体中文, 繁體中文, hrvatski, česky, dansk, nederlands, english, eesti, suomi, français, deutsch, ελληνικά, halshen hausa, हिन्दी, magyar, bahasa indonesia, italiano, 日本語, basa jawa 한국어, kurdî, latviešu, lietuvių, bahasa melayu, norsk, polski, português, português brasileiro, ਪੰਜਾਬੀ, română, русский, српски, srpski, slovenčina, slovenščina, español, svenska, தமிழ், తెలుగు, ภาษาไทย, türkçe, українська мова, tiếng việt, العربية, עברית, فارسی, پن٘جابی, اُردُو
+      </i>
+      <p>
+      <p><b>***Works on Android***</b>
+      <p>
+         <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg">
+      <p>More details in their official web site: https://biglauncher.com/ 
+      <p>
+         <br>
       <li><a href = "https://support.google.com/accessibility/android/answer/6283677?hl=en">TalkBack</a></li>
       <p>More details in their official web site: https://support.google.com/accessibility/android/answer/6283677?hl=en </p>
       <br>
