@@ -25,6 +25,7 @@ The favorite list and the recent list help provide quick access to commonly or r
 <p>
     </i><p>
                 <p><b>***Works on Apple/IOS/iPhone/iPad.***</b><p>
+            <img src="https://www.barrierefrei-kommunizieren.de/fileadmin/datenbank/user_upload/produkte/Assistive_Apps/AssistiveApps_AssisitveExpress.JPG">
     <p>More details in their official web site: https://assistivexpress.com/</p>
     <br>
     <li><a href = "https://www.saraapp.com/">Sara App</a></li>
