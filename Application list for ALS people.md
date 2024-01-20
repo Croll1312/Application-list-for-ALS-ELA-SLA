@@ -41,7 +41,9 @@
       <li><a href = "https://eye-d.in/">Eye-D Pro</a></li>
        <i><p>Eye-D builds innovative solutions for the blind and Visually Impaired (VI). These solutions act as a true companion, helping them achieve independence in 3 major areas – Learning, Identification and Navigation.<p>
            <p>
-Eye-D was built on the foundations of using technology as means for building solutions that act as a true companion for the Blind & VI in all facets of life. Solutions that not only help them achieve daily chores but also makes the world more accessible for them. The two of our solutions that have created a new era of hope are Eye-D app and Eye-D Smart Glass. Bolstered by the impact of our innovative and affordable solutions, we keep on researching towards newer solutions that can help the Blind community at large.<p></i>
+Eye-D was built on the foundations of using technology as means for building solutions that act as a true companion for the Blind & VI in all facets of life.
+              <p>Solutions that not only help them achieve daily chores but also makes the world more accessible for them. The two of our solutions that have created a new era of hope are Eye-D app and Eye-D Smart Glass.
+                 <p>Bolstered by the impact of our innovative and affordable solutions, we keep on researching towards newer solutions that can help the Blind community at large.<p></i>
              <p>
       <p><b>***Works on IOS/iPhone/Android***</b>
       <p>
@@ -49,6 +51,13 @@ Eye-D was built on the foundations of using technology as means for building sol
       <p>More details in their official web site: https://eye-d.in/ </p>
       <br>
       <li><a href = "https://www.assistiveware.com/products/assistiveware/pictello">Pictello</a></li>
+         <p><i>Pictello offers more than 130 natural sounding Text to Speech voices including genuine children’s voices and speciality voices.<p>
+There are voices in 21 languages - English, Arabic, Catalan, Chinese, Czech Danish, Dutch, Finnish, French, German, Greek, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish and Turkish.<p>
+All voices can be downloaded for FREE within the app.</i>
+      <p>
+      <p><b>***Works on Apple/IOS/iPhone/iPad.***</b>
+      <p>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9RVUC8GIW3UPQfF--fvJ8YMRpcsz2DGK0QA&usqp=CAU">
       <p>More details in their official web site: https://www.assistiveware.com/products/assistiveware/pictello </p>
       <br>
       <li><a href = "https://www.microsoft.com/en-us/swiftkey">SwiftKey Keyboard</a></li>
