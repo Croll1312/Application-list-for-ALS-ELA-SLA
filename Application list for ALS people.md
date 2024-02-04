@@ -12,7 +12,7 @@
       <p>
       <p><b>***Works on Apple/IOS/iPhone and Desktop/PC.***</b>
       <p>
-         <img src="https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/348275769_272727068550088_8932947276398385359_n.png?_nc_cat=101&ccb=1-7&_nc_sid=783fdb&_nc_ohc=pp1yiD5Dh40AX_D1MdR&_nc_ht=scontent-fra3-1.xx&oh=00_AfA9zAPkiTWUiSyE7ZvVnvsbDJmImBnaWj6QZT1ZjLeqjQ&oe=65B0CDBF">
+         <img src="https://startacus.net/uploads/image/mindmate%20app%20screen-min.png" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://www.feneticwellbeing.com/media/wysiwyg/blog/Screen-Shot-2017-07-21-at-17.15.54.png" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://bridgingapps.org/wp-content/uploads/2021/11/MindMate2.png" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>More details in their official web site: https://www.mindmate-app.com/ </p>
       <br>
       <li><a href = "https://assistiveapps.com/">Assistive Express:</a></li>
@@ -35,7 +35,7 @@
       <p>
       <p><b>***Works on Apple/IOS/iPhone/iPad.***</b>
       <p>
-         <img src="https://www.barrierefrei-kommunizieren.de/fileadmin/datenbank/user_upload/produkte/Assistive_Apps/AssistiveApps_AssisitveExpress.JPG">
+         <img src="https://www.barrierefrei-kommunizieren.de/fileadmin/datenbank/user_upload/produkte/Assistive_Apps/AssistiveApps_AssisitveExpress.JPG" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
       <p>More details in their official web site: https://assistivexpress.com/</p>
       <br>
       <li><a href = "https://eye-d.in/">Eye-D Pro:</a></li>
@@ -51,7 +51,7 @@
       <p>
       <p><b>***Works on IOS/iPhone/Android.***</b>
       <p>
-         <img src="https://media.optometryweb.com/m/31/article/190900.jpg">
+         <img src="https://media.optometryweb.com/m/31/article/190900.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
       <p>More details in their official web site: https://eye-d.in/ </p>
       <br>
       <li><a href = "https://www.assistiveware.com/products/assistiveware/pictello">Pictello:</a></li>
@@ -64,7 +64,7 @@
       <p>
       <p><b>***Works on Apple/IOS/iPhone/iPad.***</b>
       <p>
-         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9RVUC8GIW3UPQfF--fvJ8YMRpcsz2DGK0QA&usqp=CAU">
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9RVUC8GIW3UPQfF--fvJ8YMRpcsz2DGK0QA&usqp=CAU" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
       <p>More details in their official web site: https://www.assistiveware.com/products/assistiveware/pictello </p>
       <br>
       <li><a href = "https://github.com/cmauri/eva_facial_mouse">EVA Facial Mouse:</a></li>
@@ -96,7 +96,7 @@
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg">
+         <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
       <p>More details in their official web site: https://biglauncher.com/ 
       <p>
          <br>
@@ -111,7 +111,7 @@
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://cdn.mos.cms.futurecdn.net/bFzmSSF2J9BqCqNUfBypgL.jpg">
+         <img src="https://cdn.mos.cms.futurecdn.net/bFzmSSF2J9BqCqNUfBypgL.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
       <p>
       <p>More details in their official web site: https://support.google.com/accessibility/android/answer/6283677?hl=en </p>
       <br>
@@ -120,7 +120,7 @@
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg">
+         <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
       <p>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess </p>
       <br>
@@ -134,7 +134,7 @@
       <p></i>
       <p><b>***Works on IOS/iPhone/Android.***</b>
       <p>
-         <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png">
+         <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
       <p>
       <p>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess" </p>
@@ -147,7 +147,7 @@
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://lh3.googleusercontent.com/OhaTD2FcdRkk7Qq741qVD-VWC4OIz11o-2IChz3hASsrrRNIpVpbUBFiMHLGrGAVcoEMccTEGnqbYS1_aInZLeemtZI">
+         <img src="https://lh3.googleusercontent.com/OhaTD2FcdRkk7Qq741qVD-VWC4OIz11o-2IChz3hASsrrRNIpVpbUBFiMHLGrGAVcoEMccTEGnqbYS1_aInZLeemtZI" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
       <p>
       <p>
       <p>More details in their official web site: https://experiments.withgoogle.com/looktospeak </p>
