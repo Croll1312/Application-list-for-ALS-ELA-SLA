@@ -35,7 +35,7 @@
       <p>
       <p><b>***Works on Apple/IOS/iPhone/iPad.***</b>
       <p>
-         <img src="https://www.barrierefrei-kommunizieren.de/fileadmin/datenbank/user_upload/produkte/Assistive_Apps/AssistiveApps_AssisitveExpress.JPG" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
+         <img src="https://www.barrierefrei-kommunizieren.de/fileadmin/datenbank/user_upload/produkte/Assistive_Apps/AssistiveApps_AssisitveExpress.JPG" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://www.keyguardat.com/product_images/uploaded_images/screenshot.png" alt="Segunda imagen muestra de la aplicacion" style="width: 600px;">
       <p>More details in their official web site: https://assistivexpress.com/</p>
       <br>
       <li><a href = "https://eye-d.in/">Eye-D Pro:</a></li>
@@ -51,33 +51,8 @@
       <p>
       <p><b>***Works on IOS/iPhone/Android.***</b>
       <p>
-         <img src="https://media.optometryweb.com/m/31/article/190900.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
+         <img src="https://media.optometryweb.com/m/31/article/190900.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://eye-d.in/wp-content/uploads/2020/05/Untitled-design-2.png" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://i.ytimg.com/vi/imIirOk1WEQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQor7TwgDjlXcy92uhub_dAf3Zng" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>More details in their official web site: https://eye-d.in/ </p>
-      <br>
-      <li><a href = "https://www.assistiveware.com/products/assistiveware/pictello">Pictello:</a></li>
-      <p>
-         <i>
-            Pictello offers more than 130 natural sounding Text to Speech voices including genuine children’s voices and speciality voices.
-      <p>
-      There are voices in 21 languages - English, Arabic, Catalan, Chinese, Czech Danish, Dutch, Finnish, French, German, Greek, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish and Turkish.<p>
-      All voices can be downloaded for FREE within the app.</i>
-      <p>
-      <p><b>***Works on Apple/IOS/iPhone/iPad.***</b>
-      <p>
-         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9RVUC8GIW3UPQfF--fvJ8YMRpcsz2DGK0QA&usqp=CAU" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
-      <p>More details in their official web site: https://www.assistiveware.com/products/assistiveware/pictello </p>
-      <br>
-      <li><a href = "https://github.com/cmauri/eva_facial_mouse">EVA Facial Mouse:</a></li>
-      <p>
-         <i>
-            Based on the movement of the face captured through the front camera, the app allows the user to control a pointer on the screen (i.e., like a mouse), which provides direct access to most elements of the user interface.
-      <p>
-      EVA is intended for those who cannot use a touchscreen. For instance, some people with amputations, cerebral palsy, spinal cord injury, muscular dystrophy, multiple sclerosis, amyotrophic lateral sclerosis (ALS) or other disabilities may benefit from this app.<p></i>
-      <p>
-      <p><b>***Works on Android.***</b>
-      <p>
-         <img src="https://raw.githubusercontent.com/cmauri/eva_facial_mouse/develop/images/video.gif">
-      <p>More details in their official web site: https://github.com/cmauri/eva_facial_mouse</p>
       <br>
       <li><a href = "https://biglauncher.com/">Big Launcher:</a></li>
       <p>
@@ -96,7 +71,7 @@
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
+         <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://biglauncher.com/screens/en/s06.png" alt="Segunda imagen muestra de la aplicacion" style="width: 100px;"> <img src="https://biglauncher.com/screens/en/s07.png" alt="Tercera imagen muestra de la aplicacion" style="width: 100px;">
       <p>More details in their official web site: https://biglauncher.com/ 
       <p>
          <br>
@@ -111,16 +86,18 @@
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://cdn.mos.cms.futurecdn.net/bFzmSSF2J9BqCqNUfBypgL.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
+         <img src="https://cdn.mos.cms.futurecdn.net/bFzmSSF2J9BqCqNUfBypgL.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://www.lifewire.com/thmb/_DepZuINPl5uUf8_OYshp4eVp64=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_Talkback_On-819dc1a92c784cab882904cf19d911e9.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://sbenny.com/images/androidgameimage_ghi/xsbenny.com_google_talkback.jpg.pagespeed.ic.KhsC9ao1Vs.webp" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>
       <p>More details in their official web site: https://support.google.com/accessibility/android/answer/6283677?hl=en </p>
+      <p>How to Set up and Use Android's Talkback App: https://www.lifewire.com/how-to-use-android-talkback-app-4769904
+      </p>
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess">Voice Access:</a></li>
       <p><i>Voice Access helps anyone who has difficulty manipulating a touch screen (e.g. due to paralysis, tremor, or temporary injury) use their Android device by voice.</i>
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
+         <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://images.fonearena.com/blog/wp-content/uploads/2016/04/Google-Voice-Access-app-2.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201810/voice_access.jpeg" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess </p>
       <br>
@@ -134,7 +111,7 @@
       <p></i>
       <p><b>***Works on IOS/iPhone/Android.***</b>
       <p>
-         <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
+         <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://media.bizj.us/view/img/11444183/speech-assess-app-report-web*1200xx3983-2240-0-0.png" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/3d/d0/273dd0b2-59c1-0a1b-7e08-6fea1ff2977e/pr_source.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 300px;">
       <p>
       <p>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess" </p>
@@ -147,7 +124,7 @@
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://lh3.googleusercontent.com/OhaTD2FcdRkk7Qq741qVD-VWC4OIz11o-2IChz3hASsrrRNIpVpbUBFiMHLGrGAVcoEMccTEGnqbYS1_aInZLeemtZI" alt="Primer imagen muestra de la aplicacion" style="width: 300px;">
+         <img src="https://lh3.googleusercontent.com/OhaTD2FcdRkk7Qq741qVD-VWC4OIz11o-2IChz3hASsrrRNIpVpbUBFiMHLGrGAVcoEMccTEGnqbYS1_aInZLeemtZI" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://recodehive.com/wp-content/uploads/2020/12/Blue-Sweet-Tooth-Blog-Banner-3-1024x576.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kTcRQv1SG9YPh-Rv-D_M9ST8kqxUmwif_A&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 300px;">
       <p>
       <p>
       <p>More details in their official web site: https://experiments.withgoogle.com/looktospeak </p>
