@@ -12,7 +12,7 @@
       <p>
       <p><b>***Works on Apple/IOS/iPhone and Desktop/PC.***</b>
       <p>
-         <img src="https://startacus.net/uploads/image/mindmate%20app%20screen-min.png" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://www.feneticwellbeing.com/media/wysiwyg/blog/Screen-Shot-2017-07-21-at-17.15.54.png" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://bridgingapps.org/wp-content/uploads/2021/11/MindMate2.png" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
+         <img src="https://startacus.net/uploads/image/mindmate%20app%20screen-min.png" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://www.feneticwellbeing.com/media/wysiwyg/blog/Screen-Shot-2017-07-21-at-17.15.54.png" alt="Segunda imagen muestra de la aplicacion" style="width: 370px;"> <img src="https://bridgingapps.org/wp-content/uploads/2021/11/MindMate2.png" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>More details in their official web site: https://www.mindmate-app.com/ </p>
       <br>
       <li><a href = "https://assistiveapps.com/">Assistive Express:</a></li>
@@ -35,7 +35,7 @@
       <p>
       <p><b>***Works on Apple/IOS/iPhone/iPad.***</b>
       <p>
-         <img src="https://www.barrierefrei-kommunizieren.de/fileadmin/datenbank/user_upload/produkte/Assistive_Apps/AssistiveApps_AssisitveExpress.JPG" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://www.keyguardat.com/product_images/uploaded_images/screenshot.png" alt="Segunda imagen muestra de la aplicacion" style="width: 600px;">
+         <img src="https://www.barrierefrei-kommunizieren.de/fileadmin/datenbank/user_upload/produkte/Assistive_Apps/AssistiveApps_AssisitveExpress.JPG" alt="Primer imagen muestra de la aplicacion" style="width: 250px;"> <img src="https://www.keyguardat.com/product_images/uploaded_images/screenshot.png" alt="Segunda imagen muestra de la aplicacion" style="width: 360px;">
       <p>More details in their official web site: https://assistivexpress.com/</p>
       <br>
       <li><a href = "https://eye-d.in/">Eye-D Pro:</a></li>
@@ -51,7 +51,7 @@
       <p>
       <p><b>***Works on IOS/iPhone/Android.***</b>
       <p>
-         <img src="https://media.optometryweb.com/m/31/article/190900.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://eye-d.in/wp-content/uploads/2020/05/Untitled-design-2.png" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://i.ytimg.com/vi/imIirOk1WEQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQor7TwgDjlXcy92uhub_dAf3Zng" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
+         <img src="https://media.optometryweb.com/m/31/article/190900.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://eye-d.in/wp-content/uploads/2020/05/Untitled-design-2.png" alt="Segunda imagen muestra de la aplicacion" style="width: 465px;"> <img src="https://i.ytimg.com/vi/imIirOk1WEQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQor7TwgDjlXcy92uhub_dAf3Zng" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>More details in their official web site: https://eye-d.in/ </p>
       <br>
       <li><a href = "https://biglauncher.com/">Big Launcher:</a></li>
@@ -71,7 +71,7 @@
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://biglauncher.com/screens/en/s06.png" alt="Segunda imagen muestra de la aplicacion" style="width: 100px;"> <img src="https://biglauncher.com/screens/en/s07.png" alt="Tercera imagen muestra de la aplicacion" style="width: 100px;">
+         <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://biglauncher.com/screens/en/s06.png" alt="Segunda imagen muestra de la aplicacion" style="width: 150px;"> <img src="https://biglauncher.com/screens/en/s07.png" alt="Tercera imagen muestra de la aplicacion" style="width: 150px;">
       <p>More details in their official web site: https://biglauncher.com/ 
       <p>
          <br>
@@ -86,7 +86,7 @@
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://cdn.mos.cms.futurecdn.net/bFzmSSF2J9BqCqNUfBypgL.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://www.lifewire.com/thmb/_DepZuINPl5uUf8_OYshp4eVp64=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_Talkback_On-819dc1a92c784cab882904cf19d911e9.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://sbenny.com/images/androidgameimage_ghi/xsbenny.com_google_talkback.jpg.pagespeed.ic.KhsC9ao1Vs.webp" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
+         <img src="https://cdn.mos.cms.futurecdn.net/bFzmSSF2J9BqCqNUfBypgL.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://www.lifewire.com/thmb/_DepZuINPl5uUf8_OYshp4eVp64=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_Talkback_On-819dc1a92c784cab882904cf19d911e9.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 350px;"> <img src="https://sbenny.com/images/androidgameimage_ghi/xsbenny.com_google_talkback.jpg.pagespeed.ic.KhsC9ao1Vs.webp" alt="Tercera imagen muestra de la aplicacion" style="width: 300px;">
       <p>
       <p>More details in their official web site: https://support.google.com/accessibility/android/answer/6283677?hl=en </p>
       <p>How to Set up and Use Android's Talkback App: https://www.lifewire.com/how-to-use-android-talkback-app-4769904
@@ -97,7 +97,7 @@
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://images.fonearena.com/blog/wp-content/uploads/2016/04/Google-Voice-Access-app-2.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201810/voice_access.jpeg" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
+         <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 335px;"> <img src="https://images.fonearena.com/blog/wp-content/uploads/2016/04/Google-Voice-Access-app-2.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 350px;"> <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201810/voice_access.jpeg" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess </p>
       <br>
@@ -111,7 +111,7 @@
       <p></i>
       <p><b>***Works on IOS/iPhone/Android.***</b>
       <p>
-         <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://media.bizj.us/view/img/11444183/speech-assess-app-report-web*1200xx3983-2240-0-0.png" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/3d/d0/273dd0b2-59c1-0a1b-7e08-6fea1ff2977e/pr_source.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 300px;">
+         <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png" alt="Primer imagen muestra de la aplicacion" style="width: 250px;"> <img src="https://media.bizj.us/view/img/11444183/speech-assess-app-report-web*1200xx3983-2240-0-0.png" alt="Segunda imagen muestra de la aplicacion" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/3d/d0/273dd0b2-59c1-0a1b-7e08-6fea1ff2977e/pr_source.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 130px;">
       <p>
       <p>
       <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess" </p>
