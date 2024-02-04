@@ -130,19 +130,55 @@
       <p>More details in their official web site: https://experiments.withgoogle.com/looktospeak </p>
       <br>
       <li><a href = "https://www.optikey.org/">OptiKey:</a></li>
+      <p>
+         <i>
+            OptiKey is a free, open-source, on-screen keyboard software developed for people with motor disabilities who cannot use a physical keyboard. It uses eye-tracking technology to allow users to type and control their computer using only their eyes. OptiKey tracks and detects the user's eye movements and converts them into mouse movements and keyboard inputs. It also offers various features like word prediction, auto-complete, and customizable layouts to enhance the typing experience for users with limited mobility. OptiKey was developed by Julius Sweetland and is available for Windows operating systems.<p></i>
+      <p>
+      <p><b>***Works on Android.***</b>
+      <p>
+         <img src="https://www.optikey.org/media/pages/applications/optikey-pro/2188186753-1679989592/keyboards_alpha_showing_light_and_dark_themes.png" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/72440548-1679989595/typing_into_word.png" style="width: 300px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/3030750248-1679989597/clicking_on_magnified_folder.png" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+      <p>
+      <p>
       <p>More details in their official web site: https://www.optikey.org/ </p>
       <br>
-      <li><a href = "https://play.google.com/store/apps/details?id=com.netfactorial.me.es">ME- Multiple Esclerosis:</a></li>
-      <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.netfactorial.me.es </p>
-      <br>
       <li><a href = "https://cima.aemps.es/cima/publico/home.html">AempsCIMA:</a></li>
+      <p>
+         <i>
+            The AempsCIMA app is a mobile application developed by the Spanish Agency of Medicines and Medical Devices (AEMPS) in collaboration with the College of Pharmacists of Madrid. It provides information about approved medicines and medical devices in Spain, allowing healthcare professionals and the general public to access the database of authorized products. The app includes features such as searching for medications, checking their active ingredients, indications, and contraindications, as well as providing information on adverse effects and interactions with other drugs. It aims to promote the safe and informed use of medications and medical devices.<p></i>
+      <p>
+      <p><b>***Works on Android.***</b>
+      <p>
+         <img src="https://www.consalud.es/saludigital/uploads/s1/18/50/8/aemps4095.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 500px;">
+      <p>
       <p>More details in their official web site: https://cima.aemps.es/cima/publico/home.html </p>
       <br>
-      <li><a href = "http://www.mixiton.com/">Mixiton:</a></li>
-      <p>More details in their official web site: http://www.mixiton.com/ </p>
+      <li><a href = "https://play.google.com/store/apps/details?id=com.arsla.mixiton&hl=en_US">Mixiton:</a></li>
+      <p>
+         <i>
+            ALS affects all motor functions of the body, and paralysis gradually gaining muscles of swallowing.
+Patients are then forced to eat with adapted textures. The sensory abilities and psychological state are then affected by this power mode.
+In 9 of 10 cases, the use of gastrostomy (surgical operation of an opening in the stomach) is essential to ensure a minimum calorie intake and avoid significant weight loss.
+It is so common that patients experience more fun to eat, and risk malnutrition and isolation.
+Given this situation and call for help many caregivers, the ARSLA wishes to engage with patients and their caregivers so that they can preserve the pleasure of the table and continue to share a meal with family or between friends. Thus was born the original project of a culinary competition dedicated to minced and mixed income: Mixiton, the pleasure of the table found.<p></i>
+      <p>
+      <p><b>***Works on Android.***</b>
+      <p>
+         <img src="https://www.arsla.org/wp-content/uploads/2017/09/app-screenshots-1280x720-759x427.jpg" style="width: 300px;"> 
+      <p>
+      <p>More details in their official web site: [http://www.mixiton.com/](https://play.google.com/store/apps/details?id=com.arsla.mixiton&hl=en_US) </p>
+      <p>
       <br>
       <li><a href = "https://www.carezone.com/">CareZone:</a></li>
+      <p>
+         <i>
+            CareZone is a mobile app designed to help individuals and their caregivers manage healthcare and medications from one central platform. The app offers features such as medication management tools, scheduling reminders, tracking symptoms, storing and sharing vital health information, and facilitating communication between caregivers. It aims to simplify the process of coordinating care and staying organized in the midst of complex medical needs.<p></i>
+      <p>
+      <p><b>***Works on Android.***</b>
+      <p>
+         <img src="https://media.licdn.com/dms/image/C5612AQF_Cr_zzujfKw/article-cover_image-shrink_720_1280/0/1520119941314?e=2147483647&v=beta&t=aN7hd6sl__LHS1dMYNwuTbK5uP3x_AdExH-xS00BCHk" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> 
+      <p>
       <p>More details in their official web site: https://www.carezone.com/ </p>
+      <p>
       <br>
       <li><a href = "https://www.lumosity.com/">Lumosity – Entrenador Cerebral:</a></li>
       <p>More details in their official web site: https://www.lumosity.com/ </p>
