@@ -170,7 +170,7 @@ Given this situation and call for help many caregivers, the ARSLA wishes to enga
       <p>
       <p><b>***Works on Android/Windows.***</b>
       <p>
-         <img src="https://www.arsla.org/wp-content/uploads/2017/09/app-screenshots-1280x720-759x427.jpg" style="width: 300px;"> 
+         <img src="https://www.arsla.org/wp-content/uploads/2017/09/app-screenshots-1280x720-759x427.jpg" style="width: 400px;"> 
       <p>
       <p>More details in their official web site: [http://www.mixiton.com/](https://play.google.com/store/apps/details?id=com.arsla.mixiton&hl=en_US) </p>
       <p>
@@ -184,7 +184,7 @@ Given this situation and call for help many caregivers, the ARSLA wishes to enga
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://media.licdn.com/dms/image/C5612AQF_Cr_zzujfKw/article-cover_image-shrink_720_1280/0/1520119941314?e=2147483647&v=beta&t=aN7hd6sl__LHS1dMYNwuTbK5uP3x_AdExH-xS00BCHk" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> 
+         <img src="https://media.licdn.com/dms/image/C5612AQF_Cr_zzujfKw/article-cover_image-shrink_720_1280/0/1520119941314?e=2147483647&v=beta&t=aN7hd6sl__LHS1dMYNwuTbK5uP3x_AdExH-xS00BCHk" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> 
       <p>
       <p>More details in their official web site: https://www.carezone.com/ </p>
       <p>
@@ -257,7 +257,7 @@ Features:
       <p>
       <p><b>***Works on Iphone/Ipad.***</b>
       <p>
-         <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/73/e0/4973e055-e8d4-5e29-3e72-e750ee3bd150/d8d7bf38-eaac-4792-b0a1-d42fa141a849_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-09-15_at_16.31.30.png/300x0w.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/54/c2/cb54c278-dfff-e810-41ae-ead5f107205a/3ade7098-26a0-476c-aac3-8c28e0e186fc_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-05-08_at_10.45.29.png/300x0w.jpg" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/5f/65/845f6574-ed79-53cc-28f1-14735088e444/2c258185-a990-4e15-ae33-5cabcb0880c5_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029_Screen_shots_-_2023-09-15_at_16.33.55.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 200px;">
+         <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/73/e0/4973e055-e8d4-5e29-3e72-e750ee3bd150/d8d7bf38-eaac-4792-b0a1-d42fa141a849_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-09-15_at_16.31.30.png/300x0w.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/54/c2/cb54c278-dfff-e810-41ae-ead5f107205a/3ade7098-26a0-476c-aac3-8c28e0e186fc_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-05-08_at_10.45.29.png/300x0w.jpg" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/5f/65/845f6574-ed79-53cc-28f1-14735088e444/2c258185-a990-4e15-ae33-5cabcb0880c5_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029_Screen_shots_-_2023-09-15_at_16.33.55.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 300px;">
       <p>
       <p>
       <p>More details in their official web site: https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953 </p>
@@ -286,7 +286,7 @@ Export your data via PDF or by E-Mail.
       <p>
       <p><b>***Works on Iphone/Ipad.***</b>
       <p>
-         <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/32/a1/c9/32a1c9d8-23e9-6ab9-1c21-69886b040a8c/266ad35f-78e6-448a-9b1e-4cf6e84dbfdf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.30.png/750x750bb.jpeg" style="width: 400px;"> <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1d/c3/c9/1dc3c959-df5d-c83d-6562-811c2888abbb/c1b84171-d1f2-4a59-8526-c9e1ead8dee2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.39.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/19/cf/55/19cf5500-f5f7-60d3-ebb6-5946ef910abd/6403de91-4c17-4c15-bbc8-b676c56203db_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-09-17_at_06.22.05.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+         <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/32/a1/c9/32a1c9d8-23e9-6ab9-1c21-69886b040a8c/266ad35f-78e6-448a-9b1e-4cf6e84dbfdf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.30.png/750x750bb.jpeg" style="width: 350px;"> <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1d/c3/c9/1dc3c959-df5d-c83d-6562-811c2888abbb/c1b84171-d1f2-4a59-8526-c9e1ead8dee2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.39.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/19/cf/55/19cf5500-f5f7-60d3-ebb6-5946ef910abd/6403de91-4c17-4c15-bbc8-b676c56203db_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-09-17_at_06.22.05.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 450px;">
       <p>
       <p>
       <p>More details in their official web site: https://apps.apple.com/us/app/noteness/id639289114 </p>
