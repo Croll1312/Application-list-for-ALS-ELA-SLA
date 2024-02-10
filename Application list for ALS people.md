@@ -184,7 +184,7 @@ Given this situation and call for help many caregivers, the ARSLA wishes to enga
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://media.licdn.com/dms/image/C5612AQF_Cr_zzujfKw/article-cover_image-shrink_720_1280/0/1520119941314?e=2147483647&v=beta&t=aN7hd6sl__LHS1dMYNwuTbK5uP3x_AdExH-xS00BCHk" alt="Primer imagen muestra de la aplicacion" style="width: 300px;"> 
+         <img src="https://media.licdn.com/dms/image/C5612AQF_Cr_zzujfKw/article-cover_image-shrink_720_1280/0/1520119941314?e=2147483647&v=beta&t=aN7hd6sl__LHS1dMYNwuTbK5uP3x_AdExH-xS00BCHk" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> 
       <p>
       <p>More details in their official web site: https://www.carezone.com/ </p>
       <p>
@@ -201,7 +201,7 @@ The Human Cognition Project (HCP) is our online, collaborative research platform
       <p>
       <p><b>***Works on Android / iPad / iOS .***</b>
       <p>
-         <img src="https://images.macrumors.com/t/qoaoIpp_w54j7R2Sr05ccmOaVE4=/1600x/article-new/2016/01/lumosity-800x706.jpg" style="width: 400px;"> <img src="https://onemindpsyberguide.org/wp-content/uploads/2020/05/LumosityScreenShots-1024x540.jpg" style="width: 300px;"> <img src="https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/ZZRMWUs1v65JQd7KQsGxEsyJGQc=/400x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/QKECFOK2ZBT6TDO7K6RNV64U2M.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+         <img src="https://images.macrumors.com/t/qoaoIpp_w54j7R2Sr05ccmOaVE4=/1600x/article-new/2016/01/lumosity-800x706.jpg" style="width: 350px;"> <img src="https://onemindpsyberguide.org/wp-content/uploads/2020/05/LumosityScreenShots-1024x540.jpg" style="width: 570px;"> <img src="https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/ZZRMWUs1v65JQd7KQsGxEsyJGQc=/400x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/QKECFOK2ZBT6TDO7K6RNV64U2M.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 550px;">
       <p>
       <p>
       <p>More details in their official web site: https://www.lumosity.com/ </p>
@@ -215,7 +215,7 @@ The Human Cognition Project (HCP) is our online, collaborative research platform
       <p>
       <p><b>***Works on Android/Windows.***</b>
       <p>
-         <img src="https://www.mymsteam.com/assets/msc/home_image_main-867b4eb296ee97a93ac3757be45808d8674128a5a6253b32bf7640959741cd5a.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://cdn.myhealthteams.com/promo/649ed2c402ac6419001978ac/wslide/MyMSTeam_MyMSTeamStories_RC_Carousel_1300x750_v2-37c93cb2d6c7101174762b0e52f2f802-3f6c76bd64c93cb6655a510e8f55a8ac_copy-d51d1a79ac4dd31ef7d4cad3435bb26d.webp?1688130243" style="width: 300px;"> <img src="https://cdn.myhealthteams.com/idxcard/5f3c35f0f5352872f7723a6d/wslide/MyMSTeam_YourGuideToMS_MainCarousel-749b69963bc628cd108de86c198eaa69.webp?1682464072" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+         <img src="https://www.mymsteam.com/assets/msc/home_image_main-867b4eb296ee97a93ac3757be45808d8674128a5a6253b32bf7640959741cd5a.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://cdn.myhealthteams.com/promo/649ed2c402ac6419001978ac/wslide/MyMSTeam_MyMSTeamStories_RC_Carousel_1300x750_v2-37c93cb2d6c7101174762b0e52f2f802-3f6c76bd64c93cb6655a510e8f55a8ac_copy-d51d1a79ac4dd31ef7d4cad3435bb26d.webp?1688130243" style="width: 400px;"> <img src="https://cdn.myhealthteams.com/idxcard/5f3c35f0f5352872f7723a6d/wslide/MyMSTeam_YourGuideToMS_MainCarousel-749b69963bc628cd108de86c198eaa69.webp?1682464072" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
       <p>
       <p>
       <p>More details in their official web site: https://www.mymsteam.com/ </p>
@@ -257,7 +257,7 @@ Features:
       <p>
       <p><b>***Works on Iphone/Ipad.***</b>
       <p>
-         <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/73/e0/4973e055-e8d4-5e29-3e72-e750ee3bd150/d8d7bf38-eaac-4792-b0a1-d42fa141a849_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-09-15_at_16.31.30.png/300x0w.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/54/c2/cb54c278-dfff-e810-41ae-ead5f107205a/3ade7098-26a0-476c-aac3-8c28e0e186fc_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-05-08_at_10.45.29.png/300x0w.jpg" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/5f/65/845f6574-ed79-53cc-28f1-14735088e444/2c258185-a990-4e15-ae33-5cabcb0880c5_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029_Screen_shots_-_2023-09-15_at_16.33.55.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+         <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/73/e0/4973e055-e8d4-5e29-3e72-e750ee3bd150/d8d7bf38-eaac-4792-b0a1-d42fa141a849_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-09-15_at_16.31.30.png/300x0w.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/54/c2/cb54c278-dfff-e810-41ae-ead5f107205a/3ade7098-26a0-476c-aac3-8c28e0e186fc_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-05-08_at_10.45.29.png/300x0w.jpg" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/5f/65/845f6574-ed79-53cc-28f1-14735088e444/2c258185-a990-4e15-ae33-5cabcb0880c5_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029_Screen_shots_-_2023-09-15_at_16.33.55.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 200px;">
       <p>
       <p>
       <p>More details in their official web site: https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953 </p>
@@ -338,12 +338,12 @@ Features:
          <p>This way SymboTalk can be your voice and talk for you.<p>
 SymboTalk is an augmentative and alternative communication (AAC) system, designed to make communication boards for any use.<p>
 The app is designed for those whose physical or mental condition does not allow them to speak for themselves, For example, people with Autism, Asperger's or anyone on the autistic spectrum, Down Syndrome, ALS, apraxia, stroke, etc.<p>
---Key Features--
-- Symbols: Make your own symbols or choose from an online library.
-- Boards: Build flexible communication boards and sub-boards.
-- Profiles: Edit boards for your users and put them in "me" mode for limited access.
-- Communicate: Click on symbols to read them or download boards for hard-copy use.
-- Everywhere: Use your data on any device or platform and with any screen size.
+--Key Features--<p>
+- Symbols: Make your own symbols or choose from an online library.<p>
+- Boards: Build flexible communication boards and sub-boards.<p>
+- Profiles: Edit boards for your users and put them in "me" mode for limited access.<p>
+- Communicate: Click on symbols to read them or download boards for hard-copy use.<p>
+- Everywhere: Use your data on any device or platform and with any screen size.<p>
 - Real-Time: Sync your data online and access it from any device - Paid option.
 <p>
 --More Features--
