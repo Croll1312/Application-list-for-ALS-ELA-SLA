@@ -199,9 +199,9 @@ The Human Cognition Project (HCP) is our online, collaborative research platform
       <p>Individually, these collaborators investigate a wide spectrum of topics that interest them.
       <p>As a whole, we're working together to push the field forward.</i>
       <p>
-      <p><b>***Works on Android/Windows.***</b>
+      <p><b>***Works on Android//iPad/iOS.***</b>
       <p>
-         <img src="https://www.optikey.org/media/pages/applications/optikey-pro/2188186753-1679989592/keyboards_alpha_showing_light_and_dark_themes.png" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/72440548-1679989595/typing_into_word.png" style="width: 300px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/3030750248-1679989597/clicking_on_magnified_folder.png" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+         <img src="https://images.macrumors.com/t/qoaoIpp_w54j7R2Sr05ccmOaVE4=/1600x/article-new/2016/01/lumosity-800x706.jpg" style="width: 400px;"> <img src="https://onemindpsyberguide.org/wp-content/uploads/2020/05/LumosityScreenShots-1024x540.jpg" style="width: 300px;"> <img src="https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/ZZRMWUs1v65JQd7KQsGxEsyJGQc=/400x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/QKECFOK2ZBT6TDO7K6RNV64U2M.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
       <p>
       <p>
       <p>More details in their official web site: https://www.lumosity.com/ </p>
