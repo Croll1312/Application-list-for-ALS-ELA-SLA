@@ -324,7 +324,7 @@ Features:
       <p>
       <p><b>***Works on Android/Iphone/Ipad.***</b>
       <p>
-         <img src="https://ash21.alwaysdata.net/images/letmetalk02.jpg" style="width: 650px;"> <img src="https://applications-autisme.com/sites/default/files/styles/extra_large/public/apps/screenshots/545a2486569df3.67029191.png?itok=ToekqXAW" style="width: 200px;"> <img src="https://ash21.alwaysdata.net/images/letmetalk04.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 650px;">
+         <img src="https://ash21.alwaysdata.net/images/letmetalk02.jpg" style="width: 550px;"> <img src="https://applications-autisme.com/sites/default/files/styles/extra_large/public/apps/screenshots/545a2486569df3.67029191.png?itok=ToekqXAW" style="width: 200px;"> <img src="https://ash21.alwaysdata.net/images/letmetalk04.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 650px;">
       <p>
       <p>
       <p>More details in their official web site: https://apps.apple.com/tr/app/letmetalk/id919990138</p>
@@ -367,7 +367,7 @@ The app is designed for those whose physical or mental condition does not allow 
       <p>
       <p><b>***Works on Android/Iphone/Ipad.***</b>
       <p>
-         <img src="https://www.symbotalk.com/img/weLoveSymboTalk.png" alt="Primer imagen muestra de la aplicacion" style="width: 00px;"> <img src="https://www.symbotalk.com/img/Simulator%20Screen%20Shot%20-%20iPad%20Air%202%20-%202017-12-16%20at%2021.05.52.png" style="width: 500px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQrwnyE1p4E3fOSYWx-I1HY7Ilnvz0WVKog&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 560px;">
+         <img src="https://www.symbotalk.com/img/weLoveSymboTalk.png" alt="Primer imagen muestra de la aplicacion" style="width: 450px;"> <img src="https://www.symbotalk.com/img/Simulator%20Screen%20Shot%20-%20iPad%20Air%202%20-%202017-12-16%20at%2021.05.52.png" style="width: 450px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQrwnyE1p4E3fOSYWx-I1HY7Ilnvz0WVKog&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 560px;">
       <p>
       <p>
       <p>More details in their official web site: https://www.symbotalk.com/ </p>
@@ -412,7 +412,7 @@ Option to directly download pictograms from ARASAAC.<p>
       <p>
       <p><b>***Works on Android/IOS/Web App***</b>
       <p>
-         <img src="https://www.pictogramagenda.es/wp-content/uploads/2020/12/pictogramagenda-devices.png" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://aulaabierta.arasaac.org/wp-content/uploads/2021/01/Pictogramagenda_ARASAAC.jpg" style="width: 360px;"> <img src="https://img.utdstc.com/screen/b84/9f8/b849f84be1d9f7e7903e102010c68b566e77e097a77df110ba35525715219d5f:600" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+         <img src="https://www.pictogramagenda.es/wp-content/uploads/2020/12/pictogramagenda-devices.png" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://aulaabierta.arasaac.org/wp-content/uploads/2021/01/Pictogramagenda_ARASAAC.jpg" style="width: 270px;"> <img src="https://img.utdstc.com/screen/b84/9f8/b849f84be1d9f7e7903e102010c68b566e77e097a77df110ba35525715219d5f:600" alt="Tercera imagen muestra de la aplicacion" style="width: 540px;">
       <p>
       <p>
       <p>More details in their official web site: https://www.pictogramagenda.es/en/pictogramagenda-en/ </p>
