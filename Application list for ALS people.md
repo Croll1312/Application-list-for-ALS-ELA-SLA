@@ -170,7 +170,7 @@ Given this situation and call for help many caregivers, the ARSLA wishes to enga
       <p>
       <p><b>***Works on Android/Windows.***</b>
       <p>
-         <img src="https://www.arsla.org/wp-content/uploads/2017/09/app-screenshots-1280x720-759x427.jpg" style="width: 500px;"> 
+         <img src="https://www.arsla.org/wp-content/uploads/2017/09/app-screenshots-1280x720-759x427.jpg" style="width: 600px;"> 
       <p>
       <p>More details in their official web site: [http://www.mixiton.com/](https://play.google.com/store/apps/details?id=com.arsla.mixiton&hl=en_US) </p>
       <p>
@@ -184,7 +184,7 @@ Given this situation and call for help many caregivers, the ARSLA wishes to enga
       <p>
       <p><b>***Works on Android.***</b>
       <p>
-         <img src="https://media.licdn.com/dms/image/C5612AQF_Cr_zzujfKw/article-cover_image-shrink_720_1280/0/1520119941314?e=2147483647&v=beta&t=aN7hd6sl__LHS1dMYNwuTbK5uP3x_AdExH-xS00BCHk" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> 
+         <img src="https://media.licdn.com/dms/image/C5612AQF_Cr_zzujfKw/article-cover_image-shrink_720_1280/0/1520119941314?e=2147483647&v=beta&t=aN7hd6sl__LHS1dMYNwuTbK5uP3x_AdExH-xS00BCHk" alt="Primer imagen muestra de la aplicacion" style="width: 600px;"> 
       <p>
       <p>More details in their official web site: https://www.carezone.com/ </p>
       <p>
@@ -265,7 +265,7 @@ Features:
       <li><a href = "https://apps.apple.com/us/app/noteness/id639289114">Noteness:</a></li>
          <p>
          <i>         
-Notness is a modern, fast and easy to use Multiple Sclerosis diary App. Noteness is tailored to the requirements of a MS-Diary and goes without unnecessary gimmicks.
+Noteness is a modern, fast and easy to use Multiple Sclerosis diary App. Noteness is tailored to the requirements of a MS-Diary and goes without unnecessary gimmicks.
 <p>
 - Entries:
 <p>
@@ -286,7 +286,7 @@ Export your data via PDF or by E-Mail.
       <p>
       <p><b>***Works on Iphone/Ipad.***</b>
       <p>
-         <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/32/a1/c9/32a1c9d8-23e9-6ab9-1c21-69886b040a8c/266ad35f-78e6-448a-9b1e-4cf6e84dbfdf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.30.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1d/c3/c9/1dc3c959-df5d-c83d-6562-811c2888abbb/c1b84171-d1f2-4a59-8526-c9e1ead8dee2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.39.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/19/cf/55/19cf5500-f5f7-60d3-ebb6-5946ef910abd/6403de91-4c17-4c15-bbc8-b676c56203db_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-09-17_at_06.22.05.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 450px;">
+         <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/32/a1/c9/32a1c9d8-23e9-6ab9-1c21-69886b040a8c/266ad35f-78e6-448a-9b1e-4cf6e84dbfdf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.30.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1d/c3/c9/1dc3c959-df5d-c83d-6562-811c2888abbb/c1b84171-d1f2-4a59-8526-c9e1ead8dee2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.39.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/19/cf/55/19cf5500-f5f7-60d3-ebb6-5946ef910abd/6403de91-4c17-4c15-bbc8-b676c56203db_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-09-17_at_06.22.05.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
       <p>
       <p>More details in their official web site: https://apps.apple.com/us/app/noteness/id639289114 </p>
@@ -324,7 +324,7 @@ Features:
       <p>
       <p><b>***Works on Android/Iphone/Ipad.***</b>
       <p>
-         <img src="https://ash21.alwaysdata.net/images/letmetalk02.jpg" style="width: 400px;"> <img src="https://applications-autisme.com/sites/default/files/styles/extra_large/public/apps/screenshots/545a2486569df3.67029191.png?itok=ToekqXAW" style="width: 300px;"> <img src="https://ash21.alwaysdata.net/images/letmetalk04.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+         <img src="https://ash21.alwaysdata.net/images/letmetalk02.jpg" style="width: 600px;"> <img src="https://applications-autisme.com/sites/default/files/styles/extra_large/public/apps/screenshots/545a2486569df3.67029191.png?itok=ToekqXAW" style="width: 200px;"> <img src="https://ash21.alwaysdata.net/images/letmetalk04.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
       <p>
       <p>
       <p>More details in their official web site: https://apps.apple.com/tr/app/letmetalk/id919990138</p>
