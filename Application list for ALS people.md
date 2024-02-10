@@ -199,7 +199,7 @@ The Human Cognition Project (HCP) is our online, collaborative research platform
       <p>Individually, these collaborators investigate a wide spectrum of topics that interest them.
       <p>As a whole, we're working together to push the field forward.</i>
       <p>
-      <p><b>***Works on Android//iPad/iOS.***</b>
+      <p><b>***Works on Android / iPad / iOS .***</b>
       <p>
          <img src="https://images.macrumors.com/t/qoaoIpp_w54j7R2Sr05ccmOaVE4=/1600x/article-new/2016/01/lumosity-800x706.jpg" style="width: 400px;"> <img src="https://onemindpsyberguide.org/wp-content/uploads/2020/05/LumosityScreenShots-1024x540.jpg" style="width: 300px;"> <img src="https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/ZZRMWUs1v65JQd7KQsGxEsyJGQc=/400x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/QKECFOK2ZBT6TDO7K6RNV64U2M.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
       <p>
@@ -300,25 +300,25 @@ The image database of LetMeTalk contains more than 9,000 easy to understand imag
 For LetMeTalk no internet connection or mobile contract is necessary, so you can use LetMeTalk in almost any situation, like hospitals, nursing home or schools.
 <p>
 Suitable for:<p>
-• autism symptoms and Asperger syndrome, autistic spectrum disorder (ASD).
-• aphasia.
-• speech apraxia.
-• articulation/phonological disorder.
-• Amyotrophic Lateral Sclerosis (ALS).
-• Motor Neuron Disease (MND).
-• cerebral palsy.
+• autism symptoms and Asperger syndrome, autistic spectrum disorder (ASD).<p>
+• aphasia.<p>
+• speech apraxia.<p>
+• articulation/phonological disorder.<p>
+• Amyotrophic Lateral Sclerosis (ALS).<p>
+• Motor Neuron Disease (MND).<p>
+• cerebral palsy.<p>
 • down syndrome.
 <p>
 Features:
-• more than 9,000 images from ARASAAC included.
-• voice support for images and sentences.
-• unlimited and flexible creation of new categories and adding new images.
-• pre configured for kids with autism spectrum disorder (ASD).
-• load / save your current profile (vocabulary).
-• keep several profiles on your devices and switch fast between them.
-• share your profile easily with other devices.
-• switch fast between 2 languages and use LetMeTalk as translator.
-• supported languages: English, Spanish, French, Italian and German, Chinese, Portuguese, Brazilian Portuguese, Dutch, Arabic, Russian, Polish, Bulgarian, Romanian, Galician, Catalan, Basque.
+• more than 9,000 images from ARASAAC included.<p>
+• voice support for images and sentences.<p>
+• unlimited and flexible creation of new categories and adding new images.<p>
+• pre configured for kids with autism spectrum disorder (ASD).<p>
+• load / save your current profile (vocabulary).<p>
+• keep several profiles on your devices and switch fast between them.<p>
+• share your profile easily with other devices.<p>
+• switch fast between 2 languages and use LetMeTalk as translator.<p>
+• supported languages: English, Spanish, French, Italian and German, Chinese, Portuguese, Brazilian Portuguese, Dutch, Arabic, Russian, Polish, Bulgarian, Romanian, Galician, Catalan, Basque.<p>
 • voice support for most languages.
 <p></i>
       <p>
@@ -333,7 +333,9 @@ Features:
          <p>
          <i>
             SymboTalk is a free app that talks for you by clicking on symbols (images or icons).
-         <p>The app has predefined communication boards from different areas of life, each board contains symbols (images). Clicking on a symbol reads it aloud and adds it to a sentence that can also be read. This way SymboTalk can be your voice and talk for you.<p>
+         <p>The app has predefined communication boards from different areas of life, each board contains symbols (images).
+         <p>Clicking on a symbol reads it aloud and adds it to a sentence that can also be read.
+         <p>This way SymboTalk can be your voice and talk for you.<p>
 SymboTalk is an augmentative and alternative communication (AAC) system, designed to make communication boards for any use.<p>
 The app is designed for those whose physical or mental condition does not allow them to speak for themselves, For example, people with Autism, Asperger's or anyone on the autistic spectrum, Down Syndrome, ALS, apraxia, stroke, etc.<p>
 --Key Features--
@@ -345,22 +347,22 @@ The app is designed for those whose physical or mental condition does not allow 
 - Real-Time: Sync your data online and access it from any device - Paid option.
 <p>
 --More Features--
-- 14 predefined Boards based on ARASAAC Symbols for immediate use, translated into 23 languages.
-- Add images to symbols from your camera or files.
-- Search images for symbols from an online library with more than 60,000 images including ARASAAC, Mulberry, and Sclera Symbols.
-- Record audio for symbols.
-- All languages in your android text-to-speech are supported (for speak).
-- Build a flexible board, with many grid options.
-- Lock screen for users that can't make their own boards.
-- Choose a color for symbols.
-- Make subboards.
-- Full offline support.
-- Group symbols into a sentence.
-- Search your boards and symbols.
-- Cloud Services: Share, Sync & Backup. => Paid Features
+- 14 predefined Boards based on ARASAAC Symbols for immediate use, translated into 23 languages.<p>
+- Add images to symbols from your camera or files.<p>
+- Search images for symbols from an online library with more than 60,000 images including ARASAAC, Mulberry, and Sclera Symbols.<p>
+- Record audio for symbols.<p>
+- All languages in your android text-to-speech are supported (for speak).<p>
+- Build a flexible board, with many grid options.<p>
+- Lock screen for users that can't make their own boards.<p>
+- Choose a color for symbols.<p>
+- Make subboards.<p>
+- Full offline support.<p>
+- Group symbols into a sentence.<p>
+- Search your boards and symbols.<p>
+- Cloud Services: Share, Sync & Backup. => Paid Features.
 <p>
 * Supported languages for speak: Bangla (Bangladesh), Bangla (India), Cantonese (Hong Kong), Czech, Danish, Dutch, English (Australia), English (India), English (United Kingdom), English (United States), Finnish, French, German, Hindi, Hungarian, Indonesian, Italian, Japanese, Khmer, Korean, Mandarin (China), Mandarin (Taiwan), Nepali, Norwegian, Polish, Portuguese (Brazil), Russian, Sinhala, Spanish (Spain), Spanish (United States), Swedish, Thai, Turkish, Ukrainian and Vietnamese.<p>
-* Get more languages by downloading an appropriate application.
+* Get more languages by downloading an appropriate application.<p>
 * Interface languages: English, Spanish, Mandarin, Basque, Galician, and Hebrew.<p></i>
       <p>
       <p><b>***Works on Android/Iphone/Ipad.***</b>
@@ -393,19 +395,19 @@ The application screen is arranged in three parts: at the top are the images loa
 <p>The center of the screen needs to be pressed each time you want to move to the next task, showing current image or pictogram in a larger size to highlight.
 <p>The images of the work already done will be going to the bottom of the screen in reduced size, as a reminder of the tasks performed.
 <p>
-Summary of key features:
-• Up to 48 pictograms.
-• Sample pictograms provided.
+Summary of key features:<p>
+• Up to 48 pictograms.<p>
+• Sample pictograms provided.<p>
 • Examining the device for any image file.<p>
-Option to directly download pictograms from ARASAAC.
-• At any time you can change the order of the remaining tasks by simply dragging the pictogram to its new position.
-• Supports portrait and landscape orientation.
-• Allows to cross pictograms out, to emphasize the fact that a task is NOT to be performed.
-• If needed you can go back to previous pictogram or return to the initial status with all pending tasks.
-• You can save and load agendas generated for later use.
-• Text (show titles of the pictograms)
-• Sound (titles of the pictograms are read with ‘Text to Speech’ functionality)
-• “Timer” feature: Option to set automatic playing mode for agenda, setting the start time and duration of each pictogram.
+Option to directly download pictograms from ARASAAC.<p>
+• At any time you can change the order of the remaining tasks by simply dragging the pictogram to its new position.<p>
+• Supports portrait and landscape orientation.<p>
+• Allows to cross pictograms out, to emphasize the fact that a task is NOT to be performed.<p>
+• If needed you can go back to previous pictogram or return to the initial status with all pending tasks.<p>
+• You can save and load agendas generated for later use.<p>
+• Text (show titles of the pictograms)<p>
+• Sound (titles of the pictograms are read with ‘Text to Speech’ functionality).<p>
+• “Timer” feature: Option to set automatic playing mode for agenda, setting the start time and duration of each pictogram.<p>
 • Pictograms may have “memo” notes.<p></i>
       <p>
       <p><b>***Works on Android/IOS/Web App***</b>
