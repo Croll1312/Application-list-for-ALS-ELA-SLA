@@ -189,32 +189,231 @@ Given this situation and call for help many caregivers, the ARSLA wishes to enga
       <p>More details in their official web site: https://www.carezone.com/ </p>
       <p>
       <br>
-      <li><a href = "https://www.lumosity.com/">Lumosity – Entrenador Cerebral:</a></li>
+      <li><a href = "https://www.lumosity.com/">Lumosity’s Human Cognition Project:</a></li>
+            <p>
+         <i>
+            Cognitive training is still a relatively new field—which makes it an exciting space for new insights and research.
+         <p>That’s why Lumosity conducts cognitive training research and facilitates the research of independent scientists from over 40 universities—all with the goal of deepening our understanding of human cognition.<p>
+The Human Cognition Project (HCP) is our online, collaborative research platform.
+      <p>Through the HCP, we grant qualified researchers free access to Lumosity’s cognitive training tasks and research tools, as well as limited access to data on cognitive task performance.
+      <p>Individually, these collaborators investigate a wide spectrum of topics that interest them.
+      <p>As a whole, we're working together to push the field forward.</i>
+      <p>
+      <p><b>***Works on Android/Windows.***</b>
+      <p>
+         <img src="https://www.optikey.org/media/pages/applications/optikey-pro/2188186753-1679989592/keyboards_alpha_showing_light_and_dark_themes.png" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/72440548-1679989595/typing_into_word.png" style="width: 300px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/3030750248-1679989597/clicking_on_magnified_folder.png" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+      <p>
+      <p>
       <p>More details in their official web site: https://www.lumosity.com/ </p>
       <br>
-      <li><a href = "https://momentummagazineonline.com/">Momentum Magazine:</a></li>
-      <p>More details in their official web site: https://momentummagazineonline.com/ </p>
-      <br>
       <li><a href = "https://www.mymsteam.com/">MyMSTeam:</a></li>
+         <p>
+         <i>
+            MyMSTeam is the social network for those living with multiple sclerosis.
+         <p>Get the emotional support you need from others like you, and gain practical advice and insights on managing treatment or therapies for multiple sclerosis.
+         <p>MyMSTeam is the only social network where you can truly connect, make real friendships, and share daily ups and downs in a judgment-free place. </i>
+      <p>
+      <p><b>***Works on Android/Windows.***</b>
+      <p>
+         <img src="https://www.optikey.org/media/pages/applications/optikey-pro/2188186753-1679989592/keyboards_alpha_showing_light_and_dark_themes.png" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/72440548-1679989595/typing_into_word.png" style="width: 300px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/3030750248-1679989597/clicking_on_magnified_folder.png" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+      <p>
+      <p>
       <p>More details in their official web site: https://www.mymsteam.com/ </p>
       <br>
       <li><a href = "https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953">Multiple Sclerosis @POC:</a></li>
+         <p>
+         <i>
+            @Point of Care™ With Cognitive AI is a clinical decision-making mobile platform.
+            <p>Multiple Sclerosis @Point of Care™ provides a streamlined clinical decision support tool for clinicians to obtain content when it is needed—enabling better decisions, better outcomes, and better care.<p>
+With Cognitive AI, clinicians use @Point of Care to easily access curated, evidence-based, and disease-specific medical content.
+            <p>Clinicians navigate content by asking voice-enabled natural language questions.
+            <p>With Cognitive AI, confidence-rated answers to efficiently incorporate best treatment options happen more quickly and decisions are made faster to improve patient outcomes at the point of care.<p>
+Multiple Sclerosis @Point of Care™ is designed to:
+<p>
+• Support discovery and practice change.<p>
+<p>
+• Provide relevant, evidence-based disease-specific medical content.
+<p>
+• Improve patient outcomes at the point of care.
+<p>
+Features:
+<p>
+• Continually updated multiple sclerosis content.
+<p>
+• Topics in diagnosis, treatment, and care management developed with expert physician authors.
+<p>
+• Case studies, videos, and interviews.
+<p>
+• Access to actionable patient-recorded data.
+<p>
+• Detailed reference list with access to original sources.
+<p>
+• Continuing medical education credit (CME/CE).
+<p>
+• Surveys and peer polling.
+<p>
+• Patient education resources to share with patients.
+<p></i>
+      <p>
+      <p><b>***Works on Iphone/Ipad.***</b>
+      <p>
+         <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/73/e0/4973e055-e8d4-5e29-3e72-e750ee3bd150/d8d7bf38-eaac-4792-b0a1-d42fa141a849_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-09-15_at_16.31.30.png/300x0w.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/54/c2/cb54c278-dfff-e810-41ae-ead5f107205a/3ade7098-26a0-476c-aac3-8c28e0e186fc_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-05-08_at_10.45.29.png/300x0w.jpg" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/5f/65/845f6574-ed79-53cc-28f1-14735088e444/2c258185-a990-4e15-ae33-5cabcb0880c5_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029_Screen_shots_-_2023-09-15_at_16.33.55.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+      <p>
+      <p>
       <p>More details in their official web site: https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953 </p>
       <br>
       <li><a href = "https://apps.apple.com/us/app/noteness/id639289114">Noteness:</a></li>
+         <p>
+         <i>         
+Notness is a modern, fast and easy to use Multiple Sclerosis diary App. Noteness is tailored to the requirements of a MS-Diary and goes without unnecessary gimmicks.
+<p>
+- Entries:
+<p>
+Create two different types of entries:
+<p>
+Injections, with a selection of injection positions and optional notes.
+<p>
+Symptoms, with individual titles and notes.
+<p>
+- Reminders:
+<p>
+Create reminders for your injections. Reminders can be set for every day, every second day and for custom weekdays.
+<p>
+- Export:
+<p>
+Export your data via PDF or by E-Mail.
+<p></i>
+      <p>
+      <p><b>***Works on Iphone/Ipad.***</b>
+      <p>
+         <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/32/a1/c9/32a1c9d8-23e9-6ab9-1c21-69886b040a8c/266ad35f-78e6-448a-9b1e-4cf6e84dbfdf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.30.png/750x750bb.jpeg" style="width: 400px;"> <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1d/c3/c9/1dc3c959-df5d-c83d-6562-811c2888abbb/c1b84171-d1f2-4a59-8526-c9e1ead8dee2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.39.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/19/cf/55/19cf5500-f5f7-60d3-ebb6-5946ef910abd/6403de91-4c17-4c15-bbc8-b676c56203db_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-09-17_at_06.22.05.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+      <p>
+      <p>
       <p>More details in their official web site: https://apps.apple.com/us/app/noteness/id639289114 </p>
       <br>
       <li><a href = "https://apps.apple.com/us/app/letmetalk/id919990138">LET ME TALK:</a></li>
-      <p>More details in their official web site: https://apps.apple.com/us/app/letmetalk/id919990138 </p>
+         <p>
+         <i>
+A free AAC talker app supports communication in all areas of life and therefore providing a voice to everyone. LetMeTalk is donation financed.<p>
+LetMeTalk enables you to line up images in a meaningful way to read this row of images as a sentence. To line up images is known as AAC (Augmentative and Alternative Communication).<p>
+The image database of LetMeTalk contains more than 9,000 easy to understand images from ARASAAC (http://arasaac.org). Additionally, you can add existing images from the device or take new photos with the build in camera.<p>
+For LetMeTalk no internet connection or mobile contract is necessary, so you can use LetMeTalk in almost any situation, like hospitals, nursing home or schools.
+<p>
+Suitable for:<p>
+• autism symptoms and Asperger syndrome, autistic spectrum disorder (ASD).
+• aphasia.
+• speech apraxia.
+• articulation/phonological disorder.
+• Amyotrophic Lateral Sclerosis (ALS).
+• Motor Neuron Disease (MND).
+• cerebral palsy.
+• down syndrome.
+<p>
+Features:
+• more than 9,000 images from ARASAAC included.
+• voice support for images and sentences.
+• unlimited and flexible creation of new categories and adding new images.
+• pre configured for kids with autism spectrum disorder (ASD).
+• load / save your current profile (vocabulary).
+• keep several profiles on your devices and switch fast between them.
+• share your profile easily with other devices.
+• switch fast between 2 languages and use LetMeTalk as translator.
+• supported languages: English, Spanish, French, Italian and German, Chinese, Portuguese, Brazilian Portuguese, Dutch, Arabic, Russian, Polish, Bulgarian, Romanian, Galician, Catalan, Basque.
+• voice support for most languages.
+<p></i>
+      <p>
+      <p><b>***Works on Android/Iphone/Ipad.***</b>
+      <p>
+         <img src="https://ash21.alwaysdata.net/images/letmetalk02.jpg" style="width: 400px;"> <img src="https://applications-autisme.com/sites/default/files/styles/extra_large/public/apps/screenshots/545a2486569df3.67029191.png?itok=ToekqXAW" style="width: 300px;"> <img src="https://ash21.alwaysdata.net/images/letmetalk04.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+      <p>
+      <p>
+      <p>More details in their official web site: https://apps.apple.com/tr/app/letmetalk/id919990138</p>
       <br>
       <li><a href = "https://www.symbotalk.com/">SYMBOTALK:</a></li>
+         <p>
+         <i>
+            SymboTalk is a free app that talks for you by clicking on symbols (images or icons).
+         <p>The app has predefined communication boards from different areas of life, each board contains symbols (images). Clicking on a symbol reads it aloud and adds it to a sentence that can also be read. This way SymboTalk can be your voice and talk for you.<p>
+SymboTalk is an augmentative and alternative communication (AAC) system, designed to make communication boards for any use.<p>
+The app is designed for those whose physical or mental condition does not allow them to speak for themselves, For example, people with Autism, Asperger's or anyone on the autistic spectrum, Down Syndrome, ALS, apraxia, stroke, etc.<p>
+--Key Features--
+- Symbols: Make your own symbols or choose from an online library.
+- Boards: Build flexible communication boards and sub-boards.
+- Profiles: Edit boards for your users and put them in "me" mode for limited access.
+- Communicate: Click on symbols to read them or download boards for hard-copy use.
+- Everywhere: Use your data on any device or platform and with any screen size.
+- Real-Time: Sync your data online and access it from any device - Paid option.
+<p>
+--More Features--
+- 14 predefined Boards based on ARASAAC Symbols for immediate use, translated into 23 languages.
+- Add images to symbols from your camera or files.
+- Search images for symbols from an online library with more than 60,000 images including ARASAAC, Mulberry, and Sclera Symbols.
+- Record audio for symbols.
+- All languages in your android text-to-speech are supported (for speak).
+- Build a flexible board, with many grid options.
+- Lock screen for users that can't make their own boards.
+- Choose a color for symbols.
+- Make subboards.
+- Full offline support.
+- Group symbols into a sentence.
+- Search your boards and symbols.
+- Cloud Services: Share, Sync & Backup. => Paid Features
+<p>
+* Supported languages for speak: Bangla (Bangladesh), Bangla (India), Cantonese (Hong Kong), Czech, Danish, Dutch, English (Australia), English (India), English (United Kingdom), English (United States), Finnish, French, German, Hindi, Hungarian, Indonesian, Italian, Japanese, Khmer, Korean, Mandarin (China), Mandarin (Taiwan), Nepali, Norwegian, Polish, Portuguese (Brazil), Russian, Sinhala, Spanish (Spain), Spanish (United States), Swedish, Thai, Turkish, Ukrainian and Vietnamese.<p>
+* Get more languages by downloading an appropriate application.
+* Interface languages: English, Spanish, Mandarin, Basque, Galician, and Hebrew.<p></i>
+      <p>
+      <p><b>***Works on Android/Iphone/Ipad.***</b>
+      <p>
+         <img src="https://www.symbotalk.com/img/weLoveSymboTalk.png" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://www.symbotalk.com/img/Simulator%20Screen%20Shot%20-%20iPad%20Air%202%20-%202017-12-16%20at%2021.05.52.png" style="width: 300px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQrwnyE1p4E3fOSYWx-I1HY7Ilnvz0WVKog&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+      <p>
+      <p>
       <p>More details in their official web site: https://www.symbotalk.com/ </p>
       <br>
       <li><a href = "https://www.eneso.es/verbo/">ENESO VERBO:</a></li>
+         <p>
+         <i>
+            Verbo is an application for Windows and Android to create communication boards and educational activities quickly and intuitively.
+         <p>Combine pictograms, text, sounds and voice to design your ideal communicator, or take advantage of the resources that other users have shared . There are hundreds of boards and activities that you can use freely.<p>
+  Verbo is compatible with most access systems for computer and tablet: eye trackers for gaze control, switches for scan access, head mice, interactive whiteboards, touch screens... No matter your degree of mobility is, Verbo will adapt to provide you with a comfortable and functional communication.<p></i>
+      <p>
+      <p><b>***Works on Android/Windows.***</b>
+      <p>
+         <img src="https://www.eneso.es/verbo/img/home_verbo_actividades.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://i.ytimg.com/vi/KCdqOuISVGI/hqdefault.jpg" style="width: 300px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5F2K72aWMa13sgdx9K3QkAJG5B6HDjnexyw&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+      <p>
+      <p>
       <p>More details in their official web site: https://www.eneso.es/verbo/ </p>
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.lorenzomoreno.pictogramagenda">PICTOGRAMA AGENDA:</a></li>
-      <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.lorenzomoreno.pictogramagenda </p>
+         <p>
+         <i>
+            PictogramAgenda is a software application that facilitates the generation and use of visual schedules.<p>
+PictogramAgenda allows to set up and order a sequence of images to form the visual schedule (agenda).<p>
+The application screen is arranged in three parts: at the top are the images loaded orderly and numbered to represent clearly the order of the tasks.
+<p>The center of the screen needs to be pressed each time you want to move to the next task, showing current image or pictogram in a larger size to highlight.
+<p>The images of the work already done will be going to the bottom of the screen in reduced size, as a reminder of the tasks performed.
+<p>
+Summary of key features:
+• Up to 48 pictograms.
+• Sample pictograms provided.
+• Examining the device for any image file.<p>
+Option to directly download pictograms from ARASAAC.
+• At any time you can change the order of the remaining tasks by simply dragging the pictogram to its new position.
+• Supports portrait and landscape orientation.
+• Allows to cross pictograms out, to emphasize the fact that a task is NOT to be performed.
+• If needed you can go back to previous pictogram or return to the initial status with all pending tasks.
+• You can save and load agendas generated for later use.
+• Text (show titles of the pictograms)
+• Sound (titles of the pictograms are read with ‘Text to Speech’ functionality)
+• “Timer” feature: Option to set automatic playing mode for agenda, setting the start time and duration of each pictogram.
+• Pictograms may have “memo” notes.<p></i>
+      <p>
+      <p><b>***Works on Android/IOS/Web App***</b>
+      <p>
+         <img src="https://www.pictogramagenda.es/wp-content/uploads/2020/12/pictogramagenda-devices.png" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://aulaabierta.arasaac.org/wp-content/uploads/2021/01/Pictogramagenda_ARASAAC.jpg" style="width: 300px;"> <img src="https://img.utdstc.com/screen/b84/9f8/b849f84be1d9f7e7903e102010c68b566e77e097a77df110ba35525715219d5f:600" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+      <p>
+      <p>
+      <p>More details in their official web site: https://www.pictogramagenda.es/en/pictogramagenda-en/ </p>
    </ol>
    <br>
    ***I'm still working on this repository to help anyone who needs it.***
