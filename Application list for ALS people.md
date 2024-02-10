@@ -412,7 +412,7 @@ Option to directly download pictograms from ARASAAC.<p>
       <p>
       <p><b>***Works on Android/IOS/Web App***</b>
       <p>
-         <img src="https://www.pictogramagenda.es/wp-content/uploads/2020/12/pictogramagenda-devices.png" alt="Primer imagen muestra de la aplicacion" style="width: 480px;"> <img src="https://aulaabierta.arasaac.org/wp-content/uploads/2021/01/Pictogramagenda_ARASAAC.jpg" style="width: 370px;"> <img src="https://img.utdstc.com/screen/b84/9f8/b849f84be1d9f7e7903e102010c68b566e77e097a77df110ba35525715219d5f:600" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
+         <img src="https://www.pictogramagenda.es/wp-content/uploads/2020/12/pictogramagenda-devices.png" alt="Primer imagen muestra de la aplicacion" style="width: 480px;"> <img src="https://aulaabierta.arasaac.org/wp-content/uploads/2021/01/Pictogramagenda_ARASAAC.jpg" style="width: 360px;"> <img src="https://img.utdstc.com/screen/b84/9f8/b849f84be1d9f7e7903e102010c68b566e77e097a77df110ba35525715219d5f:600" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
       <p>
       <p>
       <p>More details in their official web site: https://www.pictogramagenda.es/en/pictogramagenda-en/ </p>
