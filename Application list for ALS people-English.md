@@ -13,7 +13,7 @@
       <p><b>***Works on Apple/IOS/iPhone and Desktop/PC.***</b>
       <p>
          <img src="https://startacus.net/uploads/image/mindmate%20app%20screen-min.png" alt="Primer imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://www.feneticwellbeing.com/media/wysiwyg/blog/Screen-Shot-2017-07-21-at-17.15.54.png" alt="Segunda imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://bridgingapps.org/wp-content/uploads/2021/11/MindMate2.png" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
-      <p>More details in their official web site: https://www.mindmate-app.com/ </p>
+      <p>More details in their official website: https://www.mindmate-app.com/ </p>
       <br>
       <li><a href = "https://assistiveapps.com/">Assistive Express:</a></li>
       <p>
@@ -36,7 +36,7 @@
       <p><b>***Works on Apple/IOS/iPhone/iPad.***</b>
       <p>
          <img src="https://www.barrierefrei-kommunizieren.de/fileadmin/datenbank/user_upload/produkte/Assistive_Apps/AssistiveApps_AssisitveExpress.JPG" alt="Primer imagen muestra de la aplicacion" style="width: 393px;"> <img src="https://www.keyguardat.com/product_images/uploaded_images/screenshot.png" alt="Segunda imagen muestra de la aplicacion" style="width: 570px;">
-      <p>More details in their official web site: https://assistivexpress.com/</p>
+      <p>More details in their official website: https://assistivexpress.com/</p>
       <br>
       <li><a href = "https://eye-d.in/">Eye-D Pro:</a></li>
       <i>
@@ -52,7 +52,7 @@
       <p><b>***Works on IOS/iPhone/Android.***</b>
       <p>
          <img src="https://media.optometryweb.com/m/31/article/190900.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://eye-d.in/wp-content/uploads/2020/05/Untitled-design-2.png" alt="Segunda imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://i.ytimg.com/vi/imIirOk1WEQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQor7TwgDjlXcy92uhub_dAf3Zng" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
-      <p>More details in their official web site: https://eye-d.in/ </p>
+      <p>More details in their official website: https://eye-d.in/ </p>
       <br>
       <li><a href = "https://biglauncher.com/">Big Launcher:</a></li>
       <p>
@@ -72,7 +72,7 @@
       <p><b>***Works on Android.***</b>
       <p>
          <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 570px;"> <img src="https://biglauncher.com/screens/en/s06.png" alt="Segunda imagen muestra de la aplicacion" style="width: 180px;"> <img src="https://biglauncher.com/screens/en/s07.png" alt="Tercera imagen muestra de la aplicacion" style="width: 180px;">
-      <p>More details in their official web site: https://biglauncher.com/ 
+      <p>More details in their official website: https://biglauncher.com/ 
       <p>
          <br>
       <li><a href = "https://support.google.com/accessibility/android/answer/6283677?hl=en">TalkBack:</a></li>
@@ -88,8 +88,8 @@
       <p>
          <img src="https://cdn.mos.cms.futurecdn.net/bFzmSSF2J9BqCqNUfBypgL.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://www.lifewire.com/thmb/_DepZuINPl5uUf8_OYshp4eVp64=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_Talkback_On-819dc1a92c784cab882904cf19d911e9.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://sbenny.com/images/androidgameimage_ghi/xsbenny.com_google_talkback.jpg.pagespeed.ic.KhsC9ao1Vs.webp" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
-      <p>More details in their official web site: https://support.google.com/accessibility/android/answer/6283677?hl=en </p>
-      <p>How to Set up and Use Android's Talkback App: https://www.lifewire.com/how-to-use-android-talkback-app-4769904
+      <p>More details in their official website: https://support.google.com/accessibility/android/answer/6283677?hl=en </p>
+      <p>How to Setup and Use Android Talkback App: https://www.lifewire.com/how-to-use-android-talkback-app-4769904
       </p>
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess">Voice Access:</a></li>
@@ -99,7 +99,7 @@
       <p>
          <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://images.fonearena.com/blog/wp-content/uploads/2016/04/Google-Voice-Access-app-2.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201810/voice_access.jpeg" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>
-      <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess </p>
+      <p>More details in their official website: https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess </p>
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess">SpeechAssess:</a></li>
       <p>
@@ -114,7 +114,7 @@
          <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://media.bizj.us/view/img/11444183/speech-assess-app-report-web*1200xx3983-2240-0-0.png" alt="Segunda imagen muestra de la aplicacion" style="width: 480px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/3d/d0/273dd0b2-59c1-0a1b-7e08-6fea1ff2977e/pr_source.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
       <p>
       <p>
-      <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess" </p>
+      <p>More details in their official website: https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess" </p>
       <br>
       <li><a href = "https://experiments.withgoogle.com/looktospeak">Look to Speak:</a></li>
       <p>
@@ -127,7 +127,7 @@
          <img src="https://lh3.googleusercontent.com/OhaTD2FcdRkk7Qq741qVD-VWC4OIz11o-2IChz3hASsrrRNIpVpbUBFiMHLGrGAVcoEMccTEGnqbYS1_aInZLeemtZI" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://recodehive.com/wp-content/uploads/2020/12/Blue-Sweet-Tooth-Blog-Banner-3-1024x576.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kTcRQv1SG9YPh-Rv-D_M9ST8kqxUmwif_A&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
       <p>
-      <p>More details in their official web site: https://experiments.withgoogle.com/looktospeak </p>
+      <p>More details in their official website: https://experiments.withgoogle.com/looktospeak </p>
       <br>
       <li><a href = "https://www.optikey.org/">OptiKey:</a></li>
       <p>
@@ -142,7 +142,7 @@
          <img src="https://www.optikey.org/media/pages/applications/optikey-pro/2188186753-1679989592/keyboards_alpha_showing_light_and_dark_themes.png" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/72440548-1679989595/typing_into_word.png" style="width: 400px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/3030750248-1679989597/clicking_on_magnified_folder.png" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
       <p>
-      <p>More details in their official web site: https://www.optikey.org/ </p>
+      <p>More details in their official website: https://www.optikey.org/ </p>
       <br>
       <li><a href = "https://cima.aemps.es/cima/publico/home.html">AempsCIMA:</a></li>
       <p>
@@ -156,7 +156,7 @@
       <p>
          <img src="https://www.consalud.es/saludigital/uploads/s1/18/50/8/aemps4095.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 700px;">
       <p>
-      <p>More details in their official web site: https://cima.aemps.es/cima/publico/home.html </p>
+      <p>More details in their official website: https://cima.aemps.es/cima/publico/home.html </p>
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.arsla.mixiton&hl=en_US">Mixiton:</a></li>
       <p>
@@ -172,7 +172,7 @@ Given this situation and call for help many caregivers, the ARSLA wishes to enga
       <p>
          <img src="https://www.arsla.org/wp-content/uploads/2017/09/app-screenshots-1280x720-759x427.jpg" style="width: 700px;"> 
       <p>
-      <p>More details in their official web site: https://play.google.com/store/apps/details?id=com.arsla.mixiton&hl=en_US </p>
+      <p>More details in their official website: https://play.google.com/store/apps/details?id=com.arsla.mixiton&hl=en_US </p>
       <p>
       <br>
       <li><a href = "https://www.carezone.com/">CareZone:</a></li>
@@ -186,7 +186,7 @@ Given this situation and call for help many caregivers, the ARSLA wishes to enga
       <p>
          <img src="https://media.licdn.com/dms/image/C5612AQF_Cr_zzujfKw/article-cover_image-shrink_720_1280/0/1520119941314?e=2147483647&v=beta&t=aN7hd6sl__LHS1dMYNwuTbK5uP3x_AdExH-xS00BCHk" alt="Primer imagen muestra de la aplicacion" style="width: 700px;"> 
       <p>
-      <p>More details in their official web site: https://www.carezone.com/ </p>
+      <p>More details in their official website: https://www.carezone.com/ </p>
       <p>
       <br>
       <li><a href = "https://www.lumosity.com/">Lumosity’s Human Cognition Project:</a></li>
@@ -204,7 +204,7 @@ The Human Cognition Project (HCP) is our online, collaborative research platform
          <img src="https://images.macrumors.com/t/qoaoIpp_w54j7R2Sr05ccmOaVE4=/1600x/article-new/2016/01/lumosity-800x706.jpg" style="width: 350px;"> <img src="https://onemindpsyberguide.org/wp-content/uploads/2020/05/LumosityScreenShots-1024x540.jpg" style="width: 585px;"> <img src="https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/ZZRMWUs1v65JQd7KQsGxEsyJGQc=/400x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/QKECFOK2ZBT6TDO7K6RNV64U2M.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
       <p>
-      <p>More details in their official web site: https://www.lumosity.com/ </p>
+      <p>More details in their official website: https://www.lumosity.com/ </p>
       <br>
       <li><a href = "https://www.mymsteam.com/">MyMSTeam:</a></li>
          <p>
@@ -218,7 +218,7 @@ The Human Cognition Project (HCP) is our online, collaborative research platform
          <img src="https://www.mymsteam.com/assets/msc/home_image_main-867b4eb296ee97a93ac3757be45808d8674128a5a6253b32bf7640959741cd5a.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://cdn.myhealthteams.com/promo/649ed2c402ac6419001978ac/wslide/MyMSTeam_MyMSTeamStories_RC_Carousel_1300x750_v2-37c93cb2d6c7101174762b0e52f2f802-3f6c76bd64c93cb6655a510e8f55a8ac_copy-d51d1a79ac4dd31ef7d4cad3435bb26d.webp?1688130243" style="width: 410px;"> <img src="https://cdn.myhealthteams.com/idxcard/5f3c35f0f5352872f7723a6d/wslide/MyMSTeam_YourGuideToMS_MainCarousel-749b69963bc628cd108de86c198eaa69.webp?1682464072" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
       <p>
       <p>
-      <p>More details in their official web site: https://www.mymsteam.com/ </p>
+      <p>More details in their official website: https://www.mymsteam.com/ </p>
       <br>
       <li><a href = "https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953">Multiple Sclerosis @POC:</a></li>
          <p>
@@ -260,7 +260,7 @@ Features:
          <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/73/e0/4973e055-e8d4-5e29-3e72-e750ee3bd150/d8d7bf38-eaac-4792-b0a1-d42fa141a849_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-09-15_at_16.31.30.png/300x0w.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/54/c2/cb54c278-dfff-e810-41ae-ead5f107205a/3ade7098-26a0-476c-aac3-8c28e0e186fc_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-05-08_at_10.45.29.png/300x0w.jpg" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/5f/65/845f6574-ed79-53cc-28f1-14735088e444/2c258185-a990-4e15-ae33-5cabcb0880c5_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029_Screen_shots_-_2023-09-15_at_16.33.55.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 325px;">
       <p>
       <p>
-      <p>More details in their official web site: https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953 </p>
+      <p>More details in their official website: https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953 </p>
       <br>
       <li><a href = "https://apps.apple.com/us/app/noteness/id639289114">Noteness:</a></li>
          <p>
@@ -289,7 +289,7 @@ Export your data via PDF or by E-Mail.
          <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/32/a1/c9/32a1c9d8-23e9-6ab9-1c21-69886b040a8c/266ad35f-78e6-448a-9b1e-4cf6e84dbfdf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.30.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1d/c3/c9/1dc3c959-df5d-c83d-6562-811c2888abbb/c1b84171-d1f2-4a59-8526-c9e1ead8dee2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.39.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/19/cf/55/19cf5500-f5f7-60d3-ebb6-5946ef910abd/6403de91-4c17-4c15-bbc8-b676c56203db_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-09-17_at_06.22.05.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 604px;">
       <p>
       <p>
-      <p>More details in their official web site: https://apps.apple.com/us/app/noteness/id639289114 </p>
+      <p>More details in their official website: https://apps.apple.com/us/app/noteness/id639289114 </p>
       <br>
       <li><a href = "https://apps.apple.com/us/app/letmetalk/id919990138">LET ME TALK:</a></li>
          <p>
@@ -327,7 +327,7 @@ Features:
          <img src="https://ash21.alwaysdata.net/images/letmetalk02.jpg" style="width: 600px;"> <img src="https://ash21.alwaysdata.net/images/letmetalk04.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://applications-autisme.com/sites/default/files/styles/extra_large/public/apps/screenshots/545a2486569df3.67029191.png?itok=ToekqXAW" style="width: 210px;">
       <p>
       <p>
-      <p>More details in their official web site: https://apps.apple.com/tr/app/letmetalk/id919990138</p>
+      <p>More details in their official website: https://apps.apple.com/tr/app/letmetalk/id919990138</p>
       <br>
       <li><a href = "https://www.symbotalk.com/">SYMBOTALK:</a></li>
          <p>
@@ -370,7 +370,7 @@ The app is designed for those whose physical or mental condition does not allow 
          <img src="https://www.symbotalk.com/img/weLoveSymboTalk.png" alt="Primer imagen muestra de la aplicacion" style="width: 250px;"> <img src="https://www.symbotalk.com/img/Simulator%20Screen%20Shot%20-%20iPad%20Air%202%20-%202017-12-16%20at%2021.05.52.png" style="width: 332px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQrwnyE1p4E3fOSYWx-I1HY7Ilnvz0WVKog&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 586px;">
       <p>
       <p>
-      <p>More details in their official web site: https://www.symbotalk.com/ </p>
+      <p>More details in their official website: https://www.symbotalk.com/ </p>
       <br>
       <li><a href = "https://www.eneso.es/verbo/">ENESO VERBO:</a></li>
          <p>
@@ -384,7 +384,7 @@ The app is designed for those whose physical or mental condition does not allow 
          <img src="https://i.ytimg.com/vi/KCdqOuISVGI/hqdefault.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://www.eneso.es/verbo/img/home_verbo_actividades.jpg" style="width: 500px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5F2K72aWMa13sgdx9K3QkAJG5B6HDjnexyw&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
       <p>
-      <p>More details in their official web site: https://www.eneso.es/verbo/ </p>
+      <p>More details in their official website: https://www.eneso.es/verbo/ </p>
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.lorenzomoreno.pictogramagenda">PICTOGRAMA AGENDA:</a></li>
          <p>
@@ -415,7 +415,7 @@ Option to directly download pictograms from ARASAAC.<p>
          <img src="https://www.pictogramagenda.es/wp-content/uploads/2020/12/pictogramagenda-devices.png" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://aulaabierta.arasaac.org/wp-content/uploads/2021/01/Pictogramagenda_ARASAAC.jpg" style="width: 300px;"> <img src="https://img.utdstc.com/screen/b84/9f8/b849f84be1d9f7e7903e102010c68b566e77e097a77df110ba35525715219d5f:600" alt="Tercera imagen muestra de la aplicacion" style="width: 350px;">
       <p>
       <p>
-      <p>More details in their official web site: https://www.pictogramagenda.es/en/pictogramagenda-en/ </p>
+      <p>More details in their official website: https://www.pictogramagenda.es/en/pictogramagenda-en/ </p>
    </ol>
    <br>
    ***I'm still working on this repository to help anyone who needs it.***
