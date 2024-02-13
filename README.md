@@ -30,7 +30,7 @@ Este proyecto es sin fines de lucro, el único objetivo es colaborar con la inse
     <p>
 <i>Project carried out by members of the computer science community "WolfPunk IT".</i>
     <p>
-    <h3><a href = "https://github.com/Croll1312/Application-list-for-ALS-ELA-SLA/main/Application%20list%20for%20ALS%20people-English.md">***Application list.***</a></h3>
+    <h3><a href = "https://github.com/Croll1312/Application-list-for-ALS-ELA-SLA/blob/main/Application%20list%20for%20ALS%20people-English.md">***Application list.***</a></h3>
     <p>
     <br>
     </li>
