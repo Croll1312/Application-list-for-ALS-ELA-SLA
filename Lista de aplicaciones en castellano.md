@@ -243,11 +243,11 @@ Noteness es una aplicación moderna, rápida y fácil de usar de diario de Escle
       <li><a href = "https://apps.apple.com/us/app/letmetalk/id919990138">LET ME TALK:</a></li>
          <p>
          <i>
-Una aplicación gratuita de comunicación aumentativa y alternativa (AAC) que brinda apoyo en todas las áreas de la vida y, por lo tanto, les da voz a todos.
-LetMeTalk es financiada mediante donaciones.
-LetMeTalk te permite alinear imágenes de manera significativa para leer esta fila de imágenes como una oración.
-Alinear imágenes se conoce como AAC (Comunicación Aumentativa y Alternativa).
-La base de datos de imágenes de LetMeTalk contiene más de 9,000 imágenes de fácil comprensión de ARASAAC (http://arasaac.org). <p>Además, puedes agregar imágenes existentes desde el dispositivo o tomar nuevas fotos con la cámara incorporada.<p>Para utilizar LetMeTalk no se necesita conexión a internet ni contrato móvil, por lo que puedes usar LetMeTalk en casi cualquier situación, como hospitales, hogares de ancianos o escuelas.<p>
+Una aplicación gratuita de comunicación aumentativa y alternativa (AAC) que brinda apoyo en todas las áreas de la vida y, por lo tanto, les da voz a todos. <p>
+LetMeTalk es financiada mediante donaciones. <p>
+LetMeTalk te permite alinear imágenes de manera significativa para leer esta fila de imágenes como una oración. <p>
+Alinear imágenes se conoce como AAC (Comunicación Aumentativa y Alternativa). <p>
+La base de datos de imágenes de LetMeTalk contiene más de 9,000 imágenes de fácil comprensión de ARASAAC ( http://arasaac.org ). <p>Además, puedes agregar imágenes existentes desde el dispositivo o tomar nuevas fotos con la cámara incorporada.<p>Para utilizar LetMeTalk no se necesita conexión a internet ni contrato móvil, por lo que puedes usar LetMeTalk en casi cualquier situación, como hospitales, hogares de ancianos o escuelas.<p>
 <b><ul>*Adecuado para:</b>
 <li>Síntomas de autismo y síndrome de Asperger, trastorno del espectro autista (TEA).</li>
 <li>Afasia.</li>
