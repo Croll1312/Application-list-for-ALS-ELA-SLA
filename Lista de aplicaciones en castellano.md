@@ -73,7 +73,7 @@ Según la tienda de aplicaciones Google Play, la Suite de Accesibilidad de Andro
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess">Voice Access:</a></li>
       <p><i> <p>Voice Access ayuda a cualquier persona que tenga dificultad para manejar una pantalla táctil (por ejemplo, debido a parálisis, temblores o lesiones temporales) a utilizar su dispositivo Android mediante voz.</i>
-      <p><b>***Funciona en Android.***</b>
+<p><br><b>***Funciona en Android.***</b>
 <p><br>
          <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://images.fonearena.com/blog/wp-content/uploads/2016/04/Google-Voice-Access-app-2.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201810/voice_access.jpeg" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>
@@ -86,8 +86,8 @@ Esta aplicación es un estudio de investigación cerrado y exclusivo para partic
 Por ahora, la funcionalidad de la aplicación se limita a la recopilación de datos de habla.<p>
 Difundirán esta aplicación en más de 60 centros clínicos para recopilar un conjunto inicial de datos para el análisis posterior.<p>
 Eventualmente, la funcionalidad de la aplicación se ampliará para incluir medidas de resultado que rastreen el progreso de los pacientes; sin embargo, para hacer esto, la aplicación debe difundirse en su forma actual para recopilar datos para la calibración del algoritmo.</i>
-      <p><b>***Funciona en dispositivos IOS/iPhone/Android.***</b>
-      <p>
+<p><br><b>***Funciona en dispositivos IOS/iPhone/Android.***</b>
+<p><br>
          <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://media.bizj.us/view/img/11444183/speech-assess-app-report-web*1200xx3983-2240-0-0.png" alt="Segunda imagen muestra de la aplicacion" style="width: 480px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/3d/d0/273dd0b2-59c1-0a1b-7e08-6fea1ff2977e/pr_source.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
       <p>
       <p>
@@ -98,8 +98,8 @@ Eventualmente, la funcionalidad de la aplicación se ampliará para incluir medi
          <i> <p>
 Una aplicación para Android que permite a las personas utilizar sus ojos para seleccionar frases preescritas y que estas sean habladas en voz alta.<p>
 Iniciar experimento Colecciones: Comienza con One AI Experiments Comenzando con Look to Speak Comienza con Sarah Ezekiel Sarah Ezekiel es una artista que fue diagnosticada con enfermedad de neurona motora en 2000.</i>
-      <p><b>***Funciona en Android.***</b>
-      <p>
+<p><br><b>***Funciona en Android.***</b>
+<p><br>
          <img src="https://lh3.googleusercontent.com/OhaTD2FcdRkk7Qq741qVD-VWC4OIz11o-2IChz3hASsrrRNIpVpbUBFiMHLGrGAVcoEMccTEGnqbYS1_aInZLeemtZI" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://recodehive.com/wp-content/uploads/2020/12/Blue-Sweet-Tooth-Blog-Banner-3-1024x576.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kTcRQv1SG9YPh-Rv-D_M9ST8kqxUmwif_A&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
       <p>
@@ -112,7 +112,7 @@ OptiKey es un software gratuito de teclado en pantalla, de código abierto, desa
 OptiKey rastrea y detecta los movimientos oculares del usuario y los convierte en movimientos del mouse y entradas de teclado.<p>
 También ofrece diversas funciones como predicción de palabras, autocompletado y diseños personalizables para mejorar la experiencia de escritura de usuarios con movilidad limitada.<p>
 OptiKey fue desarrollado por Julius Sweetland y está disponible para sistemas operativos Windows.<p></i>
-      <p><b>***Funciona en Android/Windows.***</b>
+<p><br><b>***Funciona en Android/Windows.***</b>
 <p><br>
          <img src="https://www.optikey.org/media/pages/applications/optikey-pro/2188186753-1679989592/keyboards_alpha_showing_light_and_dark_themes.png" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/72440548-1679989595/typing_into_word.png" style="width: 400px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/3030750248-1679989597/clicking_on_magnified_folder.png" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
@@ -126,8 +126,7 @@ La aplicación AempsCIMA es una aplicación móvil desarrollada por la Agencia E
 Proporciona información sobre medicamentos y dispositivos médicos aprobados en España, permitiendo a profesionales de la salud y al público en general acceder a la base de datos de productos autorizados.<p>
 La aplicación incluye funciones como buscar medicamentos, verificar sus ingredientes activos, indicaciones y contraindicaciones, así como proporcionar información sobre efectos adversos e interacciones con otros medicamentos.<p>
 Su objetivo es promover el uso seguro e informado de medicamentos y dispositivos médicos. </i>
-<p>
-         <p><b>***Funciona en Android.***</b>
+<p><br><b>***Funciona en Android.***</b>
 <p><br>
          <img src="https://www.consalud.es/saludigital/uploads/s1/18/50/8/aemps4095.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 700px;">
       <p>
@@ -141,7 +140,7 @@ En 9 de cada 10 casos, el uso de una gastrostomía (una operación quirúrgica p
 Es tan común que los pacientes pierdan el placer de comer, y corren el riesgo de malnutrición y aislamiento.<p>
 Ante esta situación y el llamado de ayuda de muchos cuidadores, la ARSLA desea comprometerse con los pacientes y sus cuidadores para que puedan preservar el placer de la mesa y seguir compartiendo una comida en familia o entre amigos.<p>
 Así nació el proyecto original de un concurso culinario dedicado a alimentos picados y mezclados: Mixiton, el reencuentro con el placer de la mesa.<p></i>
-         <p><b>***Funciona en Android/Windows.***</b>
+<p><br><b>***Funciona en Android/Windows.***</b>
 <p><br>
          <img src="https://www.arsla.org/wp-content/uploads/2017/09/app-screenshots-1280x720-759x427.jpg" style="width: 700px;"> 
       <p>
@@ -153,7 +152,7 @@ Así nació el proyecto original de un concurso culinario dedicado a alimentos p
 <i><p>CareZone es una aplicación móvil diseñada para ayudar a las personas y a sus cuidadores a gestionar la atención médica y los medicamentos desde una plataforma centralizada.<p>
 La aplicación ofrece características como herramientas de gestión de medicamentos, recordatorios de horarios, seguimiento de síntomas, almacenamiento y compartición de información vital de salud, y facilitación de la comunicación entre los cuidadores.<p>
 Su objetivo es simplificar el proceso de coordinación de la atención médica y mantenerse organizado en medio de necesidades médicas complejas.<p></i>
-       <p><b>***Funciona en Android.***</b>
+<p><br><b>***Funciona en Android.***</b>
 <p><br>
          <img src="https://media.licdn.com/dms/image/C5612AQF_Cr_zzujfKw/article-cover_image-shrink_720_1280/0/1520119941314?e=2147483647&v=beta&t=aN7hd6sl__LHS1dMYNwuTbK5uP3x_AdExH-xS00BCHk" alt="Primer imagen muestra de la aplicacion" style="width: 700px;"> 
       <p>
@@ -164,8 +163,7 @@ Su objetivo es simplificar el proceso de coordinación de la atención médica y
             <p>
          <i>
 <p>El entrenamiento cognitivo es todavía un campo relativamente nuevo, lo cual lo convierte en un espacio emocionante para nuevas ideas e investigaciones.<p>Es por eso que Lumosity lleva a cabo investigaciones sobre entrenamiento cognitivo y facilita la investigación de científicos independientes de más de 40 universidades, con el objetivo de profundizar nuestra comprensión de la cognición humana.<p>El Proyecto Cognición Humana (HCP) es nuestra plataforma de investigación colaborativa en línea.<p>A través del HCP, otorgamos acceso gratuito a investigadores calificados a las tareas de entrenamiento cognitivo y herramientas de investigación de Lumosity, así como acceso limitado a datos sobre el rendimiento en tareas cognitivas.<p>Individualmente, estos colaboradores investigan una amplia gama de temas que les interesan.<p>En conjunto, estamos trabajando juntos para avanzar en el campo.</i>
-
-  <p><b>***Funciona en Android / iPad / iOS.****</b>
+<p><br><b>***Funciona en Android / iPad / iOS.****</b>
 <p><br>
          <img src="https://images.macrumors.com/t/qoaoIpp_w54j7R2Sr05ccmOaVE4=/1600x/article-new/2016/01/lumosity-800x706.jpg" style="width: 350px;"> <img src="https://onemindpsyberguide.org/wp-content/uploads/2020/05/LumosityScreenShots-1024x540.jpg" style="width: 585px;"> <img src="https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/ZZRMWUs1v65JQd7KQsGxEsyJGQc=/400x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/QKECFOK2ZBT6TDO7K6RNV64U2M.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
@@ -178,8 +176,7 @@ Su objetivo es simplificar el proceso de coordinación de la atención médica y
 MyMSTeam es la red social para aquellos que viven con esclerosis múltiple. <p>
 Obtén el apoyo emocional que necesitas de personas como tú y obtén consejos prácticos y perspectivas sobre cómo gestionar el tratamiento y terapias para la esclerosis múltiple. <p>
 MyMSTeam es la única red social en la que realmente puedes conectar, hacer amistades reales y compartir altibajos diarios en un espacio libre de juicios.</i>
-
-  <p><b>***Funciona en Android/Windows.***</b><p>
+<p><br><b>***Funciona en Android/Windows.***</b><p>
 <p><br>
          <img src="https://www.mymsteam.com/assets/msc/home_image_main-867b4eb296ee97a93ac3757be45808d8674128a5a6253b32bf7640959741cd5a.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://cdn.myhealthteams.com/promo/649ed2c402ac6419001978ac/wslide/MyMSTeam_MyMSTeamStories_RC_Carousel_1300x750_v2-37c93cb2d6c7101174762b0e52f2f802-3f6c76bd64c93cb6655a510e8f55a8ac_copy-d51d1a79ac4dd31ef7d4cad3435bb26d.webp?1688130243" style="width: 410px;"> <img src="https://cdn.myhealthteams.com/idxcard/5f3c35f0f5352872f7723a6d/wslide/MyMSTeam_YourGuideToMS_MainCarousel-749b69963bc628cd108de86c198eaa69.webp?1682464072" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
       <p>
@@ -209,7 +206,7 @@ Con IA cognitiva, las respuestas con calificación de confianza para incorporar 
 <li>Encuestas y votaciones entre pares.</li>
 <li>Recursos de educación para pacientes para compartir con los pacientes.</li>
 </ul></i>
-  <br><b>***Funciona en iPhone/iPad.***</b><p>
+<p><br><b>***Funciona en iPhone/iPad.***</b><p>
 <p><br>
          <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/73/e0/4973e055-e8d4-5e29-3e72-e750ee3bd150/d8d7bf38-eaac-4792-b0a1-d42fa141a849_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-09-15_at_16.31.30.png/300x0w.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/54/c2/cb54c278-dfff-e810-41ae-ead5f107205a/3ade7098-26a0-476c-aac3-8c28e0e186fc_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-05-08_at_10.45.29.png/300x0w.jpg" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/5f/65/845f6574-ed79-53cc-28f1-14735088e444/2c258185-a990-4e15-ae33-5cabcb0880c5_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029_Screen_shots_-_2023-09-15_at_16.33.55.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 325px;">
       <p>
@@ -312,8 +309,7 @@ La aplicación está diseñada para aquellas personas cuya condición física o 
 Verbo es una aplicación para Windows y Android que permite crear tableros de comunicación y actividades educativas de manera rápida e intuitiva.<p>
 Combina pictogramas, texto, sonidos y voz para diseñar tu comunicador ideal, o aprovecha los recursos que han compartido otros usuarios. <p>Hay cientos de tableros y actividades que puedes utilizar libremente.<p>
 Verbo es compatible con la mayoría de los sistemas de acceso para computadoras y tabletas: rastreadores oculares para controlar la mirada, interruptores para acceso escaneado, ratones de cabeza, pizarras interactivas, pantallas táctiles... No importa cuál sea tu grado de movilidad, Verbo se adaptará para proporcionarte una comunicación cómoda y funcional.<p></i>
-
-  <p><b>***Funciona en Android/Windows.***</b>
+<p><br><b>***Funciona en Android/Windows.***</b>
 <p><br>
          <img src="https://i.ytimg.com/vi/KCdqOuISVGI/hqdefault.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://www.eneso.es/verbo/img/home_verbo_actividades.jpg" style="width: 500px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5F2K72aWMa13sgdx9K3QkAJG5B6HDjnexyw&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
@@ -342,13 +338,13 @@ Las imágenes de las tareas ya realizadas se irán hacia la parte inferior de la
 <li>Sonido (los títulos de los pictogramas se leen con la funcionalidad de "Texto a voz").</li>
 <li>Función de "Temporizador": opción de configurar el modo de reproducción automática para la agenda, estableciendo la hora de inicio y la duración de cada pictograma.</li>
 <li>Los pictogramas pueden tener notas "memo".</li></ul><p></i>
-  <p><b>***Funciona en Android/IOS/Web App.***</b>
+<p><br><b>***Funciona en Android/IOS/Web App.***</b>
 <p><br>
          <img src="https://www.pictogramagenda.es/wp-content/uploads/2020/12/pictogramagenda-devices.png" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://aulaabierta.arasaac.org/wp-content/uploads/2021/01/Pictogramagenda_ARASAAC.jpg" style="width: 300px;"> <img src="https://img.utdstc.com/screen/b84/9f8/b849f84be1d9f7e7903e102010c68b566e77e097a77df110ba35525715219d5f:600" alt="Tercera imagen muestra de la aplicacion" style="width: 350px;">
       <p>
       <p>
       <p>Más detalles en su web oficial: https://www.pictogramagenda.es/en/pictogramagenda-en/ </p>
    </ol>
-   <br>
-   ***Sigo trabajando en este repositorio para ayudar a cualquiera que lo necesite.***
+<p><br>
+   <b>***Sigo trabajando en este repositorio para ayudar a cualquiera que lo necesite.***</b>
    <br>
