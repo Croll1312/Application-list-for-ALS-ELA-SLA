@@ -50,7 +50,7 @@ Impulsados por el impacto de nuestras soluciones innovadoras y asequibles, segui
 🔹 El soporte extendido para el lector de pantalla Talkback permite a los usuarios con discapacidad visual utilizar su teléfono con facilidad y confianza.<p>
 🔹 Todas las aplicaciones también se pueden controlar mediante un teclado físico o a través de la interfaz de silla de ruedas Tecla, lo que permite a los usuarios con parálisis tener un control completo y preciso del smartphone sin necesidad de tocar la pantalla.<p>
 BIG Launcher está disponible en los siguientes idiomas: հայերեն, azərbaycan dili, বাংলা, български, 简体中文, 繁體中文, hrvatski, česky, dansk, nederlands, english, eesti, suomi, français, deutsch, ελληνικά, halshen hausa, हिन्दी, magyar, bahasa indonesia, italiano, 日本語, basa jawa 한국어, kurdî, latviešu, lietuvių, bahasa melayu, norsk, polski, português, português brasileiro, ਪੰਜਾਬੀ, română, русский, српски, srpski, slovenčina, slovenščina, español, svenska, தமிழ், తెలుగు, ภาษาไทย, türkçe, українська мова, tiếng việt, العربية, עברית, فارسی, پنجابی, اردو.<p></i>
-      <p><b>***Funciona en Android.</b>
+      <p><b>***Funciona en Android.***</b>
       <p>
          <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 570px;"> <img src="https://biglauncher.com/screens/en/s06.png" alt="Segunda imagen muestra de la aplicacion" style="width: 180px;"> <img src="https://biglauncher.com/screens/en/s07.png" alt="Tercera imagen muestra de la aplicacion" style="width: 180px;">
       <p>Más detalles en su web oficial: https://biglauncher.com/ 
@@ -194,22 +194,23 @@ Multiple Sclerosis @Point of Care™ proporciona una herramienta de apoyo a la t
 Con IA cognitiva, los médicos utilizan @Point of Care para acceder fácilmente a contenido médico específico de enfermedades, basado en evidencia y seleccionado por expertos.<p>
 Los médicos pueden navegar por el contenido formulando preguntas con lenguaje natural activado por voz.<p>
 Con IA cognitiva, las respuestas con calificación de confianza para incorporar rápidamente las mejores opciones de tratamiento se obtienen de manera más rápida y se toman decisiones de manera más eficiente para mejorar los resultados del paciente en el punto de atención.<p>
-*Multiple Sclerosis @Point of Care™ está diseñado para:
-• Apoyar el descubrimiento y el cambio en la práctica.<p>
-• Proporcionar contenido médico relevante y específico de enfermedades basado en evidencia.<p>
-• Mejorar los resultados del paciente en el punto de atención.<p>
-*Características:
-• Contenido de esclerosis múltiple actualizado continuamente.<p>
-• Temas sobre diagnóstico, tratamiento y manejo del cuidado desarrollados por médicos expertos.<p>
-• Estudios de casos, videos y entrevistas.<p>
-• Acceso a datos de pacientes grabados que se pueden utilizar para tomar acciones.<p>
-• Lista de referencias detallada con acceso a las fuentes originales.<p>
-• Crédito de educación médica continua (CME/CE).<p>
-• Encuestas y votaciones entre pares.<p>
-• Recursos de educación para pacientes para compartir con los pacientes.<p></i>
-
-  <p><b>***Funciona en iPhone/iPad.***</b>
-      <p>
+<ul><b>Multiple Sclerosis @Point of Care™ está diseñado para:</u> </b>
+<li>Apoyar el descubrimiento y el cambio en la práctica.</li>
+<li>Proporcionar contenido médico relevante y específico de enfermedades basado en evidencia.</li>
+<li>Mejorar los resultados del paciente en el punto de atención.</li>
+</ul><p>
+<ul><b>Características:</b> </u>
+<li>Contenido de esclerosis múltiple actualizado continuamente.</li>
+<li>Temas sobre diagnóstico, tratamiento y manejo del cuidado desarrollados por médicos expertos.</li>
+<li>Estudios de casos, videos y entrevistas.</li>
+<li>Acceso a datos de pacientes grabados que se pueden utilizar para tomar acciones.</li>
+<li>Lista de referencias detallada con acceso a las fuentes originales.</li>
+<li>Crédito de educación médica continua (CME/CE).</li>
+<li>Encuestas y votaciones entre pares.</li>
+<li>Recursos de educación para pacientes para compartir con los pacientes.</li>
+</ul></i>
+  <br><b>***Funciona en iPhone/iPad.***</b><p>
+  <br><p>
          <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/73/e0/4973e055-e8d4-5e29-3e72-e750ee3bd150/d8d7bf38-eaac-4792-b0a1-d42fa141a849_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-09-15_at_16.31.30.png/300x0w.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/54/c2/cb54c278-dfff-e810-41ae-ead5f107205a/3ade7098-26a0-476c-aac3-8c28e0e186fc_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-05-08_at_10.45.29.png/300x0w.jpg" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/5f/65/845f6574-ed79-53cc-28f1-14735088e444/2c258185-a990-4e15-ae33-5cabcb0880c5_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029_Screen_shots_-_2023-09-15_at_16.33.55.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 325px;">
       <p>
       <p>
@@ -220,24 +221,20 @@ Con IA cognitiva, las respuestas con calificación de confianza para incorporar 
          <i>         
 Noteness es una aplicación moderna, rápida y fácil de usar de diario de Esclerosis Múltiple. Noteness está adaptado a los requisitos de un diario de EM y prescinde de adornos innecesarios.
 <p>
-   - Entradas:
+<ul><b>*Entradas:</b>
+<ul>-Crea dos tipos diferentes de entradas:
+<li>Inyecciones, con una selección de posiciones de inyección y notas opcionales.</li>
+<li>Síntomas, con títulos y notas individuales.</li></ul></ul>
 <p>
-Crea dos tipos diferentes de entradas:
-
-I.Inyecciones, con una selección de posiciones de inyección y notas opcionales.
-
-II.Síntomas, con títulos y notas individuales.
+<ul><b>*Recordatorios:</b>
+<ul>-Crea recordatorios para tus inyecciones. Los recordatorios pueden programarse para todos los días, cada segundo día y para días personalizados de la semana.</ul></ul>
 <p>
-   - Recordatorios:
-<p>
-Crea recordatorios para tus inyecciones. Los recordatorios pueden programarse para todos los días, cada segundo día y para días personalizados de la semana.
-<p>
-   - Exportar:
-<p>
-Exporta tus datos en formato PDF o por correo electrónico.<p></i>
-
+<ul><b>*Exportar:</b>
+<ul>-Exporta tus datos en formato PDF o por correo electrónico.</ul><p></i></ul>
+<br>
   <p><b>***Funciona en iPhone/iPad.***</b>
       <p>
+ <p>
          <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/32/a1/c9/32a1c9d8-23e9-6ab9-1c21-69886b040a8c/266ad35f-78e6-448a-9b1e-4cf6e84dbfdf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.30.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1d/c3/c9/1dc3c959-df5d-c83d-6562-811c2888abbb/c1b84171-d1f2-4a59-8526-c9e1ead8dee2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.39.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/19/cf/55/19cf5500-f5f7-60d3-ebb6-5946ef910abd/6403de91-4c17-4c15-bbc8-b676c56203db_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-09-17_at_06.22.05.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 604px;">
       <p>
       <p>
@@ -246,50 +243,32 @@ Exporta tus datos en formato PDF o por correo electrónico.<p></i>
       <li><a href = "https://apps.apple.com/us/app/letmetalk/id919990138">LET ME TALK:</a></li>
          <p>
          <i>
-Una aplicación gratuita de comunicación aumentativa y alternativa (AAC) que brinda apoyo en todas las áreas de la vida y, por lo tanto, les da voz a todos.<p> LetMeTalk es financiada mediante donaciones.<p>
-LetMeTalk te permite alinear imágenes de manera significativa para leer esta fila de imágenes como una oración.<p> Alinear imágenes se conoce como AAC (Comunicación Aumentativa y Alternativa).<p>
-La base de datos de imágenes de LetMeTalk contiene más de 9,000 imágenes de fácil comprensión de ARASAAC (http://arasaac.org). <p>Además, puedes agregar imágenes existentes desde el dispositivo o tomar nuevas fotos con la cámara incorporada.<p>
-Para utilizar LetMeTalk no se necesita conexión a internet ni contrato móvil, por lo que puedes usar LetMeTalk en casi cualquier situación, como hospitales, hogares de ancianos o escuelas.<p>
-Adecuado para:
-
-• síntomas de autismo y síndrome de Asperger, trastorno del espectro autista (TEA).
-
-• afasia.
-
-• apraxia del habla.
-
-• trastorno de la articulación/fonológico.
-
-• esclerosis lateral amiotrófica (ELA).
-
-• enfermedad de las neuronas motoras (ENM).
-
-• parálisis cerebral.
-
-• síndrome de Down.
-
-Características:
-
-• más de 9,000 imágenes de ARASAAC incluidas.
-
-• compatibilidad con voz para imágenes y oraciones.
-
-• creación ilimitada y flexible de nuevas categorías y agregado de nuevas imágenes.
-
-• preconfigurado para niños con trastorno del espectro autista (TEA).
-
-• cargar/guardar tu perfil actual (vocabulario).
-
-• mantener varios perfiles en tus dispositivos y cambiar rápidamente entre ellos.
-
-• compartir tu perfil fácilmente con otros dispositivos.
-
-• cambiar rápidamente entre 2 idiomas y usar LetMeTalk como traductor.
-
-• idiomas compatibles: inglés, español, francés, italiano y alemán, chino, portugués, portugués brasileño, holandés, árabe, ruso, polaco, búlgaro, rumano, gallego, catalán, vasco.
-
-• compatibilidad con voz para la mayoría de los idiomas.<p></i>
-
+Una aplicación gratuita de comunicación aumentativa y alternativa (AAC) que brinda apoyo en todas las áreas de la vida y, por lo tanto, les da voz a todos.
+LetMeTalk es financiada mediante donaciones.
+LetMeTalk te permite alinear imágenes de manera significativa para leer esta fila de imágenes como una oración.
+Alinear imágenes se conoce como AAC (Comunicación Aumentativa y Alternativa).
+La base de datos de imágenes de LetMeTalk contiene más de 9,000 imágenes de fácil comprensión de ARASAAC (http://arasaac.org). <p>Además, puedes agregar imágenes existentes desde el dispositivo o tomar nuevas fotos con la cámara incorporada.<p>Para utilizar LetMeTalk no se necesita conexión a internet ni contrato móvil, por lo que puedes usar LetMeTalk en casi cualquier situación, como hospitales, hogares de ancianos o escuelas.<p>
+<b><ul>*Adecuado para:</b>
+<li>Síntomas de autismo y síndrome de Asperger, trastorno del espectro autista (TEA).</li>
+<li>Afasia.</li>
+<li>Apraxia del habla.</li>
+<li>Trastorno de la articulación/fonológico.</li>
+<li>Esclerosis lateral amiotrófica (ELA).</li>
+<li>Enfermedad de las neuronas motoras (ENM).</li>
+<li>Parálisis cerebral.</li>
+<li>Síndrome de Down.</li></ul>
+<b><p><ul>*Características:</b>
+<li>Más de 9,000 imágenes de ARASAAC incluidas.</li>
+<li>Compatibilidad con voz para imágenes y oraciones.</li>
+<li>Creación ilimitada y flexible de nuevas categorías y agregado de nuevas imágenes.</li>
+<li>Preconfigurado para niños con trastorno del espectro autista (TEA).</li>
+<li>Cargar/guardar tu perfil actual (vocabulario).</li>
+<li>Mantener varios perfiles en tus dispositivos y cambiar rápidamente entre ellos.
+<li>Compartir tu perfil fácilmente con otros dispositivos.</li>
+<li>Cambiar rápidamente entre 2 idiomas y usar LetMeTalk como traductor.</li>
+<li>Idiomas compatibles: inglés, español, francés, italiano y alemán, chino, portugués, portugués brasileño, holandés, árabe, ruso, polaco, búlgaro, rumano, gallego, catalán, vasco.</li>
+<li>Compatibilidad con voz para la mayoría de los idiomas.</li><p></ul></i>
+<br>
   <p><b>***Funciona en Android/Iphone/Ipad.***</b>
 <p>
       <p>
@@ -307,24 +286,22 @@ Al hacer clic en un símbolo, se lee en voz alta y se agrega a una oración que 
 De esta manera, SymboTalk puede ser tu voz y hablar por ti.<p>
 SymboTalk es un sistema de comunicación aumentativa y alternativa (CAA), diseñado para crear tableros de comunicación para cualquier uso.<p>
 La aplicación está diseñada para aquellas personas cuya condición física o mental no les permite hablar por sí mismas. Por ejemplo, personas con autismo, síndrome de Asperger o cualquier persona dentro del espectro autista, síndrome de Down, ELA, apraxia, accidente cerebrovascular, etc.<p>
-Funciones clave:
-
-- Símbolos: Crea tus propios símbolos o elige de una biblioteca en línea.
-- Tableros: Crea tableros de comunicación flexibles y subtableros.
-- Perfiles: Edita los tableros para tus usuarios y colócalos en modo "yo" para un acceso limitado.
-- Comunícate: Haz clic en los símbolos para leerlos o descarga los tableros para usarlos en formato impreso.
-- En todas partes: Usa tus datos en cualquier dispositivo o plataforma y con cualquier tamaño de pantalla.
-- En tiempo real: Sincroniza tus datos en línea y accede a ellos desde cualquier dispositivo (opción de pago).
+<ul>*Funciones clave:
+<li>Símbolos: Crea tus propios símbolos o elige de una biblioteca en línea.</li>
+<li>Tableros: Crea tableros de comunicación flexibles y subtableros.</li>
+<li>Perfiles: Edita los tableros para tus usuarios y colócalos en modo "yo" para un acceso limitado.</li>
+<li>Comunícate: Haz clic en los símbolos para leerlos o descarga los tableros para usarlos en formato impreso.</li>
+<li>En todas partes: Usa tus datos en cualquier dispositivo o plataforma y con cualquier tamaño de pantalla.</li>
+<li>En tiempo real: Sincroniza tus datos en línea y accede a ellos desde cualquier dispositivo (opción de pago).</li></ul>
 <p>
-Más funciones: 
-
-- 14 tableros predefinidos basados en los símbolos de ARASAAC para un uso inmediato, traducidos a 23 idiomas.
-- Agrega imágenes a los símbolos desde tu cámara o archivos.
-- Busca imágenes para los símbolos en una biblioteca en línea con más de 60,000 imágenes, incluyendo ARASAAC, Mulberry y Sclera Symbols.
-- Graba audio para los símbolos.
-- Todos los idiomas de texto a voz de Android son compatibles (para hablar<p></i>
+<p><ul>*Más funciones: 
+<li>14 tableros predefinidos basados en los símbolos de ARASAAC para un uso inmediato, traducidos a 23 idiomas.</li>
+<li>Agrega imágenes a los símbolos desde tu cámara o archivos.</li>
+<li>Busca imágenes para los símbolos en una biblioteca en línea con más de 60,000 imágenes, incluyendo ARASAAC, Mulberry y Sclera Symbols.</li>
+<li>Graba audio para los símbolos.</li>
+<li>Todos los idiomas de texto a voz de Android son compatibles (para hablar.</li><p></ul></i>
       <p>
-  <p><b>***Funciona en Android/Iphone/Ipad.***</b>
+  <br><b>***Funciona en Android/Iphone/Ipad.***</b>
       <p>
          <img src="https://www.symbotalk.com/img/weLoveSymboTalk.png" alt="Primer imagen muestra de la aplicacion" style="width: 250px;"> <img src="https://www.symbotalk.com/img/Simulator%20Screen%20Shot%20-%20iPad%20Air%202%20-%202017-12-16%20at%2021.05.52.png" style="width: 332px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQrwnyE1p4E3fOSYWx-I1HY7Ilnvz0WVKog&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 586px;">
       <p>
@@ -353,20 +330,20 @@ PictogramAgenda permite configurar y ordenar una secuencia de imágenes para for
 La pantalla de la aplicación se divide en tres partes: en la parte superior están las imágenes cargadas de manera ordenada y numerada para representar claramente el orden de las tareas.<p>
 En el centro de la pantalla hay que pulsar cada vez que se quiera pasar a la siguiente tarea, mostrando la imagen o pictograma actual en un tamaño más grande para resaltarlo.<p>
 Las imágenes de las tareas ya realizadas se irán hacia la parte inferior de la pantalla en tamaño reducido, como recordatorio de las tareas realizadas.<p>
-Resumen de las características clave:
-• Hasta 48 pictogramas.
-• Se proporcionan pictogramas de muestra.
-• Posibilidad de examinar el dispositivo en busca de cualquier archivo de imagen.
-Opción de descargar directamente pictogramas de ARASAAC.
-• En cualquier momento se puede cambiar el orden de las tareas restantes simplemente arrastrando el pictograma a su nueva posición.
-• Compatible con la orientación vertical y horizontal.
-• Permite tachar los pictogramas para enfatizar el hecho de que una tarea NO se debe realizar.
-• Si es necesario, se puede retroceder al pictograma anterior o volver al estado inicial con todas las tareas pendientes.
-• Se pueden guardar y cargar las agendas generadas para su uso posterior.
-• Texto (muestra los títulos de los pictogramas).
-• Sonido (los títulos de los pictogramas se leen con la funcionalidad de "Texto a voz").
-• Función de "Temporizador": opción de configurar el modo de reproducción automática para la agenda, estableciendo la hora de inicio y la duración de cada pictograma.
-• Los pictogramas pueden tener notas "memo".<p></i>
+<ul><b>*Resumen de las características clave:</b>
+<li>Hasta 48 pictogramas.</li>
+<li>Se proporcionan pictogramas de muestra.</li>
+<li>Posibilidad de examinar el dispositivo en busca de cualquier archivo de imagen.</li>
+<li>Opción de descargar directamente pictogramas de ARASAAC.</li>
+<li>En cualquier momento se puede cambiar el orden de las tareas restantes simplemente arrastrando el pictograma a su nueva posición.</li>
+<li>Compatible con la orientación vertical y horizontal.</li>
+<li>Permite tachar los pictogramas para enfatizar el hecho de que una tarea NO se debe realizar.</li>
+<li>Si es necesario, se puede retroceder al pictograma anterior o volver al estado inicial con todas las tareas pendientes.</li>
+<li>Se pueden guardar y cargar las agendas generadas para su uso posterior.</li>
+<li>Texto (muestra los títulos de los pictogramas).</li>
+<li>Sonido (los títulos de los pictogramas se leen con la funcionalidad de "Texto a voz").</li>
+<li>Función de "Temporizador": opción de configurar el modo de reproducción automática para la agenda, estableciendo la hora de inicio y la duración de cada pictograma.</li>
+<li>Los pictogramas pueden tener notas "memo".</li></ul><p></i>
   <p><b>***Funciona en Android/IOS/Web App.***</b>
       <p>
          <img src="https://www.pictogramagenda.es/wp-content/uploads/2020/12/pictogramagenda-devices.png" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://aulaabierta.arasaac.org/wp-content/uploads/2021/01/Pictogramagenda_ARASAAC.jpg" style="width: 300px;"> <img src="https://img.utdstc.com/screen/b84/9f8/b849f84be1d9f7e7903e102010c68b566e77e097a77df110ba35525715219d5f:600" alt="Tercera imagen muestra de la aplicacion" style="width: 350px;">
