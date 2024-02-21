@@ -54,8 +54,8 @@ Impulsados por el impacto de nuestras soluciones innovadoras y asequibles, segui
 <br> <b>***Funciona en Android.***</b>
 <br><p>>
          <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 570px;"> <img src="https://biglauncher.com/screens/en/s06.png" alt="Segunda imagen muestra de la aplicacion" style="width: 180px;"> <img src="https://biglauncher.com/screens/en/s07.png" alt="Tercera imagen muestra de la aplicacion" style="width: 180px;">
-      <p>Más detalles en su web oficial: https://biglauncher.com/ 
-<p><br>
+      <p>Más detalles en su web oficial: https://biglauncher.com/ </p>
+      <br>
       <li><a href = "https://support.google.com/accessibility/android/answer/6283677?hl=en">TalkBack:</a></li>
       <p>
          <i> <p>
