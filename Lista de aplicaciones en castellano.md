@@ -258,8 +258,25 @@ La base de datos de imágenes de LetMeTalk contiene más de 9,000 imágenes de f
 <li>Cargar/guardar tu perfil actual (vocabulario).</li>
 <li>Mantener varios perfiles en tus dispositivos y cambiar rápidamente entre ellos.
 <li>Compartir tu perfil fácilmente con otros dispositivos.</li>
-<li>Cambiar rápidamente entre 2 idiomas y usar LetMeTalk como traductor.</li>
-<li>Idiomas compatibles: inglés, español, francés, italiano y alemán, chino, portugués, portugués brasileño, holandés, árabe, ruso, polaco, búlgaro, rumano, gallego, catalán, vasco.</li>
+<li>Cambiar rápidamente entre 2 idiomas y usar LetMeTalk como traductor.</li></ul><P>
+<ul><b>*Idiomas compatibles:</b>
+   <li>Inglés.</li>
+   <li>Español.</li>
+   <li>Francés.</li>
+   <li>Italiano.</li>
+   <li>Alemán.</li>
+   <li>Chino.</li>
+   <li>Portugués.</li>
+   <li>Portugués brasileño.</li>
+   <li>Holandés.</li>
+   <li>Arabe.</li>
+   <li>Ruso.</li>
+   <li>Polaco.</li>
+   <li>Búlgaro.</li>
+   <li>Rumano.</li>
+   <li>Gallego.</li>
+   <li>Catalán.</li>
+   <li>Vasco.</li>
 <li>Compatibilidad con voz para la mayoría de los idiomas.</li><p></ul></i>
 <p><br><b>***Funciona en Android/Iphone/Ipad.***</b>
 <p><br>
@@ -268,7 +285,7 @@ La base de datos de imágenes de LetMeTalk contiene más de 9,000 imágenes de f
       <p>
       <p>Más detalles en su web oficial: https://apps.apple.com/tr/app/letmetalk/id919990138</p>
       <br>
-      <li><a href = "https://www.symbotalk.com/">SYMBOTALK:</a></li>
+      <li><a href = "https://www..com/">SYMBOTALK:</a></li>
          <p>
          <i><p>
 SymboTalk es una aplicación gratuita que habla por ti con solo hacer clic en símbolos (imágenes o iconos).<p>
@@ -303,7 +320,8 @@ La aplicación está diseñada para aquellas personas cuya condición física o 
          <i><p>
 Verbo es una aplicación para Windows y Android que permite crear tableros de comunicación y actividades educativas de manera rápida e intuitiva.<p>
 Combina pictogramas, texto, sonidos y voz para diseñar tu comunicador ideal, o aprovecha los recursos que han compartido otros usuarios. <p>Hay cientos de tableros y actividades que puedes utilizar libremente.<p>
-Verbo es compatible con la mayoría de los sistemas de acceso para computadoras y tabletas: rastreadores oculares para controlar la mirada, interruptores para acceso escaneado, ratones de cabeza, pizarras interactivas, pantallas táctiles... No importa cuál sea tu grado de movilidad, Verbo se adaptará para proporcionarte una comunicación cómoda y funcional.<p></i>
+Verbo es compatible con la mayoría de los sistemas de acceso para computadoras y tabletas: rastreadores oculares para controlar la mirada, interruptores para acceso escaneado, ratones de cabeza, pizarras interactivas, pantallas táctiles...
+<p>No importa cuál sea tu grado de movilidad, Verbo se adaptará para proporcionarte una comunicación cómoda y funcional.<p></i>
 <p><br><b>***Funciona en Android/Windows.***</b>
 <p><br>
          <img src="https://i.ytimg.com/vi/KCdqOuISVGI/hqdefault.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://www.eneso.es/verbo/img/home_verbo_actividades.jpg" style="width: 500px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5F2K72aWMa13sgdx9K3QkAJG5B6HDjnexyw&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
