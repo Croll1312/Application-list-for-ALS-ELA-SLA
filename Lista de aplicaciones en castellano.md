@@ -226,8 +226,7 @@ Noteness es una aplicación moderna, rápida y fácil de usar de diario de Escle
 <p>
 <ul><b>*Exportar:</b>
 <i> -Exporta tus datos en formato PDF o por correo electrónico. </i> </ul><p> </i>
-<br>
-  <p><b>***Funciona en iPhone/iPad.***</b>
+<p><br><b>***Funciona en iPhone/iPad.***</b>
 <p><br>
          <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/32/a1/c9/32a1c9d8-23e9-6ab9-1c21-69886b040a8c/266ad35f-78e6-448a-9b1e-4cf6e84dbfdf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.30.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1d/c3/c9/1dc3c959-df5d-c83d-6562-811c2888abbb/c1b84171-d1f2-4a59-8526-c9e1ead8dee2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.39.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/19/cf/55/19cf5500-f5f7-60d3-ebb6-5946ef910abd/6403de91-4c17-4c15-bbc8-b676c56203db_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-09-17_at_06.22.05.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 604px;">
       <p>
@@ -262,8 +261,7 @@ La base de datos de imágenes de LetMeTalk contiene más de 9,000 imágenes de f
 <li>Cambiar rápidamente entre 2 idiomas y usar LetMeTalk como traductor.</li>
 <li>Idiomas compatibles: inglés, español, francés, italiano y alemán, chino, portugués, portugués brasileño, holandés, árabe, ruso, polaco, búlgaro, rumano, gallego, catalán, vasco.</li>
 <li>Compatibilidad con voz para la mayoría de los idiomas.</li><p></ul></i>
-<br>
-  <p><b>***Funciona en Android/Iphone/Ipad.***</b>
+<p><br><b>***Funciona en Android/Iphone/Ipad.***</b>
 <p><br>
          <img src="https://ash21.alwaysdata.net/images/letmetalk02.jpg" style="width: 600px;"> <img src="https://ash21.alwaysdata.net/images/letmetalk04.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://applications-autisme.com/sites/default/files/styles/extra_large/public/apps/screenshots/545a2486569df3.67029191.png?itok=ToekqXAW" style="width: 210px;">
       <p>
@@ -293,8 +291,7 @@ La aplicación está diseñada para aquellas personas cuya condición física o 
 <li>Busca imágenes para los símbolos en una biblioteca en línea con más de 60,000 imágenes, incluyendo ARASAAC, Mulberry y Sclera Symbols.</li>
 <li>Graba audio para los símbolos.</li>
 <li>Todos los idiomas de texto a voz de Android son compatibles (para hablar.</li><p></ul></i>
-      <p>
-  <br><b>***Funciona en Android/Iphone/Ipad.***</b>
+<p><br><b>***Funciona en Android/Iphone/Ipad.***</b>
 <p><br>
          <img src="https://www.symbotalk.com/img/weLoveSymboTalk.png" alt="Primer imagen muestra de la aplicacion" style="width: 250px;"> <img src="https://www.symbotalk.com/img/Simulator%20Screen%20Shot%20-%20iPad%20Air%202%20-%202017-12-16%20at%2021.05.52.png" style="width: 332px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQrwnyE1p4E3fOSYWx-I1HY7Ilnvz0WVKog&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 586px;">
       <p>
@@ -336,7 +333,7 @@ Las imágenes de las tareas ya realizadas se irán hacia la parte inferior de la
 <li>Sonido (los títulos de los pictogramas se leen con la funcionalidad de "Texto a voz").</li>
 <li>Función de "Temporizador": opción de configurar el modo de reproducción automática para la agenda, estableciendo la hora de inicio y la duración de cada pictograma.</li>
 <li>Los pictogramas pueden tener notas "memo".</li></ul><p></i>
-<p><br><b>***Funciona en Android/IOS/Web App.***</b>
+<p><br><b>**Funciona en Android/IOS/Web App.***</b>
 <p><br>
          <img src="https://www.pictogramagenda.es/wp-content/uploads/2020/12/pictogramagenda-devices.png" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://aulaabierta.arasaac.org/wp-content/uploads/2021/01/Pictogramagenda_ARASAAC.jpg" style="width: 300px;"> <img src="https://img.utdstc.com/screen/b84/9f8/b849f84be1d9f7e7903e102010c68b566e77e097a77df110ba35525715219d5f:600" alt="Tercera imagen muestra de la aplicacion" style="width: 350px;">
       <p>
