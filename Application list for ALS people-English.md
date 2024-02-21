@@ -4,13 +4,15 @@
       <li><a href = "https://www.mindmate-app.com/">MindMate:</a></li>
       <p>
          <i>
-            The MindMate app offers you a daily activities plan that is helping you to keep your mind and body fit. Work out, discover delicious and healthy recipes, play games to keep your grey matter engaged and learn in videos and articles about what you can do to stay healthy while you're getting older.
+<p>The MindMate app offers you a daily activities plan that is helping you to keep your mind and body fit.
+   <p>Work out, discover delicious and healthy recipes, play games to keep your grey matter engaged and learn in videos and articles about what you can do to stay healthy while you're getting older.
       <p>
-      <p>Based on world-leading science, the MindMate app helps stimulate the brain with fun & interactive games. The games are designed to challenge the four core cognitive areas: problem-solving, speed, memory, and attention. Great for individuals who make healthy aging a priority, anyone living with memory problems like Alzheimer's or Dementia, and those with a family history of cognitive decline.<p>
+      <p>Based on world-leading science, the MindMate app helps stimulate the brain with fun & interactive games.
+      <p>The games are designed to challenge the four core cognitive areas: problem-solving, speed, memory, and attention. Great for individuals who make healthy aging a priority, anyone living with memory problems like Alzheimer's or Dementia, and those with a family history of cognitive decline.<p>
       <p>Stay physically fit with daily workout routines, nutrition advice, and healthy recipes. Let us personalize a routine for your fitness level and help guide you towards a healthier you. Keep track of your progress and goals in the MindMate app.<p>
       <p>Eating the right things can make a real difference in your life. We tell you all the things you need to know about eating healthier and show you how to prepare those delicious meals.</i>
 <br>
-<p><br> ***Works on Apple/IOS/iPhone and Desktop/PC.***</b>
+<p><br> <b>***Works on Apple/IOS/iPhone and Desktop/PC.***</b>
 <br>
 <p><br> <img src="https://startacus.net/uploads/image/mindmate%20app%20screen-min.png" alt="Primer imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://www.feneticwellbeing.com/media/wysiwyg/blog/Screen-Shot-2017-07-21-at-17.15.54.png" alt="Segunda imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://bridgingapps.org/wp-content/uploads/2021/11/MindMate2.png" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>More details in their official website: https://www.mindmate-app.com/ </p>
@@ -18,39 +20,41 @@
       <li><a href = "https://assistiveapps.com/">Assistive Express:</a></li>
       <p>
          <i>
-            The biggest challenge for users of AAC devices that have difficulty in speech is the amount of time it takes for a conversation to take place. Assistive Express is designed to be simple and efficient, allowing users to express their views and thoughts at the most express manner, with natural sounding voices.
+             <p> The biggest challenge for users of AAC devices that have difficulty in speech is the amount of time it takes for a conversation to take place.
+            <p>Assistive Express is designed to be simple and efficient, allowing users to express their views and thoughts at the most express manner, with natural sounding voices.
       <p>
       <p>Assistive Express is designed to be simple and efficient, allowing users to express their views and thoughts at the most express manner, with natural sounding voices.<p>
       <p>
-      <b>I. Word Prediction:</b>
+      <b>I. Word Prediction:</b><p>
       Assistive Express uses adaptive learning of new and frequently used vocabulary to find and place specific words into the word prediction list.
       <p>
-      <b>II. Voices in Five different Languages:</b>
+      <b>II. Voices in Five different Languages:</b><p>
       Assistive Express comes in English, German, Spanish, Italian, and Dutch to provide accessibility.
       <p>
-      <b>III. Quick Access to Previous Sentences:</b>
+      <b>III. Quick Access to Previous Sentences:</b><p>
       The favorite list and the recent list help provide quick access to commonly or recently used sentences.
       <p>
       </i>
       <p>
-      <p><b>***Works on Apple/IOS/iPhone/iPad.***</b>
+<p><br><b>***Works on Apple/IOS/iPhone/iPad.***</b>
 <br>
 <p><br> 
          <img src="https://www.barrierefrei-kommunizieren.de/fileadmin/datenbank/user_upload/produkte/Assistive_Apps/AssistiveApps_AssisitveExpress.JPG" alt="Primer imagen muestra de la aplicacion" style="width: 393px;"> <img src="https://www.keyguardat.com/product_images/uploaded_images/screenshot.png" alt="Segunda imagen muestra de la aplicacion" style="width: 570px;">
       <p>Más detalles en su web oficial: https://assistivexpress.com/</p>
       <br>
-      <li><a href = "https://eye-d.in/">Eye-D Pro:</a></li>
+      <li><a href = "https://eye-d.in/">Eye-D Pro:</a></li><p>
       <i>
-         <p>Eye-D builds innovative solutions for the blind and Visually Impaired (VI). These solutions act as a true companion, helping them achieve independence in 3 major areas – Learning, Identification and Navigation.
+<p>Eye-D builds innovative solutions for the blind and Visually Impaired (VI).
+   <p>These solutions act as a true companion, helping them achieve independence in 3 major areas – Learning, Identification and Navigation.
          <p>
          <p>
             Eye-D was built on the foundations of using technology as means for building solutions that act as a true companion for the Blind & VI in all facets of life.
-         <p>Solutions that not only help them achieve daily chores but also makes the world more accessible for them. The two of our solutions that have created a new era of hope are Eye-D app and Eye-D Smart Glass.
+         <p>Solutions that not only help them achieve daily chores but also makes the world more accessible for them. 
+         <p>The two of our solutions that have created a new era of hope are Eye-D app and Eye-D Smart Glass.
          <p>Bolstered by the impact of our innovative and affordable solutions, we keep on researching towards newer solutions that can help the Blind community at large.
          <p>
       </i>
-      <p>
-      <p><b>***Works on IOS/iPhone/Android.***</b>
+<p><br> <b>***Works on IOS/iPhone/Android.***</b>
 <br>
 <p><br> 
          <img src="https://media.optometryweb.com/m/31/article/190900.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://eye-d.in/wp-content/uploads/2020/05/Untitled-design-2.png" alt="Segunda imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://i.ytimg.com/vi/imIirOk1WEQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQor7TwgDjlXcy92uhub_dAf3Zng" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
@@ -59,7 +63,7 @@
       <li>><a href = "https://biglauncher.com/">Big Launcher:</a></li>
       <p>
          <i>
-            ✔️ BIG Launcher makes the smartphone suitable for seniors, children, and people with eye diseases, motor problems or the legally blind.
+            <p>✔️ BIG Launcher makes the smartphone suitable for seniors, children, and people with eye diseases, motor problems or the legally blind.
       <p>
       ✔️ Visually impaired and technically challenged users can use simple and easy-to-read interface with ease.<p>
       ✔️ There is no fear of making a mistake and losing everything with stress-free navigation. <p>
@@ -68,10 +72,8 @@
       🔹 Additional color themes and icon packs are available for download.<p>
       🔹 Extended support for Talkback screen reader allows legally blind users to use their phone with ease and confidence.<p>
       🔹 All the apps can also be controlled by a hardware keyboard or via the Tecla wheelchair interface, enabling users with paralysis to have full and precise control of the smartphone without touching the screen.<p>
-      BIG Launcher is available in the following languages: հայերէն, azərbaycan dili, বাংলা , български, 简体中文, 繁體中文, hrvatski, česky, dansk, nederlands, english, eesti, suomi, français, deutsch, ελληνικά, halshen hausa, हिन्दी, magyar, bahasa indonesia, italiano, 日本語, basa jawa 한국어, kurdî, latviešu, lietuvių, bahasa melayu, norsk, polski, português, português brasileiro, ਪੰਜਾਬੀ, română, русский, српски, srpski, slovenčina, slovenščina, español, svenska, தமிழ், తెలుగు, ภาษาไทย, türkçe, українська мова, tiếng việt, العربية, עברית, فارسی, پن٘جابی, اُردُو
-      </i>
-      <p>
-      <p><b>***Works on Android.***</b>
+<b> >>> BIG Launcher is available in the following languages >>> </b><p> հայերէն, azərbaycan dili, বাংলা , български, 简体中文, 繁體中文, hrvatski, česky, dansk, nederlands, english, eesti, suomi, français, deutsch, ελληνικά, halshen hausa, हिन्दी, magyar, bahasa indonesia, italiano, 日本語, basa jawa, kurdî, latviešu, lietuvių, bahasa melayu, norsk, polski, português, português brasileiro, ਪੰਜਾਬੀ, română, русский, српски, srpski, slovenčina, slovenščina, español, svenska, தமிழ், తెలుగు, ภาษาไทย, türkçe, українська мова, tiếng việt, <p></i>
+<br> <b>***Works on Android.***</b>
 <br><p>>
          <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 570px;"> <img src="https://biglauncher.com/screens/en/s06.png" alt="Segunda imagen muestra de la aplicacion" style="width: 180px;"> <img src="https://biglauncher.com/screens/en/s07.png" alt="Tercera imagen muestra de la aplicacion" style="width: 180px;">
       <p>More details in their official website: https://biglauncher.com/ 
