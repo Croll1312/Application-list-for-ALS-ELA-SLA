@@ -294,7 +294,7 @@ Al hacer clic en un símbolo, se lee en voz alta y se agrega a una oración que 
 De esta manera, SymboTalk puede ser tu voz y hablar por ti.<p>
 SymboTalk es un sistema de comunicación aumentativa y alternativa (CAA), diseñado para crear tableros de comunicación para cualquier uso.<p>
 La aplicación está diseñada para aquellas personas cuya condición física o mental no les permite hablar por sí mismas. Por ejemplo, personas con autismo, síndrome de Asperger o cualquier persona dentro del espectro autista, síndrome de Down, ELA, apraxia, accidente cerebrovascular, etc.<p>
-<ul>*Funciones clave:
+<ul><b>*Funciones clave:</b>
 <li>Símbolos: Crea tus propios símbolos o elige de una biblioteca en línea.</li>
 <li>Tableros: Crea tableros de comunicación flexibles y subtableros.</li>
 <li>Perfiles: Edita los tableros para tus usuarios y colócalos en modo "yo" para un acceso limitado.</li>
@@ -302,7 +302,7 @@ La aplicación está diseñada para aquellas personas cuya condición física o 
 <li>En todas partes: Usa tus datos en cualquier dispositivo o plataforma y con cualquier tamaño de pantalla.</li>
 <li>En tiempo real: Sincroniza tus datos en línea y accede a ellos desde cualquier dispositivo (opción de pago).</li></ul>
 <p>
-<p><ul>*Más funciones: 
+<p><ul><b>*Más funciones:</b>
 <li>14 tableros predefinidos basados en los símbolos de ARASAAC para un uso inmediato, traducidos a 23 idiomas.</li>
 <li>Agrega imágenes a los símbolos desde tu cámara o archivos.</li>
 <li>Busca imágenes para los símbolos en una biblioteca en línea con más de 60,000 imágenes, incluyendo ARASAAC, Mulberry y Sclera Symbols.</li>
