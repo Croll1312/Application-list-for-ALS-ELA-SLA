@@ -80,14 +80,13 @@
       <br>
       <li><a href = "https://support.google.com/accessibility/android/answer/6283677?hl=en">TalkBack:</a></li>
       <p>
-         <i>
+         <i> <p>
             Google Talkback is an accessibility service for the Android operating system that helps blind and visually impaired users to interact with their devices.
       <p>
       It uses spoken words, vibration and other audible feedback to allow the user to know what is happening on the screen allowing the user to better interact with their device.
       <p>The service is pre-installed on many Android devices, and it became part of the Android Accessibility Suite in 2017.
       <p>According to the Google Play Store, the Android Accessibility Suite has been downloaded over five billion times, including devices that have the suite preinstalled.<p></i>
-      <p>
-      <p><b>***Works on Android.***</b>
+<p><br><b>***Works on Android.***</b>
 <p><br>
          <img src="https://cdn.mos.cms.futurecdn.net/bFzmSSF2J9BqCqNUfBypgL.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://www.lifewire.com/thmb/_DepZuINPl5uUf8_OYshp4eVp64=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_Talkback_On-819dc1a92c784cab882904cf19d911e9.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://sbenny.com/images/androidgameimage_ghi/xsbenny.com_google_talkback.jpg.pagespeed.ic.KhsC9ao1Vs.webp" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
@@ -97,8 +96,7 @@
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess">Voice Access:</a></li>
       <p><i>Voice Access helps anyone who has difficulty manipulating a touch screen (e.g. due to paralysis, tremor, or temporary injury) use their Android device by voice.</i>
-      <p>
-      <p><b>***Works on Android.***</b>
+<p><br><b>***Works on Android.***</b>
 <p><br>
          <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://images.fonearena.com/blog/wp-content/uploads/2016/04/Google-Voice-Access-app-2.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201810/voice_access.jpeg" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>
@@ -106,13 +104,12 @@
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.auralanalytics.speechassess">SpeechAssess:</a></li>
       <p>
-         <i>
-            This App is a closed, participant-only, research study with the intent to gather data for motor neuron degenerative diseases such as Amyotrophic Lateral Sclerosis (ALS), Parkinson's Disease, and others.
+         <i><p>This App is a closed, participant-only, research study with the intent to gather data for motor neuron degenerative diseases such as Amyotrophic Lateral Sclerosis (ALS), Parkinson's Disease, and others.
       <p>For now, the functionality of the application is limited to speech data collection.
       <p>They will disseminate this app to over 60 clinical sites to collect an initial set of data for analysis on the back-end.
       <p>Eventually, the functionality of the app will be expanded to include outcome measures that track patient progress; however in order to do this, the app must be disseminated in its current form in order to collect data for algorithm calibration.
       <p></i>
-      <p><b>***Works on IOS/iPhone/Android.***</b>
+<p><br><b>***Works on IOS/iPhone/Android.***</b>
 <p><br>
          <img src="https://cdn.apkmonk.com/images/com.auralanalytics.speechassess.png" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://media.bizj.us/view/img/11444183/speech-assess-app-report-web*1200xx3983-2240-0-0.png" alt="Segunda imagen muestra de la aplicacion" style="width: 480px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/3d/d0/273dd0b2-59c1-0a1b-7e08-6fea1ff2977e/pr_source.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
       <p>
@@ -121,11 +118,10 @@
       <br>
       <li><a href = "https://experiments.withgoogle.com/looktospeak">Look to Speak:</a></li>
       <p>
-         <i>
+         <i> <p>
             An Android app which enables people to use their eyes to select pre-written phrases and have them spoken aloud.
       <p>Launch experiment Collections: Start With One AI Experiments Getting started with Look to Speak Start with Sarah Ezekiel Sarah Ezekiel is an artist, who was diagnosed with motor neurone disease in 2000.<p></i>
-      <p>
-      <p><b>***Works on Android.***</b>
+<p><br><b>***Works on Android.***</b>
 <p><br>
          <img src="https://lh3.googleusercontent.com/OhaTD2FcdRkk7Qq741qVD-VWC4OIz11o-2IChz3hASsrrRNIpVpbUBFiMHLGrGAVcoEMccTEGnqbYS1_aInZLeemtZI" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://recodehive.com/wp-content/uploads/2020/12/Blue-Sweet-Tooth-Blog-Banner-3-1024x576.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kTcRQv1SG9YPh-Rv-D_M9ST8kqxUmwif_A&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
@@ -134,13 +130,12 @@
       <br>
       <li><a href = "https://www.optikey.org/">OptiKey:</a></li>
       <p>
-         <i>
+         <i><p>
             OptiKey is a free, open-source, on-screen keyboard software developed for people with motor disabilities who cannot use a physical keyboard. It uses eye-tracking technology to allow users to type and control their computer using only their eyes.
          <p>OptiKey tracks and detects the user's eye movements and converts them into mouse movements and keyboard inputs.
          <p>It also offers various features like word prediction, auto-complete, and customizable layouts to enhance the typing experience for users with limited mobility.
          <p>OptiKey was developed by Julius Sweetland and is available for Windows operating systems.<p></i>
-      <p>
-      <p><b>***Works on Android/Windows.***</b>
+<p><br><b>***Works on Android/Windows.***</b>
 <p><br>
          <img src="https://www.optikey.org/media/pages/applications/optikey-pro/2188186753-1679989592/keyboards_alpha_showing_light_and_dark_themes.png" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/72440548-1679989595/typing_into_word.png" style="width: 400px;"> <img src="https://www.optikey.org/media/pages/applications/optikey-pro/3030750248-1679989597/clicking_on_magnified_folder.png" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
@@ -149,14 +144,13 @@
       <br>
       <li><a href = "https://cima.aemps.es/cima/publico/home.html">AempsCIMA:</a></li>
       <p>
-         <i>
+         <i><p>
             The AempsCIMA app is a mobile application developed by the Spanish Agency of Medicines and Medical Devices (AEMPS) in collaboration with the College of Pharmacists of Madrid.
             <p>It provides information about approved medicines and medical devices in Spain, allowing healthcare professionals and the general public to access the database of authorized products.
             <p>The app includes features such as searching for medications, checking their active ingredients, indications, and contraindications, as well as providing information on adverse effects and interactions with other drugs.
 <p>It aims to promote the safe and informed use of medications and medical devices.<p></i>
-      <p>
-      <p><b>***Works on Android.***</b>
-      <p>
+<p><br><b>****Works on Android.***</b>
+<p><br>
          <img src="https://www.consalud.es/saludigital/uploads/s1/18/50/8/aemps4095.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 700px;">
       <p>
       <p>More details in their official website: https://cima.aemps.es/cima/publico/home.html </p>
