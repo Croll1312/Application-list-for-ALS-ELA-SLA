@@ -145,7 +145,6 @@ Así nació el proyecto original de un concurso culinario dedicado a alimentos p
          <img src="https://www.arsla.org/wp-content/uploads/2017/09/app-screenshots-1280x720-759x427.jpg" style="width: 700px;"> 
       <p>
       <p>Más detalles en su web oficial: https://play.google.com/store/apps/details?id=com.arsla.mixiton&hl=en_US </p>
-      <p>
       <br>
       <li><a href = "https://www.carezone.com/">CareZone:</a></li>
       <p>
@@ -157,7 +156,6 @@ Su objetivo es simplificar el proceso de coordinación de la atención médica y
          <img src="https://media.licdn.com/dms/image/C5612AQF_Cr_zzujfKw/article-cover_image-shrink_720_1280/0/1520119941314?e=2147483647&v=beta&t=aN7hd6sl__LHS1dMYNwuTbK5uP3x_AdExH-xS00BCHk" alt="Primer imagen muestra de la aplicacion" style="width: 700px;"> 
       <p>
       <p>Más detalles en su web oficial: https://www.carezone.com/ </p>
-      <p>
       <br>
       <li><a href = "https://www.lumosity.com/">Lumosity’s Human Cognition Project:</a></li>
             <p>
