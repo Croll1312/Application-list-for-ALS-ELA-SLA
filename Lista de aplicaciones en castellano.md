@@ -307,7 +307,7 @@ La aplicación está diseñada para aquellas personas cuya condición física o 
 <li>Agrega imágenes a los símbolos desde tu cámara o archivos.</li>
 <li>Busca imágenes para los símbolos en una biblioteca en línea con más de 60,000 imágenes, incluyendo ARASAAC, Mulberry y Sclera Symbols.</li>
 <li>Graba audio para los símbolos.</li>
-<li>Todos los idiomas de texto a voz de Android son compatibles (para hablar.</li><p></ul></i>
+<li>Todos los idiomas de texto a voz de Android son compatibles (para hablar).</li><p></ul></i>
 <p><br><b>***Funciona en Android/Iphone/Ipad.***</b>
 <p><br>
          <img src="https://www.symbotalk.com/img/weLoveSymboTalk.png" alt="Primer imagen muestra de la aplicacion" style="width: 250px;"> <img src="https://www.symbotalk.com/img/Simulator%20Screen%20Shot%20-%20iPad%20Air%202%20-%202017-12-16%20at%2021.05.52.png" style="width: 332px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQrwnyE1p4E3fOSYWx-I1HY7Ilnvz0WVKog&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 586px;">
