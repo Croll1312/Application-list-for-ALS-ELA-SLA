@@ -60,7 +60,7 @@
          <img src="https://media.optometryweb.com/m/31/article/190900.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://eye-d.in/wp-content/uploads/2020/05/Untitled-design-2.png" alt="Segunda imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://i.ytimg.com/vi/imIirOk1WEQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQor7TwgDjlXcy92uhub_dAf3Zng" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
       <p>Más detalles en su web oficial: https://eye-d.in/ </p>
       <br>
-      <li>><a href = "https://biglauncher.com/">Big Launcher:</a></li>
+      <li><a href = "https://biglauncher.com/">Big Launcher:</a></li>
       <p>
          <i>
             <p>✔️ BIG Launcher makes the smartphone suitable for seniors, children, and people with eye diseases, motor problems or the legally blind.
