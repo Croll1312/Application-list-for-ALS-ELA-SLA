@@ -74,7 +74,7 @@
       🔹 All the apps can also be controlled by a hardware keyboard or via the Tecla wheelchair interface, enabling users with paralysis to have full and precise control of the smartphone without touching the screen.<p>
 <b> >>> BIG Launcher is available in the following languages >>> </b><p> հայերէն, azərbaycan dili, বাংলা , български, 简体中文, 繁體中文, hrvatski, česky, dansk, nederlands, english, eesti, suomi, français, deutsch, ελληνικά, halshen hausa, हिन्दी, magyar, bahasa indonesia, italiano, 日本語, basa jawa, kurdî, latviešu, lietuvių, bahasa melayu, norsk, polski, português, português brasileiro, ਪੰਜਾਬੀ, română, русский, српски, srpski, slovenčina, slovenščina, español, svenska, தமிழ், తెలుగు, ภาษาไทย, türkçe, українська мова, tiếng việt, <p></i>
 <br> <b>***Works on Android.***</b>
-<br><p>>
+<br><p>
          <img src="https://www.androidauthority.com/wp-content/uploads/2012/08/Big_Launcher_1.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 570px;"> <img src="https://biglauncher.com/screens/en/s06.png" alt="Segunda imagen muestra de la aplicacion" style="width: 180px;"> <img src="https://biglauncher.com/screens/en/s07.png" alt="Tercera imagen muestra de la aplicacion" style="width: 180px;">
       <p>More details in their official website: https://biglauncher.com/ </p>
       <br>
@@ -205,8 +205,7 @@ The Human Cognition Project (HCP) is our online, collaborative research platform
 <p>MyMSTeam is the social network for those living with multiple sclerosis.
          <p>Get the emotional support you need from others like you, and gain practical advice and insights on managing treatment or therapies for multiple sclerosis.
          <p>MyMSTeam is the only social network where you can truly connect, make real friendships, and share daily ups and downs in a judgment-free place. </i>
-      <p>
-      <p><b>***Works on Android/Windows.***</b><p>
+<p><br><b>***Works on Android/Windows.***</b><p>
 <p><br>
          <img src="https://www.mymsteam.com/assets/msc/home_image_main-867b4eb296ee97a93ac3757be45808d8674128a5a6253b32bf7640959741cd5a.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 400px;"> <img src="https://cdn.myhealthteams.com/promo/649ed2c402ac6419001978ac/wslide/MyMSTeam_MyMSTeamStories_RC_Carousel_1300x750_v2-37c93cb2d6c7101174762b0e52f2f802-3f6c76bd64c93cb6655a510e8f55a8ac_copy-d51d1a79ac4dd31ef7d4cad3435bb26d.webp?1688130243" style="width: 410px;"> <img src="https://cdn.myhealthteams.com/idxcard/5f3c35f0f5352872f7723a6d/wslide/MyMSTeam_YourGuideToMS_MainCarousel-749b69963bc628cd108de86c198eaa69.webp?1682464072" alt="Tercera imagen muestra de la aplicacion" style="width: 400px;">
       <p>
@@ -221,34 +220,22 @@ The Human Cognition Project (HCP) is our online, collaborative research platform
 With Cognitive AI, clinicians use @Point of Care to easily access curated, evidence-based, and disease-specific medical content.
             <p>Clinicians navigate content by asking voice-enabled natural language questions.
             <p>With Cognitive AI, confidence-rated answers to efficiently incorporate best treatment options happen more quickly and decisions are made faster to improve patient outcomes at the point of care.<p>
-Multiple Sclerosis @Point of Care™ is designed to:
-<p>
-• Support discovery and practice change.<p>
-<p>
-• Provide relevant, evidence-based disease-specific medical content.
-<p>
-• Improve patient outcomes at the point of care.
-<p>
-Features:
-<p>
-• Continually updated multiple sclerosis content.
-<p>
-• Topics in diagnosis, treatment, and care management developed with expert physician authors.
-<p>
-• Case studies, videos, and interviews.
-<p>
-• Access to actionable patient-recorded data.
-<p>
-• Detailed reference list with access to original sources.
-<p>
-• Continuing medical education credit (CME/CE).
-<p>
-• Surveys and peer polling.
-<p>
-• Patient education resources to share with patients.
-<p></i>
-      <p>
-      <p><b>***Works on Iphone/Ipad.***</b><p>
+<ul> <b> Multiple Sclerosis @Point of Care™ is designed to:</b>
+<li>Support discovery and practice change.</li>
+<li>Provide relevant, evidence-based disease-specific medical content.</li>
+<li>Improve patient outcomes at the point of care.</li>
+</ul><p>
+<ul><b>Features:</b>
+<li>Continually updated multiple sclerosis content.</li>
+<li>Topics in diagnosis, treatment, and care management developed with expert physician authors.</li>
+<li>Case studies, videos, and interviews.</li>
+<li>Access to actionable patient-recorded data.</li>
+<li>Detailed reference list with access to original sources.</li>
+<li>Continuing medical education credit (CME/CE).</li>
+<li>Surveys and peer polling.</li>
+<li>Patient education resources to share with patients.</li>
+</ul></i>
+<p><br><b>***Works on Iphone/Ipad.***</b><p>
 <p><br>
          <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/73/e0/4973e055-e8d4-5e29-3e72-e750ee3bd150/d8d7bf38-eaac-4792-b0a1-d42fa141a849_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-09-15_at_16.31.30.png/300x0w.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/54/c2/cb54c278-dfff-e810-41ae-ead5f107205a/3ade7098-26a0-476c-aac3-8c28e0e186fc_Simulator_Screen_Shot_-_iPhone_14_Pro_Max_6.7_Screens_-_2023-05-08_at_10.45.29.png/300x0w.jpg" style="width: 200px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/5f/65/845f6574-ed79-53cc-28f1-14735088e444/2c258185-a990-4e15-ae33-5cabcb0880c5_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029_Screen_shots_-_2023-09-15_at_16.33.55.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 325px;">
       <p>
@@ -261,24 +248,17 @@ Features:
 <p>       
 Noteness is a modern, fast and easy to use Multiple Sclerosis diary App. Noteness is tailored to the requirements of a MS-Diary and goes without unnecessary gimmicks.
 <p>
-- Entries:
+<ul><b>*Entries:</b>
+<ul>-Create two different types of entries:
+<li>Injections, with a selection of injection positions and optional notes.</li>
+<li>Symptoms, with individual titles and notes.</li></ul></ul>
 <p>
-Create two different types of entries:
+<ul><b>*Reminders:</b>
+<ul>-Create reminders for your injections. Reminders can be set for every day, every second day and for custom weekdays.</ul></ul>
 <p>
-Injections, with a selection of injection positions and optional notes.
-<p>
-Symptoms, with individual titles and notes.
-<p>
-- Reminders:
-<p>
-Create reminders for your injections. Reminders can be set for every day, every second day and for custom weekdays.
-<p>
-- Export:
-<p>
-Export your data via PDF or by E-Mail.
-<p></i>
-      <p>
-      <p><b>***Works on Iphone/Ipad.***</b>
+<ul><b>*Export:</b>
+<i> -Export your data via PDF or by E-Mail.</i> </ul><p> </i>
+<p><br><b>**Works on Iphone/Ipad.***</b>
 <p><br>
          <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/32/a1/c9/32a1c9d8-23e9-6ab9-1c21-69886b040a8c/266ad35f-78e6-448a-9b1e-4cf6e84dbfdf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.30.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1d/c3/c9/1dc3c959-df5d-c83d-6562-811c2888abbb/c1b84171-d1f2-4a59-8526-c9e1ead8dee2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-09-17_at_06.17.39.png/750x750bb.jpeg" style="width: 300px;"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/19/cf/55/19cf5500-f5f7-60d3-ebb6-5946ef910abd/6403de91-4c17-4c15-bbc8-b676c56203db_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-09-17_at_06.22.05.png/643x0w.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 604px;">
       <p>
@@ -294,30 +274,27 @@ LetMeTalk enables you to line up images in a meaningful way to read this row of 
 The image database of LetMeTalk contains more than 9,000 easy to understand images from ARASAAC (http://arasaac.org). Additionally, you can add existing images from the device or take new photos with the build in camera.<p>
 For LetMeTalk no internet connection or mobile contract is necessary, so you can use LetMeTalk in almost any situation, like hospitals, nursing home or schools.
 <p>
-Suitable for:<p>
-• autism symptoms and Asperger syndrome, autistic spectrum disorder (ASD).<p>
-• aphasia.<p>
-• speech apraxia.<p>
-• articulation/phonological disorder.<p>
-• Amyotrophic Lateral Sclerosis (ALS).<p>
-• Motor Neuron Disease (MND).<p>
-• cerebral palsy.<p>
-• down syndrome.
-<p>
-Features:
-• more than 9,000 images from ARASAAC included.<p>
-• voice support for images and sentences.<p>
-• unlimited and flexible creation of new categories and adding new images.<p>
-• pre configured for kids with autism spectrum disorder (ASD).<p>
-• load / save your current profile (vocabulary).<p>
-• keep several profiles on your devices and switch fast between them.<p>
-• share your profile easily with other devices.<p>
-• switch fast between 2 languages and use LetMeTalk as translator.<p>
-• supported languages: English, Spanish, French, Italian and German, Chinese, Portuguese, Brazilian Portuguese, Dutch, Arabic, Russian, Polish, Bulgarian, Romanian, Galician, Catalan, Basque.<p>
-• voice support for most languages.
-<p></i>
-      <p>
-      <p><b>***Works on Android/Iphone/Ipad.***</b>
+<ul><b>*Suitable for:</b>
+<li>Autism symptoms and Asperger syndrome, autistic spectrum disorder (ASD).</li>
+<li>Aphasia.</li>
+<li>Speech apraxia.</li>
+<li>Articulation/phonological disorder.</li>
+<li>Amyotrophic Lateral Sclerosis (ALS).</li>
+<li>Motor Neuron Disease (MND).</li>
+<li>Cerebral palsy.</li>
+<li>Down syndrome.</li></ul><P>
+<ul><b>*Features:</b>
+<li>More than 9,000 images from ARASAAC included.</li>
+<li>Voice support for images and sentences.</li>
+<li>Unlimited and flexible creation of new categories and adding new images.</li>
+<li>Pre configured for kids with autism spectrum disorder (ASD).</li>
+<li>Load / save your current profile (vocabulary).</li>
+<li>Keep several profiles on your devices and switch fast between them.</li>
+<li>Share your profile easily with other devices.</li>
+<li>Switch fast between 2 languages and use LetMeTalk as translator.</li>
+<li>Supported languages: English, Spanish, French, Italian and German, Chinese, Portuguese, Brazilian Portuguese, Dutch, Arabic, Russian, Polish, Bulgarian, Romanian, Galician, Catalan, Basque.</li>
+<li>Voice support for most languages.</li><p></ul></i>
+<p><br><b>***Works on Android/Iphone/Ipad.***</b>
 <p><br>
          <img src="https://ash21.alwaysdata.net/images/letmetalk02.jpg" style="width: 600px;"> <img src="https://ash21.alwaysdata.net/images/letmetalk04.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://applications-autisme.com/sites/default/files/styles/extra_large/public/apps/screenshots/545a2486569df3.67029191.png?itok=ToekqXAW" style="width: 210px;">
       <p>
