@@ -18,9 +18,9 @@ Comer lo correcto puede marcar una gran diferencia en tu vida. Te contamos todo 
          <i>
              <p>El mayor desafío para los usuarios de dispositivos de CAA que tienen dificultad para hablar es la cantidad de tiempo que se tarda en llevar a cabo una conversación.<p>Assistive Express está diseñado para ser simple y eficiente, permitiendo a los usuarios expresar sus opiniones y pensamientos de la manera más rápida posible, con voces que suenan naturales.<p>
 Assistive Express está diseñado para ser simple y eficiente, permitiendo a los usuarios expresar sus opiniones y pensamientos de la manera más rápida posible, con voces que suenan naturales.<p>
-I. Predicción de Palabras: Assistive Express utiliza el aprendizaje adaptativo de vocabulario nuevo y frecuentemente utilizado para encontrar y colocar palabras específicas en la lista de predicción de palabras.<p>
-II. Voces en Cinco Idiomas Diferentes: Assistive Express está disponible en inglés, alemán, español, italiano y holandés para brindar accesibilidad.<p>
-III. Acceso Rápido a Oraciones Anteriores: La lista de favoritos y la lista reciente ayudan a proporcionar un acceso rápido a las oraciones comúnmente utilizadas o recientes.<p></i>
+<b>I. Predicción de Palabras:</b> <p>Assistive Express utiliza el aprendizaje adaptativo de vocabulario nuevo y frecuentemente utilizado para encontrar y colocar palabras específicas en la lista de predicción de palabras.<p>
+<b>II. Voces en Cinco Idiomas Diferentes:</b> <p>Assistive Express está disponible en inglés, alemán, español, italiano y holandés para brindar accesibilidad.<p>
+<b>III. Acceso Rápido a Oraciones Anteriores:</b> <p>La lista de favoritos y la lista reciente ayudan a proporcionar un acceso rápido a las oraciones comúnmente utilizadas o recientes.<p></i>
 <p><br> <b>***Funciona en Apple/IOS/iPhone/iPad.***</b>
 <br>
 <p><br> 
