@@ -1,7 +1,7 @@
 <body>
     <ol>    
     <li><h2>Castellano:</h2>
-    Este repositorio está enfocado en listar las aplicaciones creadas para que las personas con <a href = "https://medlineplus.gov/spanish/ency/article/000688.htm">ELA (Esclerosis lateral amiotrófica)</a> puedan utilizar distintos dispositivos como telefonos celulares, TV inteligentes, tablets, etc.
+    Este repositorio está enfocado en listar las aplicaciones creadas para que las personas con <a href = "https://medlineplus.gov/spanish/ency/article/000688.htm">ELA (Esclerosis lateral amiotrófica)</a> y otras condiciones medicas puedan utilizar distintos dispositivos como telefonos celulares, TV inteligentes, tablets, etc.
     <p>
     Ingresando al enlace "Lista de aplicaciones" abajo detallado podrá ir a la lista enumerada, en donde podrá encontrar que en cada uno de los puntos habrá una breve descripción de la aplicación.
     <p>
@@ -18,7 +18,7 @@ Este proyecto es sin fines de lucro, el único objetivo es colaborar con la inse
     <br>
     </li>
     <li><h2>English:</h2>
-    This repository is focused on listing the applications created for people with <a href = "https://www.mayoclinic.org/diseases-conditions/amyotrophic-lateral-sclerosis/symptoms-causes/syc-20354022">ALS (Amyotrophic lateral sclerosis)</a> to use different devices such as mobile phones, smart TVs, tablets, etc.
+    This repository is focused on listing the applications created for people with <a href = "https://www.mayoclinic.org/diseases-conditions/amyotrophic-lateral-sclerosis/symptoms-causes/syc-20354022">ALS (Amyotrophic lateral sclerosis)</a> other medical conditions to use different devices such as mobile phones, smart TVs, tablets, etc.
     <p>
     By accessing the link "List of applications" detailed below, you can go to the enumerated list, where you can find a brief description of each application.
     <p>
