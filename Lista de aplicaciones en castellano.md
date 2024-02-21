@@ -1,5 +1,5 @@
 <body>
-   <h1>Lista de aplicaciones para personas con ELA y otros.</h1>
+   <h1>Lista de aplicaciones para personas con ELA y otras condiciones.</h1>
    <ol>
       <li><a href = "https://www.mindmate-app.com/">MindMate:</a></li>
       <p>
