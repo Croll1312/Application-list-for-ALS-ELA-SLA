@@ -311,49 +311,77 @@ For LetMeTalk no internet connection or mobile contract is necessary, so you can
          <p>This way SymboTalk can be your voice and talk for you.<p>
 SymboTalk is an augmentative and alternative communication (AAC) system, designed to make communication boards for any use.<p>
 The app is designed for those whose physical or mental condition does not allow them to speak for themselves, For example, people with Autism, Asperger's or anyone on the autistic spectrum, Down Syndrome, ALS, apraxia, stroke, etc.<p>
---Key Features--<p>
-- Symbols: Make your own symbols or choose from an online library.<p>
-- Boards: Build flexible communication boards and sub-boards.<p>
-- Profiles: Edit boards for your users and put them in "me" mode for limited access.<p>
-- Communicate: Click on symbols to read them or download boards for hard-copy use.<p>
-- Everywhere: Use your data on any device or platform and with any screen size.<p>
-- Real-Time: Sync your data online and access it from any device - Paid option.
+<ul><b>*Key Features:</b>
+<li>Symbols: Make your own symbols or choose from an online library.</li>
+<li>Boards: Build flexible communication boards and sub-boards.</li>
+<li>Profiles: Edit boards for your users and put them in "me" mode for limited access.</li>
+<li>Communicate: Click on symbols to read them or download boards for hard-copy use.</li>
+<li>Everywhere: Use your data on any device or platform and with any screen size.</li>
+<li>Real-Time: Sync your data online and access it from any device - Paid option.</li></ul>
 <p>
---More Features--
-- 14 predefined Boards based on ARASAAC Symbols for immediate use, translated into 23 languages.<p>
-- Add images to symbols from your camera or files.<p>
-- Search images for symbols from an online library with more than 60,000 images including ARASAAC, Mulberry, and Sclera Symbols.<p>
-- Record audio for symbols.<p>
-- All languages in your android text-to-speech are supported (for speak).<p>
-- Build a flexible board, with many grid options.<p>
-- Lock screen for users that can't make their own boards.<p>
-- Choose a color for symbols.<p>
-- Make subboards.<p>
-- Full offline support.<p>
-- Group symbols into a sentence.<p>
-- Search your boards and symbols.<p>
-- Cloud Services: Share, Sync & Backup. => Paid Features.
-<p>
-* Supported languages for speak: Bangla (Bangladesh), Bangla (India), Cantonese (Hong Kong), Czech, Danish, Dutch, English (Australia), English (India), English (United Kingdom), English (United States), Finnish, French, German, Hindi, Hungarian, Indonesian, Italian, Japanese, Khmer, Korean, Mandarin (China), Mandarin (Taiwan), Nepali, Norwegian, Polish, Portuguese (Brazil), Russian, Sinhala, Spanish (Spain), Spanish (United States), Swedish, Thai, Turkish, Ukrainian and Vietnamese.<p>
-* Get more languages by downloading an appropriate application.<p>
-* Interface languages: English, Spanish, Mandarin, Basque, Galician, and Hebrew.<p></i>
-      <p>
-      <p><b>***Works on Android/Iphone/Ipad.***</b>
-      <p>
+<p><ul><b>*More Features:</b>
+<li>14 predefined Boards based on ARASAAC Symbols for immediate use, translated into 23 languages.</li>
+<li>Add images to symbols from your camera or files.</li>
+<li>Search images for symbols from an online library with more than 60,000 images including ARASAAC, Mulberry, and Sclera Symbols.</li>
+<li>Record audio for symbols.</li>
+<li>All languages in your android text-to-speech are supported (for speak).</li>
+<li>Build a flexible board, with many grid options.</li>
+<li>Lock screen for users that can't make their own boards.</li>
+<li>Choose a color for symbols.</li>
+<li>Make subboards.</li>
+<li>Full offline support.</li>
+<li>Group symbols into a sentence.</li>
+<li>Search your boards and symbols.</li>
+<li>Cloud Services: Share, Sync & Backup. => Paid Features.</li></ul>
+<p><ul><b>*Supported languages for speak:</b>
+<li>Bangla (Bangladesh).</li>
+<li>Bangla (India).</li>
+<li>Cantonese (Hong Kong).</li>
+<li>Czech, Danish, Dutch.</li>
+<li>English (Australia).</li>
+<li>English (India).</li>
+<li>English (United Kingdom).</li>
+<li>English (United States).</li>
+<li>Finnish.</li>
+<li>French.</li>
+<li>German.</li>
+<li>Hindi.</li>
+<li>Hungarian.</li>
+<li>Indonesian.</li>
+<li>Italian.</li>
+<li>Japanese.</li>
+<li>Khmer.</li>
+<li>Korean.</li>
+<li>Mandarin (China).</li>
+<li>Mandarin (Taiwan).</li>
+<li>Nepali.</li>
+<li>Norwegian.</li>
+<li>Polish.</li>
+<li>Portuguese (Brazil).</li>
+<li>Russian.</li>
+<li>Sinhala.</li>
+<li>Spanish (Spain).</li>
+<li>Spanish (United States).</li>
+<li>Swedish.</li>
+<li>Thai.</li>
+<li>Turkish.</li>
+<li>Ukrainian and Vietnamese.</li>
+<li>Get more languages by downloading an appropriate application.<p></li></ul>
+<p><ul><b>*Interface languages: English, Spanish, Mandarin, Basque, Galician, and Hebrew.</li></ul><p></i>
+<p><br><b>***Works on Android/Iphone/Ipad.***</b>
+<p><br>
          <img src="https://www.symbotalk.com/img/weLoveSymboTalk.png" alt="Primer imagen muestra de la aplicacion" style="width: 250px;"> <img src="https://www.symbotalk.com/img/Simulator%20Screen%20Shot%20-%20iPad%20Air%202%20-%202017-12-16%20at%2021.05.52.png" style="width: 332px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQrwnyE1p4E3fOSYWx-I1HY7Ilnvz0WVKog&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 586px;">
       <p>
       <p>
       <p>More details in their official website: https://www.symbotalk.com/ </p>
       <br>
       <li><a href = "https://www.eneso.es/verbo/">ENESO VERBO:</a></li>
-            <p>
-         <i>
-<p>
+         <p>
+         <i><p>
             Verbo is an application for Windows and Android to create communication boards and educational activities quickly and intuitively.
          <p>Combine pictograms, text, sounds and voice to design your ideal communicator, or take advantage of the resources that other users have shared . There are hundreds of boards and activities that you can use freely.<p>
   Verbo is compatible with most access systems for computer and tablet: eye trackers for gaze control, switches for scan access, head mice, interactive whiteboards, touch screens... No matter your degree of mobility is, Verbo will adapt to provide you with a comfortable and functional communication.<p></i>
-      <p>
-      <p><b>***Works on Android/Windows.***</b>
+<p><br><b>****Works on Android/Windows.***</b>
 <p><br>
          <img src="https://i.ytimg.com/vi/KCdqOuISVGI/hqdefault.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 500px;"> <img src="https://www.eneso.es/verbo/img/home_verbo_actividades.jpg" style="width: 500px;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5F2K72aWMa13sgdx9K3QkAJG5B6HDjnexyw&usqp=CAU" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
@@ -368,7 +396,7 @@ The application screen is arranged in three parts: at the top are the images loa
 <p>The center of the screen needs to be pressed each time you want to move to the next task, showing current image or pictogram in a larger size to highlight.
 <p>The images of the work already done will be going to the bottom of the screen in reduced size, as a reminder of the tasks performed.
 <p>
-<ul><b>Summary of key features:</b>
+<ul><b>*Summary of key features:</b>
 <li>Up to 48 pictograms.</li>
 <li>Sample pictograms provided.</li>
 <li>Examining the device for any image file.</li>
