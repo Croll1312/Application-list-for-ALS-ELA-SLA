@@ -249,8 +249,8 @@ La base de datos de imágenes de LetMeTalk contiene más de 9,000 imágenes de f
 <li>Esclerosis lateral amiotrófica (ELA).</li>
 <li>Enfermedad de las neuronas motoras (ENM).</li>
 <li>Parálisis cerebral.</li>
-<li>Síndrome de Down.</li></ul>
-<ul><b><p>*Características:</b>
+<li>Síndrome de Down.</li></ul><P>
+<ul><b>*Características:</b>
 <li>Más de 9,000 imágenes de ARASAAC incluidas.</li>
 <li>Compatibilidad con voz para imágenes y oraciones.</li>
 <li>Creación ilimitada y flexible de nuevas categorías y agregado de nuevas imágenes.</li>
