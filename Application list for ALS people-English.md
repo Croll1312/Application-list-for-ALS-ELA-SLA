@@ -157,7 +157,7 @@
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.arsla.mixiton&hl=en_US">Mixiton:</a></li>
       <p>
-         <i>
+         <i><p>
             ALS affects all motor functions of the body, and paralysis gradually gaining muscles of swallowing.
 Patients are then forced to eat with adapted textures. The sensory abilities and psychological state are then affected by this power mode.<p>
 In 9 of 10 cases, the use of gastrostomy (surgical operation of an opening in the stomach) is essential to ensure a minimum calorie intake and avoid significant weight loss.<p>
@@ -165,12 +165,11 @@ It is so common that patients experience more fun to eat, and risk malnutrition 
 Given this situation and call for help many caregivers, the ARSLA wishes to engage with patients and their caregivers so that they can preserve the pleasure of the table and continue to share a meal with family or between friends.
    <p>Thus was born the original project of a culinary competition dedicated to minced and mixed income: Mixiton, the pleasure of the table found.<p></i>
       <p>
-      <p><b>***Works on Android/Windows.***</b>
+<p><br><b>***Works on Android/Windows.***</b>
 <p><br>
          <img src="https://www.arsla.org/wp-content/uploads/2017/09/app-screenshots-1280x720-759x427.jpg" style="width: 700px;"> 
       <p>
       <p>More details in their official website: https://play.google.com/store/apps/details?id=com.arsla.mixiton&hl=en_US </p>
-      <p>
       <br>
       <li><a href = "https://www.carezone.com/">CareZone:</a></li>
       <p>
