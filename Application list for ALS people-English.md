@@ -95,7 +95,7 @@
       </p>
       <br>
       <li><a href = "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess">Voice Access:</a></li>
-      <p><i>Voice Access helps anyone who has difficulty manipulating a touch screen (e.g. due to paralysis, tremor, or temporary injury) use their Android device by voice.</i>
+      <p><i> <p>Voice Access helps anyone who has difficulty manipulating a touch screen (e.g. due to paralysis, tremor, or temporary injury) use their Android device by voice.</i>
 <p><br><b>***Works on Android.***</b>
 <p><br>
          <img src="https://www.ciobulletin.com/assets/home_image/ciobulletin-voice-access-reaches-google-play.jpg" alt="Primer imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://images.fonearena.com/blog/wp-content/uploads/2016/04/Google-Voice-Access-app-2.jpg" alt="Segunda imagen muestra de la aplicacion" style="width: 600px;"> <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201810/voice_access.jpeg" alt="Tercera imagen muestra de la aplicacion" style="width: 600px;">
@@ -173,12 +173,10 @@ Given this situation and call for help many caregivers, the ARSLA wishes to enga
       <br>
       <li><a href = "https://www.carezone.com/">CareZone:</a></li>
       <p>
-         <i>
-            CareZone is a mobile app designed to help individuals and their caregivers manage healthcare and medications from one central platform.
+<i><p>CareZone is a mobile app designed to help individuals and their caregivers manage healthcare and medications from one central platform.
             <p>The app offers features such as medication management tools, scheduling reminders, tracking symptoms, storing and sharing vital health information, and facilitating communication between caregivers.
             <p>It aims to simplify the process of coordinating care and staying organized in the midst of complex medical needs.<p></i>
-      <p>
-      <p><b>***Works on Android.***</b>
+<p><br><b>***Works on Android.***</b>
 <p><br>
          <img src="https://media.licdn.com/dms/image/C5612AQF_Cr_zzujfKw/article-cover_image-shrink_720_1280/0/1520119941314?e=2147483647&v=beta&t=aN7hd6sl__LHS1dMYNwuTbK5uP3x_AdExH-xS00BCHk" alt="Primer imagen muestra de la aplicacion" style="width: 700px;"> 
       <p>
@@ -188,14 +186,13 @@ Given this situation and call for help many caregivers, the ARSLA wishes to enga
       <li><a href = "https://www.lumosity.com/">Lumosity’s Human Cognition Project:</a></li>
             <p>
          <i>
-            Cognitive training is still a relatively new field—which makes it an exciting space for new insights and research.
+<p>Cognitive training is still a relatively new field—which makes it an exciting space for new insights and research.
          <p>That’s why Lumosity conducts cognitive training research and facilitates the research of independent scientists from over 40 universities—all with the goal of deepening our understanding of human cognition.<p>
 The Human Cognition Project (HCP) is our online, collaborative research platform.
       <p>Through the HCP, we grant qualified researchers free access to Lumosity’s cognitive training tasks and research tools, as well as limited access to data on cognitive task performance.
       <p>Individually, these collaborators investigate a wide spectrum of topics that interest them.
       <p>As a whole, we're working together to push the field forward.</i>
-      <p>
-      <p><b>***Works on Android / iPad / iOS .***</b>
+<p><br><b>**Works on Android / iPad / iOS .***</b>
 <p><br>
          <img src="https://images.macrumors.com/t/qoaoIpp_w54j7R2Sr05ccmOaVE4=/1600x/article-new/2016/01/lumosity-800x706.jpg" style="width: 350px;"> <img src="https://onemindpsyberguide.org/wp-content/uploads/2020/05/LumosityScreenShots-1024x540.jpg" style="width: 585px;"> <img src="https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/ZZRMWUs1v65JQd7KQsGxEsyJGQc=/400x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/QKECFOK2ZBT6TDO7K6RNV64U2M.jpg" alt="Tercera imagen muestra de la aplicacion" style="width: 500px;">
       <p>
@@ -203,9 +200,9 @@ The Human Cognition Project (HCP) is our online, collaborative research platform
       <p>More details in their official website: https://www.lumosity.com/ </p>
       <br>
       <li><a href = "https://www.mymsteam.com/">MyMSTeam:</a></li>
-         <p>
+            <p>
          <i>
-            MyMSTeam is the social network for those living with multiple sclerosis.
+<p>MyMSTeam is the social network for those living with multiple sclerosis.
          <p>Get the emotional support you need from others like you, and gain practical advice and insights on managing treatment or therapies for multiple sclerosis.
          <p>MyMSTeam is the only social network where you can truly connect, make real friendships, and share daily ups and downs in a judgment-free place. </i>
       <p>
@@ -217,9 +214,9 @@ The Human Cognition Project (HCP) is our online, collaborative research platform
       <p>More details in their official website: https://www.mymsteam.com/ </p>
       <br>
       <li><a href = "https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953">Multiple Sclerosis @POC:</a></li>
-         <p>
+            <p>
          <i>
-            @Point of Care™ With Cognitive AI is a clinical decision-making mobile platform.
+<p>@Point of Care™ With Cognitive AI is a clinical decision-making mobile platform.
             <p>Multiple Sclerosis @Point of Care™ provides a streamlined clinical decision support tool for clinicians to obtain content when it is needed—enabling better decisions, better outcomes, and better care.<p>
 With Cognitive AI, clinicians use @Point of Care to easily access curated, evidence-based, and disease-specific medical content.
             <p>Clinicians navigate content by asking voice-enabled natural language questions.
@@ -259,8 +256,9 @@ Features:
       <p>More details in their official website: https://apps.apple.com/us/app/multiple-sclerosis-poc/id368515953 </p>
       <br>
       <li><a href = "https://apps.apple.com/us/app/noteness/id639289114">Noteness:</a></li>
-         <p>
-         <i>         
+            <p>
+         <i>
+<p>       
 Noteness is a modern, fast and easy to use Multiple Sclerosis diary App. Noteness is tailored to the requirements of a MS-Diary and goes without unnecessary gimmicks.
 <p>
 - Entries:
@@ -288,8 +286,9 @@ Export your data via PDF or by E-Mail.
       <p>More details in their official website: https://apps.apple.com/us/app/noteness/id639289114 </p>
       <br>
       <li><a href = "https://apps.apple.com/us/app/letmetalk/id919990138">LET ME TALK:</a></li>
-         <p>
+            <p>
          <i>
+<p>
 A free AAC talker app supports communication in all areas of life and therefore providing a voice to everyone. LetMeTalk is donation financed.<p>
 LetMeTalk enables you to line up images in a meaningful way to read this row of images as a sentence. To line up images is known as AAC (Augmentative and Alternative Communication).<p>
 The image database of LetMeTalk contains more than 9,000 easy to understand images from ARASAAC (http://arasaac.org). Additionally, you can add existing images from the device or take new photos with the build in camera.<p>
@@ -326,8 +325,9 @@ Features:
       <p>More details in their official website: https://apps.apple.com/tr/app/letmetalk/id919990138</p>
       <br>
       <li><a href = "https://www.symbotalk.com/">SYMBOTALK:</a></li>
-         <p>
+            <p>
          <i>
+<p>
             SymboTalk is a free app that talks for you by clicking on symbols (images or icons).
          <p>The app has predefined communication boards from different areas of life, each board contains symbols (images).
          <p>Clicking on a symbol reads it aloud and adds it to a sentence that can also be read.
@@ -369,8 +369,9 @@ The app is designed for those whose physical or mental condition does not allow 
       <p>More details in their official website: https://www.symbotalk.com/ </p>
       <br>
       <li><a href = "https://www.eneso.es/verbo/">ENESO VERBO:</a></li>
-         <p>
+            <p>
          <i>
+<p>
             Verbo is an application for Windows and Android to create communication boards and educational activities quickly and intuitively.
          <p>Combine pictograms, text, sounds and voice to design your ideal communicator, or take advantage of the resources that other users have shared . There are hundreds of boards and activities that you can use freely.<p>
   Verbo is compatible with most access systems for computer and tablet: eye trackers for gaze control, switches for scan access, head mice, interactive whiteboards, touch screens... No matter your degree of mobility is, Verbo will adapt to provide you with a comfortable and functional communication.<p></i>
