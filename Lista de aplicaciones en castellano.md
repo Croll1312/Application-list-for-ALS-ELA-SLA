@@ -191,12 +191,12 @@ Multiple Sclerosis @Point of Care™ proporciona una herramienta de apoyo a la t
 Con IA cognitiva, los médicos utilizan @Point of Care para acceder fácilmente a contenido médico específico de enfermedades, basado en evidencia y seleccionado por expertos.<p>
 Los médicos pueden navegar por el contenido formulando preguntas con lenguaje natural activado por voz.<p>
 Con IA cognitiva, las respuestas con calificación de confianza para incorporar rápidamente las mejores opciones de tratamiento se obtienen de manera más rápida y se toman decisiones de manera más eficiente para mejorar los resultados del paciente en el punto de atención.<p>
-<ul><b>Multiple Sclerosis @Point of Care™ está diseñado para:</u> </b>
+<ul> <b> Multiple Sclerosis @Point of Care™ está diseñado para:</b>
 <li>Apoyar el descubrimiento y el cambio en la práctica.</li>
 <li>Proporcionar contenido médico relevante y específico de enfermedades basado en evidencia.</li>
 <li>Mejorar los resultados del paciente en el punto de atención.</li>
 </ul><p>
-<ul><b>Características:</b> </u>
+<ul><b>Características:</b>
 <li>Contenido de esclerosis múltiple actualizado continuamente.</li>
 <li>Temas sobre diagnóstico, tratamiento y manejo del cuidado desarrollados por médicos expertos.</li>
 <li>Estudios de casos, videos y entrevistas.</li>
@@ -227,7 +227,7 @@ Noteness es una aplicación moderna, rápida y fácil de usar de diario de Escle
 <ul>-Crea recordatorios para tus inyecciones. Los recordatorios pueden programarse para todos los días, cada segundo día y para días personalizados de la semana.</ul></ul>
 <p>
 <ul><b>*Exportar:</b>
-<ul>-Exporta tus datos en formato PDF o por correo electrónico.</ul><p></i></ul>
+<i>-Exporta tus datos en formato PDF o por correo electrónico.<p></i></ul>
 <br>
   <p><b>***Funciona en iPhone/iPad.***</b>
 <p><br>
@@ -244,7 +244,7 @@ LetMeTalk es financiada mediante donaciones. <p>
 LetMeTalk te permite alinear imágenes de manera significativa para leer esta fila de imágenes como una oración. <p>
 Alinear imágenes se conoce como AAC (Comunicación Aumentativa y Alternativa). <p>
 La base de datos de imágenes de LetMeTalk contiene más de 9,000 imágenes de fácil comprensión de ARASAAC ( http://arasaac.org ). <p>Además, puedes agregar imágenes existentes desde el dispositivo o tomar nuevas fotos con la cámara incorporada.<p>Para utilizar LetMeTalk no se necesita conexión a internet ni contrato móvil, por lo que puedes usar LetMeTalk en casi cualquier situación, como hospitales, hogares de ancianos o escuelas.<p>
-<b><ul>*Adecuado para:</b>
+<ul><b>*Adecuado para:</b>
 <li>Síntomas de autismo y síndrome de Asperger, trastorno del espectro autista (TEA).</li>
 <li>Afasia.</li>
 <li>Apraxia del habla.</li>
@@ -253,7 +253,7 @@ La base de datos de imágenes de LetMeTalk contiene más de 9,000 imágenes de f
 <li>Enfermedad de las neuronas motoras (ENM).</li>
 <li>Parálisis cerebral.</li>
 <li>Síndrome de Down.</li></ul>
-<b><p><ul>*Características:</b>
+<ul><b><p>*Características:</b>
 <li>Más de 9,000 imágenes de ARASAAC incluidas.</li>
 <li>Compatibilidad con voz para imágenes y oraciones.</li>
 <li>Creación ilimitada y flexible de nuevas categorías y agregado de nuevas imágenes.</li>
@@ -344,7 +344,6 @@ Las imágenes de las tareas ya realizadas se irán hacia la parte inferior de la
       <p>
       <p>
       <p>Más detalles en su web oficial: https://www.pictogramagenda.es/en/pictogramagenda-en/ </p>
-   </ol>
 <p><br>
    <b>***Sigo trabajando en este repositorio para ayudar a cualquiera que lo necesite.***</b>
    <br>
