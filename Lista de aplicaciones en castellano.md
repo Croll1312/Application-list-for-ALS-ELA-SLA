@@ -227,7 +227,7 @@ Noteness es una aplicación moderna, rápida y fácil de usar de diario de Escle
 <ul>-Crea recordatorios para tus inyecciones. Los recordatorios pueden programarse para todos los días, cada segundo día y para días personalizados de la semana.</ul></ul>
 <p>
 <ul><b>*Exportar:</b>
-<i>-Exporta tus datos en formato PDF o por correo electrónico.<p></i></ul>
+<i> -Exporta tus datos en formato PDF o por correo electrónico. </i> </ul><p> </i>
 <br>
   <p><b>***Funciona en iPhone/iPad.***</b>
 <p><br>
@@ -345,5 +345,5 @@ Las imágenes de las tareas ya realizadas se irán hacia la parte inferior de la
       <p>
       <p>Más detalles en su web oficial: https://www.pictogramagenda.es/en/pictogramagenda-en/ </p>
 <p><br>
-   <b>***Sigo trabajando en este repositorio para ayudar a cualquiera que lo necesite.***</b>
+   <i><h3><b>***Sigo trabajando en este repositorio para ayudar a cualquiera que lo necesite.***</b></h3></i>
    <br>
