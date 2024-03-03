@@ -49,7 +49,7 @@ Este proyecto es sin fines de lucro, el único objetivo es colaborar con la inse
     <p>
     <i>Projet réalisé par des membres de la communauté informatique "WolfPunk IT".</i>
     <p>
-    <h3><a href="https://github.com/Croll1312/Application-list-for-ALS-ELA-SLA/blob/main/Liste%20des%20applications%20pour%20les%20personnes%20atteintes%20de%20SLA%20et%20d'autres%20conditions.md">***Liste des applications (En cours de traduction des détails).***</a></h3>
+    <h3><a href="https://github.com/Croll1312/Application-list-for-ALS-ELA-SLA/blob/main/Liste%20des%20applications%20pour%20les%20personnes%20atteintes%20de%20SLA%20et%20d'autres%20conditions.md">***Liste des applications.***</a></h3>
     <br>
     </li>
     <br>
@@ -69,7 +69,7 @@ Este proyecto es sin fines de lucro, el único objetivo es colaborar con la inse
     <p>
     <i>Progetto realizzato da membri della comunità informatica "WolfPunk IT".</i>
     <p>
-    <h3>***Elenco delle applicazioni (Lavorando sulla traduzione dei dettagli).***</h3>
+    <h3><a href="https://github.com/Croll1312/Application-list-for-ALS-ELA-SLA/blob/main/Elenco%20delle%20applicazioni%20su%20Italian.md">***Elenco delle applicazioni.***</a></h3>
     <br>
     </li>
     </ol>
